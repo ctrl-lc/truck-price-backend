@@ -1,12 +1,8 @@
-/.bigmler
-/.bigmler_deepnet
-/.bigmler_deepnet_dir_stack
-/.bigmler_dirs
-/.bigmler_dir_stack
+/.bigmler**
+/bigmler**
 /.pytest_cache
-/bigmler_sessions
 /data
-/log.log
+/*.log
 /storage
 /temp
 /__pycache__

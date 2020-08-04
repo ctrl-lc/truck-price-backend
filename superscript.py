@@ -9,6 +9,7 @@ def main():
         import process_comments
     with timer('===== Этап 4 - финальная подготовка ====='):
         import final_preparation
+    log('ALL DONE!!!')
 
 try:
     exit(main())
