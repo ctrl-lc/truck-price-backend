@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "best-trucks",
+  "private_key_id": "d91b7b438b2e80507b4db3b29e1426e2b8378c8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPDric1APICAkY\n8TyrHLo8LVvFzsBXnhxu5U/w++i8EkXVltQFBPrX1woG+UHUWNdfj+lqPt4/Yvvp\ngZV91zWUkVWs37sHIU3m2h/bBSgF6ya6Ogj3/+d4ZHlYU4QZD1iRuX10DzcEiR5W\nH83R6HLfsnEiIXHGHzwaEDVye9bD0zt4wiXqoGrjoqqajlUrNVg6HOHFeWd4nN7r\noUECC7V5VcgTs5G+NlNkgo1MFg5LOtbEgOreo+InepcZNObcQbDp5KdSUNjfzdNX\nn3NS+1sgbBVxLSwD/PquC1xJ3jMuAZ4NrfwYcWnwoCQaAjaGKc3k+sFsa/sNgcq1\n5G7CXryDAgMBAAECggEADMuqGPb5LNliRopR53klAScEbtryA/gfZbMCF7BZl5XB\nfwuNGqpOHhyJ4BhzOv4qgRtRn2E3Ns+VJb7+UAKGqyG4G7DPzAcA221LXquY55S6\nlfOULk9ALK542T6AAVRzcr31xMBT9BHNMCFTBM/KmYxbdXJ/p3CytCGgS+zfPsao\ngOyw4FxIxZ5mVIKVu68uQ7bntl4dedLiWMhrkCW8yDG7KuF2DZY45wLtxaKKe94y\nZeSdtkT+5Dhn52MEYf5TQsy9NG8Rg9BSH613KagGAT6bW2JgYwTl8ml3VpiMNQRm\n8zv75WPmOFEQvbaqaiTWnD4DCu8xoxaggNkUQXSnUQKBgQDwPcM+jqEK1FHTZSJ5\nPSnGSApg7yy7C0J0dozC0YhdTI8n6eWkFRMdutIuM3dbGJT4casND4zD3OLsVwI+\niS4FH3VyaIy65KdjkggQshUrCjHDCdGfnsv7VCy2L9QppWMjK8Raic1MFzCiPgvF\njqDes9bt3gJc9F2VlnTJzrBibQKBgQDco7jhOYm7uGQvpR5ZMd/1YaCCRhDCrk9o\nE4/bUzJAKNMOHByAnuFQYsc0NEk7lDNxF1qh1HtLucKD9fjFlwvA9UprErV0pjTa\nN6Xe1AYxhhIVFzlt92C5GvMlBfIX2LsNjWe5/uotgwJ3cY4CrYAJi53+OfL/7eOi\nAN5x2DDErwKBgQCF4FUyQjc6GrFylTRNzai+5xxpgj8yCIdC8WFlm3BbVbOc8XnY\nIypg8d/4gROtPxidDnLct2KhLzGBtMb6ZGWx0yMW2245I/ynvxQhgavMLUUnxAv9\n4HcZmoHEEQkxIAoL6nLkZVBza6TddKgIsn+xOxS1v3cfp8mS96IjZ7vhTQKBgQC4\n6oZyTJTAvYNJ4ysSOhinQRES3cICR7DJW0u/13RQDWcFdk31BjNz+bVWbVPLGSQb\n7iTJaJmFF8SMcEP05ei16V5baqylfP7ivKzJmg0uyFyzTGmXXjK0MIADUX5augvb\nCd4bJigByMDydjs8x0h9t4PMo6ijEi8rgWrtIvGMhQKBgAyPJVgCOtCC5Rqg4gTk\ng26hFAs+EYDmF14WuemQHTjGNb8QAjT/k0Xznl13+Lu8OqwuFyy0t7obsSmoHTFp\nERWpoaTq4OCF9WLkrQFWXB96HWpIlCwrqmEFNJToqfXeoexRUWP+R1mta4nc11lr\nFnmzzAR6YUnB9qpHenBtwkAV\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-axeac@best-trucks.iam.gserviceaccount.com",
+  "client_id": "114168114641569515693",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-axeac%40best-trucks.iam.gserviceaccount.com"
+}
