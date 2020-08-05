@@ -1,12 +1,24 @@
-from subprocess import run
+from subprocess import run, CalledProcessError
 from lxutils.read_config import config
 from lxutils.log import timer, log, log_debug
+from time import monotonic
 
 def run_datacol(file, what_to_gauge = ''):
+    start = monotonic()
     with timer(f'Running datacol file {file}'):
-        run(f'"{config["execs"]["datacol"]}" '
+        '''
+        try:
+            run(f'"{config["execs"]["datacol"]}" '
+            f'config="{config["dirs"]["datacol_campaigns"]}\\{file}" autolaunch',
+                shell=True, encoding='utf-8', check=True)
+        except CalledProcessError:
+            if monotonic() - start < 30:
+                raise
+        '''
+        run(f'cmd.exe "{config["execs"]["datacol"]}" '
         f'config="{config["dirs"]["datacol_campaigns"]}\\{file}" autolaunch',
             shell=True, encoding='utf-8', check=True)
+
 
     if what_to_gauge:
         gauge(what_to_gauge)

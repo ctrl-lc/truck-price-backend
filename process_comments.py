@@ -1,7 +1,7 @@
 from utils import *
 from lxutils import log
 
-for c in config['datacol_comments']:
+for c in config['datacol_comments'].values():
     run_datacol(c)
 
 log('Preparing Data for valuation...')
