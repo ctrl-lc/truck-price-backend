@@ -6,7 +6,6 @@ from time import monotonic
 def run_datacol(file, what_to_gauge = ''):
     start = monotonic()
     with timer(f'Running datacol file {file}'):
-        '''
         try:
             run(f'"{config["execs"]["datacol"]}" '
             f'config="{config["dirs"]["datacol_campaigns"]}\\{file}" autolaunch',
@@ -14,12 +13,6 @@ def run_datacol(file, what_to_gauge = ''):
         except CalledProcessError:
             if monotonic() - start < 30:
                 raise
-        '''
-        run(f'cmd.exe "{config["execs"]["datacol"]}" '
-        f'config="{config["dirs"]["datacol_campaigns"]}\\{file}" autolaunch',
-            shell=True, encoding='utf-8', check=True)
-
-
     if what_to_gauge:
         gauge(what_to_gauge)
 
