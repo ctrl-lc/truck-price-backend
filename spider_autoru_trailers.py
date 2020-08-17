@@ -12,7 +12,7 @@ class TrailersSpider(AutoRuAbstractSpider):
 
     custom_settings = {
         'FEEDS': {
-            pathlib.Path('data/trailers.csv'): {
+            pathlib.Path('data/autoru - trailers.csv'): {
                 'format': 'csv'
             }
         }

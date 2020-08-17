@@ -6,7 +6,7 @@ from time import monotonic
 
 def run_scrapy(file, what_to_gauge = ''):
     with timer(f'Running scrapy file {file}'):
-        run(f'"{config["execs"]["scrapy"]}"', 'runspider', file, encoding='utf-8', check=True)
+        run([config["execs"]["scrapy"], 'runspider', file], encoding='utf-8', check=True)
     if what_to_gauge:
         gauge(what_to_gauge)
 

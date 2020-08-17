@@ -15,7 +15,7 @@ class TrucksSpider(AutoRuAbstractSpider):
 
     custom_settings = {
         'FEEDS': {
-            pathlib.Path('data/trucks.csv'): {
+            pathlib.Path('data/autoru - trucks.csv'): {
                 'format': 'csv'
             }
         }
