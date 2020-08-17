@@ -3,16 +3,10 @@ from lxutils.read_config import config
 from lxutils.log import timer, log, log_debug
 from time import monotonic
 
-def run_datacol(file, what_to_gauge = ''):
-    start = monotonic()
-    with timer(f'Running datacol file {file}'):
-        try:
-            run(f'"{config["execs"]["datacol"]}" '
-            f'config="{config["dirs"]["datacol_campaigns"]}\\{file}" autolaunch',
-                shell=True, encoding='utf-8', check=True)
-        except CalledProcessError:
-            if monotonic() - start < 30:
-                raise
+
+def run_scrapy(file, what_to_gauge = ''):
+    with timer(f'Running scrapy file {file}'):
+        run(f'"{config["execs"]["scrapy"]}"', 'runspider', file, encoding='utf-8', check=True)
     if what_to_gauge:
         gauge(what_to_gauge)
 
@@ -43,6 +37,7 @@ def run_bigmler(section_label, delimiter=','):
     with timer(f'Running bigmler: {input_file} -> {output_file}'):
         run(args, check=True)
     gauge(output_file)
+
 
 def gauge(file):
     with open(f'{config["dirs"]["data"]}\\{file}', encoding='utf-8') as f:
