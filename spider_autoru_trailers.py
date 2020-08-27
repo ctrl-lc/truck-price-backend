@@ -14,7 +14,9 @@ class TrailersSpider(AutoRuAbstractSpider):
         'FEEDS': {
             pathlib.Path('data/autoru - trailers.csv'): {
                 'format': 'csv'
-            }
+            },
+        'LOG_FILE': 'scapy.log',
+        'LOG_ENABLED': True
         }
     }
 

@@ -18,7 +18,9 @@ class TrucksSpider(AutoRuAbstractSpider):
             pathlib.Path('data/autoru - trucks.csv'): {
                 'format': 'csv'
             }
-        }
+        },
+        'LOG_FILE': 'scapy.log',
+        'LOG_ENABLED': True
     }
 
 

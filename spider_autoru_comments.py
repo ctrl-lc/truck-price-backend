@@ -13,7 +13,9 @@ class CommentsSpider(scrapy.Spider):
             pathlib.Path('data/comments - auto.ru - results.csv'): {
                 'format': 'csv'
             }
-        }
+        },
+        'LOG_FILE': 'scapy.log',
+        'LOG_ENABLED': True
     }
 
 

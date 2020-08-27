@@ -6,3 +6,5 @@
 /storage
 /temp
 /__pycache__
+/*.log.1
+.vscode/**
