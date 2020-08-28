@@ -14,7 +14,7 @@ def clear_scrapy_result_files():
             os.remove(config['dirs']['data'] + '\\' + f)
             log(f"File '{f}' deleted'")
         except:
-            exception(f"File '{f}' not found'")
+            log(f"File '{f}' not found'")
 
 
 def main():

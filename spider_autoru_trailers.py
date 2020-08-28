@@ -1,4 +1,3 @@
-import scrapy
 import pathlib
 from spider_autoru_abstract import AutoRuAbstractSpider
 
@@ -14,10 +13,11 @@ class TrailersSpider(AutoRuAbstractSpider):
         'FEEDS': {
             pathlib.Path('data/autoru - trailers.csv'): {
                 'format': 'csv'
-            },
+            }
+        },
         'LOG_FILE': 'scapy.log',
-        'LOG_ENABLED': True
-        }
+        'LOG_ENABLED': True,
+        'LOG_LEVEL': 'INFO'
     }
 
 

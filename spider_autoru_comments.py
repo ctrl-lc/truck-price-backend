@@ -1,8 +1,9 @@
-import scrapy
 import pandas as pd
 import pathlib
 
-class CommentsSpider(scrapy.Spider):
+from spider_autoru_abstract import AutoRuAbstractSpider
+
+class CommentsSpider(AutoRuAbstractSpider):
 
     name = 'comments'
     
@@ -15,7 +16,8 @@ class CommentsSpider(scrapy.Spider):
             }
         },
         'LOG_FILE': 'scapy.log',
-        'LOG_ENABLED': True
+        'LOG_ENABLED': True,
+        'LOG_LEVEL': 'INFO'
     }
 
 

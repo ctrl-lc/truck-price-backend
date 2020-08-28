@@ -1,9 +1,13 @@
 import scrapy
-import pathlib
 
 class AutoRuAbstractSpider(scrapy.Spider):
 
+    def start_requests(self):
+        for u in self.start_urls:
+            yield scrapy.Request(u, errback=self.errback)
+
     def parse(self, response):
+        self.check_for_captcha(response)
         for ad in self.get_ads(response):
             yield self.parse_ad(ad)
 
@@ -11,6 +15,14 @@ class AutoRuAbstractSpider(scrapy.Spider):
         if next_page is not None:
             yield response.follow(next_page, self.parse)
         
+    def check_for_captcha(self, response):
+        if response.css("title::text").get() == "Ой!":
+            raise ValueError('Got a captcha')
+        
+    def errback(self, failure):
+        # log all failures
+        self.logger.error(repr(failure))
+
     def get_ads(self, response):
         return response.css('.ListingCars-module__list .ListingItem-module__container')
     

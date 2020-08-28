@@ -1,4 +1,3 @@
-import scrapy
 import pathlib
 from spider_autoru_abstract import AutoRuAbstractSpider
 
@@ -20,7 +19,8 @@ class TrucksSpider(AutoRuAbstractSpider):
             }
         },
         'LOG_FILE': 'scapy.log',
-        'LOG_ENABLED': True
+        'LOG_ENABLED': True,
+        'LOG_LEVEL': 'INFO'
     }
 
 
