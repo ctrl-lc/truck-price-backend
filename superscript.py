@@ -33,6 +33,9 @@ def main():
     with timer('===== Этап 4 - финальная подготовка ====='):
         import final_preparation
 
+    with timer('===== Этап 5 - загрузка ====='):
+        import upload_everything
+
     log('ALL DONE!!!')
 
 try:
