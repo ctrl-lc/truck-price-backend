@@ -6,10 +6,10 @@ class TrucksSpider(AutoRuAbstractSpider):
     name = 'trucks'
     
     start_urls = [
-        'https://auto.ru/rossiya/artic/used/?output_type=list&sort=fresh_relevance_1-desc&year_from=2000&year_to=2004',
-        'https://auto.ru/rossiya/artic/used/?output_type=list&sort=fresh_relevance_1-desc&year_from=2005&year_to=2009',
-        'https://auto.ru/rossiya/artic/used/?output_type=list&sort=fresh_relevance_1-desc&year_from=2009&year_to=2014',
-        'https://auto.ru/rossiya/artic/used/?output_type=list&sort=fresh_relevance_1-desc&year_from=2015'
+        'https://auto.ru/rossiya/artic/all/?output_type=list&sort=fresh_relevance_1-desc&year_from=2000&year_to=2004',
+        'https://auto.ru/rossiya/artic/all/?output_type=list&sort=fresh_relevance_1-desc&year_from=2005&year_to=2009',
+        'https://auto.ru/rossiya/artic/all/?output_type=list&sort=fresh_relevance_1-desc&year_from=2009&year_to=2014',
+        'https://auto.ru/rossiya/artic/all/?output_type=list&sort=fresh_relevance_1-desc&year_from=2015&year_to=2019'
     ]
 
     custom_settings = {
