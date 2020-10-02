@@ -35,6 +35,7 @@ class AutoRuAbstractSpider(scrapy.Spider):
     def extract_common_data(self, ad):
         return {
             'price': ad.css('meta[itemprop="price"]::attr(content)').get(),
+            'vat_included': ad.css('.ListingItem-module__withNds::text').get(),
             'year': ad.css('meta[itemprop="productionDate"]::attr(content)').get(),
             'mileage': ''.join(ad.css('div.ListingItem-module__kmAge::text').re('[0-9]+')),
             'location': ad.css('span.MetroListPlace_nbsp::text').get(),
