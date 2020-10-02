@@ -22,19 +22,19 @@ def main():
         clear_scrapy_result_files()
         
     with timer('===== Этап 1 - парсинг ====='):
-        import parse_offers
+        import s1_parse_offers
 
     with timer('===== Этап 2 - оценка ====='):
-        import evaluate_offers
+        import s2_evaluate_offers
 
     with timer('===== Этап 3 - обработка комментариев ====='):
-        import process_comments
+        import s3_process_comments
 
     with timer('===== Этап 4 - финальная подготовка ====='):
-        import final_preparation
+        import s4_final_preparation
 
     with timer('===== Этап 5 - загрузка ====='):
-        import upload_everything
+        import s5_upload_everything
 
     log('ALL DONE!!!')
 
