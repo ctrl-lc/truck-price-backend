@@ -8,3 +8,5 @@
 /__pycache__
 /*.log.1
 .vscode/**
+*.bigmler
+.vscode/settings.json
