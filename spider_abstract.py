@@ -11,6 +11,7 @@ class AbstractSpider(Spider):
 
     def parse(self, response):
         if self.is_captcha(response):
+            save_page(response.selector.get())
             raise ValueError('Got a captcha')
             
         ads = self.get_ads(response)
@@ -19,11 +20,17 @@ class AbstractSpider(Spider):
             raise RuntimeError('No ads found')
         
         for ad in ads:
-            yield self.parse_ad(ad)
+            record = self.parse_ad(ad)
+            if record:
+                yield record
 
-        next_page = self.get_next_page(response)
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
+        next_pages = self.get_next_page(response)
+        if next_pages is not None:
+            if isinstance(next_pages, str):
+                next_pages = [next_pages]
+            
+            for page in next_pages:
+                yield response.follow(page, self.parse)
 
         
     def is_captcha(self, response):
