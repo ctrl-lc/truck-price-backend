@@ -1,10 +1,13 @@
 /.bigmler**
 /bigmler**
 /.pytest_cache
-/data
 /*.log
 /storage
 /temp
 /__pycache__
 /*.log.1
 .vscode/**
+data/batch_prediction
+data/bigmler_sessions
+data/dataset_test
+data/source_test
