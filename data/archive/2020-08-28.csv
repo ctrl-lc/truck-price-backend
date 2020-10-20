@@ -1,0 +1,973 @@
+﻿Тип ТС;Марка;Модель;Год выпуска;Цена поставщика;Регион склада;URL авто;Пробег;Тип КПП;Колесная формула;Мощность двигателя;Сидений;Спальных мест;Поставщик;Наша расчетная цена;Выгода;Рекомендация;Мин. аванс;Лизинговый платеж 0% / 48 мес.;Качество верификации;Верификация;Федеральный округ
+Рефрижератор;Schmitz Cargobull;SKO;2015;3299777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16482654-44dbfbb0/;500000;;;;;;ТТ777;3290000;-9777;;10;106000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3349777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16400818-d89276e8/;500000;;;;;;ТТ777;3290000;-59777;;10;107000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3950000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16461996-f4fd6386/;;;;;;;Юнион КРОНЕ Кимовск;4110000;160000;;10;126000;;;ЦФО
+Шторный;Krone;SDP 27;2016;1860000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sdp_27/15541866-1012fe6f/;48188;;;;;;АЛЬГА;1800000;-60000;;10;60000;;;СЗФО
+Рефрижератор;Krone;SD;2017;3220000;Михнево;https://auto.ru/trailer/used/sale/krone/sd/16482736-d7bd9089/;550000;;;;;;AVTOKOMMERZ-TRUCKS;3880000;660000;Горячая цена! Срочно брать!;0;103000;0,42146;unclear;
+Шторный;Krone;SDP 27;2015;1840000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sdp_27/15541846-e6af5882/;86922;;;;;;АЛЬГА;1550000;-290000;Цена завышена - можно поторговаться;30;59000;;;СЗФО
+Шторный;Krone;SD;2017;1790000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16546842-284606dd/;150000;;;;;;;1920000;130000;Горячая цена! Срочно брать!;0;57000;;;СЗФО
+Шторный;Krone;SD;2019;2120000;Новосибирск;https://auto.ru/trailer/used/sale/krone/sd/16384204-0f5bc231/;158000;;;;;;Альфа-Лизинг Россия;2020000;-100000;;10;68000;;;СФО
+Рефрижератор;Kögel;SP 24;2017;3499000;Подольск;https://auto.ru/trailer/used/sale/kogel/sp_24/6707352-bcb8/;300000;;;;;;САВВЭЛ;3880000;381000;Горячая цена! Срочно брать!;0;112000;0,36506;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4490000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16543874-81f7d0a2/;;;;;;;ClassTrucks;4250000;-240000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Шторный;Krone;SD;2017;1795000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440174-9f47d6e2/;;;;;;;Юнион КРОНЕ Кимовск;1910000;115000;Горячая цена! Срочно брать!;0;57000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2016;1750000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16491104-9501ef61/;380000;;;;;;Триера Трак;1780000;30000;;10;56000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4490000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16550390-3aa09b1d/;;;;;;;ClassTrucks;4250000;-240000;Цена завышена - можно поторговаться;20;144000;;;УФО
+Шторный;Schmitz Cargobull;SCS;2017;1950000;Зеленоград;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16527434-7bdbb3de/;;;;;;;Global Truck Sales Москва Север;1900000;-50000;;10;62000;;;ЦФО
+Шторный;Krone;SD;2017;1810000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16474236-1a08c790/;150000;;;;;;Группа Милан;1920000;110000;Горячая цена! Срочно брать!;0;58000;;;СЗФО
+Рефрижератор;Kögel;S24;2018;3850000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/s24/16549276-f163a224/;250000;;;;;;ТРАНСАЛЬЯНС Москва;4130000;280000;Горячая цена! Срочно брать!;0;123000;;;ЦФО
+Шторный;Krone;SD;2017;1830000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16275240-ac4856f7/;;;;;;;Группа Милан;1910000;80000;;10;59000;;;СЗФО
+Шторный;Krone;Profi Liner;2017;1850000;Москва;https://auto.ru/trailer/used/sale/krone/profi_liner/16561722-0a4e977c/;30000;;;;;;M7 TRUCK Москва Юг;1950000;100000;Горячая цена! Срочно брать!;0;59000;;;ЦФО
+Шторный;Krone;SD;2017;1920000;Рязань;https://auto.ru/trailer/used/sale/krone/sd/16554956-a0abdc2c/;250000;;;;;;ООО Группа Авто;1920000;0;;10;61000;;;ЦФО
+Шторный;Krone;SD;2017;1669000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440178-76fd1770/;;;;;;;Юнион КРОНЕ Кимовск;1910000;241000;Горячая цена! Срочно брать!;0;53000;1;no_vat;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;3680000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16565028-7cb56a03/;450000;;;;;;;3640000;-40000;;10;118000;;;ЦФО
+Шторный;Krone;SD;2017;1890000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16469208-f4725a30/;;;;;;;Юнион КРОНЕ Кимовск;1910000;20000;;10;60000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;4000000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16450764-631f51f1/;;;;;;;ClassTrucks;3750000;-250000;Цена завышена - можно поторговаться;20;128000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4150000;Рудня;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16547262-90367f00/;399000;;;;;;;3910000;-240000;Цена завышена - можно поторговаться;20;133000;;;
+Рефрижератор;Krone;SD;2018;3790000;Подольск;https://auto.ru/trailer/used/sale/krone/sd/16475050-367ccc07/;100000;;;;;;КомТоргТранс;4190000;400000;Горячая цена! Срочно брать!;0;121000;0,49931;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4500000;Красногорск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16568894-990d5750/;;;;;;;Альфа-Лизинг Москва;4360000;-140000;;10;144000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4450000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16476146-cf514188/;;;;;;;SGM-GROUP;4250000;-200000;;10;142000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3349777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16452752-a3167e1f/;550000;;;;;;ТТ777;3290000;-59777;;10;107000;;;ЦФО
+Шторный;Krone;SD;2017;1950000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16305682-09e600d9/;270568;;;;;;АГТ-Трейдинг;1920000;-30000;;10;62000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2018;1900000;Трёхгорный;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16256668-477b890d/;;;;;;;;1980000;80000;;10;61000;;;
+Шторный;Krone;SD;2017;2030000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16501259-dc57902d/;87000;;;;;;АГТ-Трейдинг;1930000;-100000;Цена завышена - можно поторговаться;20;65000;;;ЦФО
+Бортовой;Kögel;SN24;2016;1680000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/sn24/16499400-fd447fd2/;575000;;;;;;ТРАНСАЛЬЯНС Москва;1760000;80000;;10;54000;;;ЦФО
+Шторный;Krone;SD;2018;2280000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16560748-b7141580/;100000;;;;;;АГТ-Трейдинг;2020000;-260000;Цена завышена - можно поторговаться;20;73000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3450000;Авдон;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16519606-ffd7aeb8/;;;;;;;M7 TRUCK Уфа;3260000;-190000;Цена завышена - можно поторговаться;20;110000;;;ПФО
+Бортовой;Schmitz Cargobull;SCS;2016;1700000;Хоругвино;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16380788-3433c74e/;450000;;;;;;TELS Group;1760000;60000;;10;54000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;3799999;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16303556-f11d2478/;333333;;;;;;Вираж;3750000;-49999;;10;122000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3780000;Подольск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16471798-1a2348f0/;100000;;;;;;КомТоргТранс;3900000;120000;;10;121000;;;ЦФО
+Шторный;Kögel;SN24;2017;1720000;Москва;https://auto.ru/trailer/used/sale/kogel/sn24/15887682-74337381/;140000;;;;;;БорнТракСервис;1880000;160000;Горячая цена! Срочно брать!;0;55000;;;ЦФО
+Рефрижератор;Krone;SD;2018;3899000;Солнечногорск;https://auto.ru/trailer/used/sale/krone/sd/16560362-dcc24e44/;;;;;;;ТРАНСАЛЬЯНС Москва;4280000;381000;Горячая цена! Срочно брать!;0;125000;;;ЦФО
+Рефрижератор;Тонар;9746;2017;2530000;Ростов-на-Дону;https://auto.ru/trailer/used/sale/tonar/9746/16488496-206a1c33/;150000;;;;;;Транзит-Дон Гипермаркет;3030000;500000;Горячая цена! Срочно брать!;0;81000;0,46505;unclear;ЮФО
+Шторный;Kögel;S24;2015;1500000;Хутор Маяковского;https://auto.ru/trailer/used/sale/kogel/s24/16247330-7e5e71e2/;330000;;;;;;ГРИФОН;1500000;0;;10;48000;;;
+Шторный;Krone;SD;2017;1920000;Рязань;https://auto.ru/trailer/used/sale/krone/sd/16544299-e82cd0ef/;250000;;;;;;ООО Группа Авто;1920000;0;;10;61000;;;ЦФО
+Рефрижератор;Krone;SD;2018;3900000;Солнечногорск;https://auto.ru/trailer/used/sale/krone/sd/16549438-bf35e57b/;200000;;;;;;ТРАНСАЛЬЯНС Москва;4140000;240000;Горячая цена! Срочно брать!;0;125000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2017;2070000;Тула;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16429264-becef70b/;;;;;;;;1900000;-170000;Цена завышена - можно поторговаться;20;66000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2017;1790000;Химки;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16466952-f8bc6846/;200000;;;;;;КРОНЕ СканБалт;1890000;100000;Горячая цена! Срочно брать!;0;57000;;;ЦФО
+Шторный;Krone;SD;2019;2140000;Омск;https://auto.ru/trailer/used/sale/krone/sd/16393820-22efc3a9/;125000;;;;;;Альфа-Лизинг Россия;2020000;-120000;Цена завышена - можно поторговаться;20;68000;;;СФО
+Шторный;Krone;SD;2018;2150000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16543920-f707ee04/;130000;;;;;;Триера Трак;2020000;-130000;Цена завышена - можно поторговаться;20;69000;;;ЦФО
+Шторный;Wielton;NW;2017;1779920;Смоленск;https://auto.ru/trailer/used/sale/wielton/nw/16365098-cf2594a3/;250000;;;;;;;1890000;110080;Горячая цена! Срочно брать!;0;57000;1;ok;ЦФО
+Шторный;Schmitz Cargobull;S01;2017;2150000;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16450812-733c20df/;150000;;;;;;Вираж;1900000;-250000;Цена завышена - можно поторговаться;20;69000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;3600000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16413360-5d5d3520/;368720;;;;;;;3650000;50000;;10;115000;;;УФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4400000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570610-beacf274/;390000;;;;;;ГРИН ЛАЙН;4210000;-190000;;10;141000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3299777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16423606-32cab09c/;500000;;;;;;ТТ777;3290000;-9777;;10;106000;;;ЦФО
+Шторный;Krone;SD;2016;1750000;Авдон;https://auto.ru/trailer/used/sale/krone/sd/16283664-d1e8bdba/;30000;;;;;;M7 TRUCK Уфа;1800000;50000;;10;56000;;;ПФО
+Шторный;Schmitz Cargobull;SCB;2017;2150000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16563038-532486c7/;85000;;;;;;АГТ-Трейдинг;1930000;-220000;Цена завышена - можно поторговаться;20;69000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16546240-80636956/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Kögel;S24;2018;3850000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/s24/16549426-cf0421fe/;200000;;;;;;ТРАНСАЛЬЯНС Москва;4140000;290000;Горячая цена! Срочно брать!;0;123000;;;ЦФО
+Шторный;Krone;Profi Liner;2016;1840000;Москва;https://auto.ru/trailer/used/sale/krone/profi_liner/16002942-6fbf2758/;10000;;;;;;M7 TRUCK Москва Юг;1800000;-40000;;10;59000;;;ЦФО
+Шторный;Krone;SD;2016;1990000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16544000-b45f22d3/;280000;;;;;;Триера Трак;1800000;-190000;Цена завышена - можно поторговаться;20;64000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2017;2090000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16557598-334dacc8/;130000;;;;;;Триера Трак;1920000;-170000;Цена завышена - можно поторговаться;20;67000;;;ЦФО
+Шторный;Krone;Profi Liner;2017;1850000;Нижний Новгород;https://auto.ru/trailer/used/sale/krone/profi_liner/16568636-8b95a281/;90000;;;;;;M7 TRUCK Нижний Новгород;1930000;80000;;10;59000;;;ПФО
+Рефрижератор;Kögel;SV24;2018;4000000;Краснодар;https://auto.ru/trailer/used/sale/kogel/sv24/16568544-60c202b7/;150000;;;;;;ЮгТрейлер;4140000;140000;;10;128000;;;ЮФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3900000;Мытищи;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16551172-4d3da5d8/;350000;;;;;;;3910000;10000;;10;125000;;;ЦФО
+Шторный;Krone;SD;2017;1840000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16522072-2190b1ec/;50;;;;;;Юнион КРОНЕ Кимовск;1950000;110000;Горячая цена! Срочно брать!;0;59000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2016;1750000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16559446-6403c4d1/;;;;;;;ГРУЗ СОЮЗ;1800000;50000;;10;56000;;;ЦФО
+Рефрижератор;Krone;SD;2018;3900000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16503196-8e1aa3a3/;150000;;;;;;Mercedes-Benz Financial Services Rus;4140000;240000;Горячая цена! Срочно брать!;0;125000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2016;1750000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16520790-9ec65c1e/;290000;;;;;;Триера Трак;1800000;50000;;10;56000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3349777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16486840-196142ee/;500000;;;;;;ТТ777;3290000;-59777;;10;107000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2018;2090000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16549706-b32576fa/;130000;;;;;;Триера Трак;2000000;-90000;;10;67000;;;ЦФО
+Шторный;Krone;SD;2018;2450000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16552674-aa7bba3d/;71000;;;;;;Группа ГРАССМАНН и ЛОМТЕВ;2020000;-430000;Цена завышена - можно поторговаться;30;78000;;;ЦФО
+Рефрижератор;Тонар;9746;2015;1280000;Белгород;https://auto.ru/trailer/used/sale/tonar/9746/16547428-526c56df/;50000;;;;;;;3270000;1990000;Горячая цена! Срочно брать!;0;41000;0,47619;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16543464-8f3feb87/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3199777;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16549444-516e8d66/;600000;;;;;;ТТ777;3290000;90223;;10;102000;;;ЦФО
+Шторный;Schmitz Cargobull;SCS;2017;1990000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16432330-5b54be6e/;97000;;;;;;Шмитц Каргобулл Руссланд;1930000;-60000;;10;64000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2018;2090000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16552634-68f08a08/;120000;;;;;;Триера Трак;2000000;-90000;;10;67000;;;ЦФО
+Шторный;Тонар;9746;2017;1200000;Ангарск;https://auto.ru/trailer/used/sale/tonar/9746/16455590-f5f30023/;300000;;;;;;;1100000;-100000;Цена завышена - можно поторговаться;20;38000;;;СФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16537008-865bfeff/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Kögel;S24;2018;3790000;Подольск;https://auto.ru/trailer/used/sale/kogel/s24/16460794-b6725f1a/;100000;;;;;;КомТоргТранс;4190000;400000;Горячая цена! Срочно брать!;0;121000;0,48996;unclear;ЦФО
+Шторный;Schmitz Cargobull;SCS;2018;2045000;Тула;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16468462-bdd3f311/;;;;;;;;1980000;-65000;;10;65000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2019;5550000;Москва и Московская область;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16560926-4a01b3e3/;90500;;;;;;;4320000;-1230000;Цена завышена - можно поторговаться;40;178000;;;ЦФО
+Шторный;Schmitz Cargobull;SCS;2015;1450000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16409788-12595380/;500;;;;;;;1510000;60000;;10;46000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3790000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16240500-e10b309f/;;;;;;;Группа Милан;4110000;320000;Горячая цена! Срочно брать!;0;121000;;;СЗФО
+Шторный;Schmitz Cargobull;S01;2016;2000000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/15655718-670a91ca/;223506;;;;;;АГТ-Трейдинг;1800000;-200000;Цена завышена - можно поторговаться;20;64000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4300000;Казань;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16404112-1ce36608/;200000;;;;;;ЗилантМоторс;4170000;-130000;;10;138000;;;ПФО
+Шторный;Schmitz Cargobull;SCB;2019;2350000;Красногорск;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16446858-f78f3804/;20000;;;;;;Вест Групп;2010000;-340000;Цена завышена - можно поторговаться;30;75000;;;ЦФО
+Шторный;Krone;SD;2017;1930000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16569604-6aeccc50/;160000;;;;;;Триера Трак;1920000;-10000;;10;62000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2018;2100000;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16360976-92f6a571/;111111;;;;;;Вираж;2000000;-100000;Цена завышена - можно поторговаться;20;67000;;;СЗФО
+Шторный;Krone;SD;2017;1950000;Екатеринбург;https://auto.ru/trailer/used/sale/krone/sd/16545882-216cf580/;10000;;;;;;Global Truck Sales Екатеринбург;1950000;0;;10;62000;;;УФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16384556-83db2fab/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4490000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16555608-f93613c0/;;;;;;;ClassTrucks;4250000;-240000;Цена завышена - можно поторговаться;20;144000;;;УФО
+Шторный;Schmitz Cargobull;SCS;2019;2758876;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16478046-37ca5b32/;170000;;;;;;ГРИН ЛАЙН;1970000;-788876;Цена завышена - можно поторговаться;50;88000;;;ЦФО
+Бортовой;Kögel;SN24;2015;1495000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/sn24/16543748-e0a35205/;577000;;;;;;ТРАНСАЛЬЯНС Москва;1180000;-315000;Цена завышена - можно поторговаться;40;48000;;;ЦФО
+Шторный;Meusburger;;2015;1650000;Чёрная Грязь;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16555320-d62377e0/;200000;;;;;;M7 TRUCK Москва;1510000;-140000;Цена завышена - можно поторговаться;20;53000;;;ЦФО
+Шторный;Krone;SD;2016;1780000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440158-61c6fdb6/;;;;;;;Юнион КРОНЕ Кимовск;1800000;20000;;10;57000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16537010-d04f8ccf/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Krone;SD;2017;3970000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16528832-eafa50ac/;50;;;;;;Юнион КРОНЕ Кимовск;4270000;300000;Горячая цена! Срочно брать!;0;127000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3750000;Набережные Челны;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16509156-9ec3e07f/;350000;;;;;;АТРАКС;3910000;160000;;10;120000;;;ПФО
+Шторный;Krone;SD;2016;1727000;Зеленоград;https://auto.ru/trailer/used/sale/krone/sd/16192972-c68db036/;;;;;;;Global Truck Sales Москва Север;1800000;73000;;10;55000;;;ЦФО
+Шторный;Krone;SD;2018;1980000;Владимир;https://auto.ru/trailer/used/sale/krone/sd/16153462-c49f5ea0/;70000;;;;;;;2020000;40000;;10;63000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3890000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16463296-73386bcc/;;;;;;;Юнион КРОНЕ Кимовск;4110000;220000;Горячая цена! Срочно брать!;0;124000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2019;5339760;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570604-4940f865/;250000;;;;;;ГРИН ЛАЙН;4210000;-1129760;Цена завышена - можно поторговаться;40;171000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3620000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16463302-eab8f648/;;;;;;;Юнион КРОНЕ Кимовск;4110000;490000;Горячая цена! Срочно брать!;0;116000;0,33027;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16535082-ee9167c4/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3250000;Нижний Новгород;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16389240-a3cadc2e/;500000;;;;;;;3290000;40000;;10;104000;;;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4400000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16441622-44028747/;400000;;;;;;"ООО ""РЕД СТАР"" МАЗ Смоленск";4210000;-190000;;10;141000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3190000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16404736-91339da7/;600000;;;;;;;3290000;100000;;10;102000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2018;2100000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16392194-d02cf13b/;55000;;;;;;АГТ-Трейдинг;2000000;-100000;Цена завышена - можно поторговаться;20;67000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4300000;Казань;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16504542-31388a12/;300000;;;;;;ЗилантМоторс;4220000;-80000;;10;138000;;;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4650000;Домодедово;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16560162-59f8af4e/;170000;;;;;;СТТ-АВТО;3860000;-790000;Цена завышена - можно поторговаться;30;149000;;;ЦФО
+Шторный;Krone;SD;2017;2020000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16353998-14d454a2/;246357;;;;;;АГТ-Трейдинг;1920000;-100000;Цена завышена - можно поторговаться;20;65000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2017;2150000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16561492-0781d549/;160000;;;;;;Триера Трак;1900000;-250000;Цена завышена - можно поторговаться;20;69000;;;ЦФО
+Шторный;Kögel;SN24;2018;2300000;Новосибирск;https://auto.ru/trailer/used/sale/kogel/sn24/16568700-1af04b83/;11000;;;;;;Авторынок МАКСКАР;1980000;-320000;Цена завышена - можно поторговаться;30;74000;;;СФО
+Шторный;Krone;SD;2017;1860000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16546808-dbc26467/;130000;;;;;;Триера Трак;1930000;70000;;10;60000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3990000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16411346-a7e62d29/;;;;;;;Группа Милан;4110000;120000;;10;128000;;;СЗФО
+Шторный;Meusburger;;2015;1650000;Зеленоград;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16528560-b44df8cc/;;;;;;;Global Truck Sales Москва Север;1510000;-140000;Цена завышена - можно поторговаться;20;53000;;;ЦФО
+Рефрижератор;Kögel;S24;2018;3830000;Подольск;https://auto.ru/trailer/used/sale/kogel/s24/16463836-c7924692/;90000;;;;;;КомТоргТранс;4230000;400000;Горячая цена! Срочно брать!;0;123000;0,51501;unclear;ЦФО
+Шторный;Krone;SD;2018;2050000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16061632-c8378c45/;53601;;;;;;АГТ-Трейдинг;2030000;-20000;;10;66000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3750000;Набережные Челны;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16504530-2e1f0ffc/;300000;;;;;;АТРАКС;3930000;180000;;10;120000;;;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3400000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16226288-65d51679/;;;;;;;Шмитц Каргобулл Руссланд;3260000;-140000;;10;109000;1;ok;ЦФО
+Шторный;Schmitz Cargobull;SCS Mega;2015;1380000;Дурыкино;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16553162-da914b14/;700000;;;;;;VEGA;1490000;110000;Горячая цена! Срочно брать!;0;44000;;;
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16555618-64d83088/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;ЦФО
+Шторный;Schmitz Cargobull;SCS;2015;1450000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16005796-3667d5f5/;600000;;;;;;;1490000;40000;;10;46000;1;unclear;ЦФО
+Шторный;Schmitz Cargobull;S01;2017;1950000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16221330-fb6618b3/;110569;;;;;;АГТ-Трейдинг;1920000;-30000;;10;62000;1;ok;ЦФО
+Шторный;Krone;SD;2017;1920000;Рязань;https://auto.ru/trailer/used/sale/krone/sd/16550990-c4a19e00/;200000;;;;;;ООО Группа Авто;1920000;0;;10;61000;;;ЦФО
+Рефрижератор;Krone;SD;2018;5170000;Ольша;https://auto.ru/trailer/used/sale/krone/sd/10681823-475ffe4d/;100000;;;;;;Бест Транс;4190000;-980000;Цена завышена - можно поторговаться;30;165000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2017;1790000;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16461016-66802942/;1000;;;;;;M7 TRUCK Санкт-Петербург;1950000;160000;Горячая цена! Срочно брать!;0;57000;;;СЗФО
+Шторный;Kögel;S24;2016;1850000;Брянск;https://auto.ru/trailer/used/sale/kogel/s24/16561996-c4ae3775/;280000;;;;;;;1800000;-50000;;10;59000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2016;1780000;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16541558-f0b73b39/;;;;;;;Группа Милан;1800000;20000;;10;57000;;;СЗФО
+Шторный;Krone;Mega Liner;2017;2100000;Москва;https://auto.ru/trailer/used/sale/krone/mega_liner/15498663-14f37bca/;46000;;;;;;Группа ГРАССМАНН и ЛОМТЕВ;1940000;-160000;Цена завышена - можно поторговаться;20;67000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2016;1750000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16470638-498e33ee/;330000;;;;;;Триера Трак;1790000;40000;;10;56000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3550000;Рязань;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16408762-91d0af15/;300000;;;;;;ООО Группа Авто;3290000;-260000;Цена завышена - можно поторговаться;20;114000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4538796;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16431050-21c2518d/;;;;;;;СГМ - ГРУПП;4250000;-288796;Цена завышена - можно поторговаться;20;145000;;;ЦФО
+Шторный;Krone;Profi Liner;2018;2230000;;https://auto.ru/trailer/used/sale/krone/profi_liner/16568682-b6c7898e/;;;;;;;M7 TRUCK Набережные Челны;2010000;-220000;Цена завышена - можно поторговаться;20;71000;;;
+Шторный;Schmitz Cargobull;SCB;2017;1790000;Санкт-Петербург;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16460948-cf9901da/;1000;;;;;;M7 TRUCK Санкт-Петербург;1950000;160000;Горячая цена! Срочно брать!;0;57000;;;СЗФО
+Шторный;Krone;SD;2017;3790000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16250184-15652a1f/;223000;;;;;;Группа Милан;1920000;-1870000;Цена завышена - можно поторговаться;110;121000;1;ok;СЗФО
+Бортовой;Kögel;S24;2015;1500000;Хоругвино;https://auto.ru/trailer/used/sale/kogel/s24/16380816-a8bf5dc4/;450000;;;;;;TELS Group;1180000;-320000;Цена завышена - можно поторговаться;40;48000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16555610-888d4851/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;УФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3750000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16503214-1b71ff01/;300000;;;;;;Mercedes-Benz Financial Services Rus;3930000;180000;;10;120000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2016;1750000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16562250-4f062318/;;;;;;;ГРУЗ СОЮЗ;1800000;50000;;10;56000;;;ЦФО
+Шторный;Krone;SD;2018;1850000;Омск;https://auto.ru/trailer/used/sale/krone/sd/16549174-081f05c8/;140000;;;;;;;2020000;170000;Горячая цена! Срочно брать!;0;59000;;;СФО
+Шторный;Kässbohrer;Maxima XS Domestic;2015;1430000;Санкт-Петербург;https://auto.ru/trailer/used/sale/kaessbohrer/msxima_xs_domestic/16513452-53e88d79/;;;;;;;Global Truck Sales Санкт-Петербург;1510000;80000;Горячая цена! Срочно брать!;0;46000;;;СЗФО
+Шторный;Krone;SD;2017;2150000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16552700-b6143189/;160000;;;;;;Триера Трак;1920000;-230000;Цена завышена - можно поторговаться;20;69000;;;ЦФО
+Шторный;Krone;SD;2017;1795000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16512570-d6f2a961/;20;;;;;;Юнион КРОНЕ Кимовск;1950000;155000;Горячая цена! Срочно брать!;0;57000;;;ЦФО
+Шторный;Meusburger;;2015;1650000;Чёрная Грязь;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16560518-5e24c2da/;200000;;;;;;M7 TRUCK Москва;1510000;-140000;Цена завышена - можно поторговаться;20;53000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4490000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570668-f5d37153/;;;;;;;ClassTrucks;4250000;-240000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Шторный;Krone;SD;2017;1820000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440154-118f4d3f/;;;;;;;Юнион КРОНЕ Кимовск;1910000;90000;;10;58000;;;ЦФО
+Шторный;Krone;SD;2018;1930000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/sd/16520752-91877b28/;80500;;;;;;Группа Милан;2020000;90000;;10;62000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3895000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16414804-0844934b/;420000;;;;;;ГРИН ЛАЙН;3910000;15000;;10;125000;;;ЦФО
+Шторный;Krone;SD;2017;1729000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16512620-f8aa2f91/;20;;;;;;Юнион КРОНЕ Кимовск;1950000;221000;Горячая цена! Срочно брать!;0;55000;0,41768;unclear;ЦФО
+Рефрижератор;Krone;Cool Liner;2018;3950000;Набережные Челны;https://auto.ru/trailer/used/sale/krone/cool_liner/16424226-7b379ca6/;;;;;;;M7 TRUCK Набережные Челны;4280000;330000;Горячая цена! Срочно брать!;0;126000;;;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3290000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16071044-beed4361/;600000;;;;;;;3290000;0;;10;105000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16555612-a411a2cb/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2020;4900000;Казань;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16542640-dc110d51/;48000;;;;;;ЗилантМоторс;4920000;20000;;10;157000;;;ПФО
+Рефрижератор;Kögel;S24;2017;3490000;Дзержинск;https://auto.ru/trailer/used/sale/kogel/s24/16503260-b8b7ba1b/;500000;;;;;;Приволжье-ТрансСервис НН;3880000;390000;Горячая цена! Срочно брать!;0;112000;0,35092;unclear;ПФО
+Шторный;Wielton;NS;2015;1490000;Дубровки;https://auto.ru/trailer/used/sale/wielton/ns/16412762-dc466eee/;380000;;;;;;Триера Трак;1490000;0;;10;48000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3670000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16461990-89bf815b/;;;;;;;Юнион КРОНЕ Кимовск;4110000;440000;Горячая цена! Срочно брать!;0;117000;0,30846;unclear;ЦФО
+Шторный;Kögel;SN24;2015;1499000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/sn24/16485238-fb810866/;140000;;;;;;ТРАНСАЛЬЯНС Москва;1510000;11000;;10;48000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4700000;Домодедово;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16552548-1df5369e/;160000;;;;;;СТТ-АВТО;3860000;-840000;Цена завышена - можно поторговаться;30;150000;;;ЦФО
+Шторный;Krone;SD;2017;1920000;Рязань;https://auto.ru/trailer/used/sale/krone/sd/16457810-45a0d7c9/;200000;;;;;;ООО Группа Авто;1920000;0;;10;61000;;;ЦФО
+Рефрижератор;Krone;Cool Liner;2018;3950000;Авдон;https://auto.ru/trailer/used/sale/krone/cool_liner/16491440-02c2b04e/;;;;;;;M7 TRUCK Уфа;4280000;330000;Горячая цена! Срочно брать!;0;126000;;;ПФО
+Шторный;Meusburger;;2015;1650000;Москва;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16500127-e79670de/;650000;;;;;;Шмитц Каргобулл Руссланд;1490000;-160000;Цена завышена - можно поторговаться;20;53000;;;ЦФО
+Шторный;Meusburger;;2017;1650000;Дубровки;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16542668-6c81c631/;180000;;;;;;Триера Трак;1890000;240000;Горячая цена! Срочно брать!;0;53000;0,4228;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3820000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570002-e8b62128/;;;;;;;SGM-GROUP;4250000;430000;Горячая цена! Срочно брать!;0;122000;0,35249;unclear;ЦФО
+Рефрижератор;Krone;SD;2017;3600000;Воронеж;https://auto.ru/trailer/used/sale/krone/sd/16535706-c0034f02/;2200;;;;;;;4270000;670000;Горячая цена! Срочно брать!;0;115000;0,42508;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4200000;Каменск-Шахтинский;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16558436-f8700461/;65000;;;;;;Мега-Транзит;5390000;1190000;Горячая цена! Срочно брать!;0;134000;0,36324;unclear;ЮФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16567998-af4737c3/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;УФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3450000;Новониколаевский;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16431412-09783996/;490000;;;;;;M7 TRUCK Казань;3290000;-160000;;10;110000;;;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4490000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16362064-7c44b256/;;;;;;;ClassTrucks;4250000;-240000;Цена завышена - можно поторговаться;20;144000;1;unclear;СЗФО
+Шторный;Krone;Profi Liner;2017;2030000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/profi_liner/16226466-579c7d06/;222222;;;;;;Вираж;1920000;-110000;Цена завышена - можно поторговаться;20;65000;1;ok;СЗФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3900000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478080-17ffa5d9/;460000;;;;;;ГРИН ЛАЙН;3910000;10000;;10;125000;;;ЦФО
+Шторный;Krone;SD;2017;2030000;Москва;https://auto.ru/trailer/used/sale/krone/sd/16231900-b3860300/;100568;;;;;;АГТ-Трейдинг;1930000;-100000;Цена завышена - можно поторговаться;20;65000;1;ok;ЦФО
+Шторный;Koluman;;2018;799000;Нижний Новгород;https://auto.ru/trailer/used/sale/koluman/polupricep_shtorniy/16527122-7e7f2d33/;;;;;;;;1870000;1071000;Горячая цена! Срочно брать!;0;26000;1;unclear;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16535080-eeeee73b/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Шторный;Krone;SD;2017;1840000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16522064-b2ba3dd9/;50;;;;;;Юнион КРОНЕ Кимовск;1950000;110000;Горячая цена! Срочно брать!;0;59000;;;ЦФО
+Рефрижератор;Kögel;S24;2016;3150000;Москва;https://auto.ru/trailer/used/sale/kogel/s24/16390392-ee805cce/;490000;;;;;;;3640000;490000;Горячая цена! Срочно брать!;0;101000;1;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4660000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16569782-7256a787/;;;;;;;ClassTrucks;4360000;-300000;Цена завышена - можно поторговаться;20;149000;;;ЦФО
+Шторный;Krone;SD;2017;1860000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16510616-f94e04a9/;260000;;;;;;Триера Трак;1920000;60000;;10;60000;;;ЦФО
+Шторный;Schmitz Cargobull;S01;2016;2070000;Липецкая область;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16562000-9781df76/;170000;;;;;;;1800000;-270000;Цена завышена - можно поторговаться;30;66000;;;
+Шторный;Krone;SD;2017;1900000;Химки;https://auto.ru/trailer/used/sale/krone/sd/16469730-4165b7f9/;190000;;;;;;КРОНЕ СканБалт;1920000;20000;;10;61000;;;ЦФО
+Рефрижератор;Тонар;9746;2017;2500000;Бугульма;https://auto.ru/trailer/used/sale/tonar/9746/16327520-3e3a89f4/;;;;;;;;3160000;660000;Горячая цена! Срочно брать!;0;80000;1;unclear;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3600000;Рязань;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16408742-333508f5/;300000;;;;;;ООО Группа Авто;3290000;-310000;Цена завышена - можно поторговаться;20;115000;;;ЦФО
+Шторный;Kässbohrer;Maxima XS Domestic;2015;1430000;Санкт-Петербург;https://auto.ru/trailer/used/sale/kaessbohrer/msxima_xs_domestic/16537034-46b58438/;;;;;;;Global Truck Sales Санкт-Петербург;1510000;80000;Горячая цена! Срочно брать!;0;46000;;;СЗФО
+Шторный;Krone;Profi Liner;2016;1760000;Рязань;https://auto.ru/trailer/used/sale/krone/profi_liner/16353024-4cbb030f/;350000;;;;;;ООО Группа Авто;1800000;40000;;10;56000;1;ok;ЦФО
+Рефрижератор;Krone;SD;2017;3680000;Пермь;https://auto.ru/trailer/used/sale/krone/sd/16557740-7254ce50/;;;;;;;РБА-Урал Пермь;4110000;430000;Горячая цена! Срочно брать!;0;118000;0,30846;unclear;УФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4300000;Воронеж;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16274812-75ec2872/;;;;;;;;4360000;60000;;10;138000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;4000000;Екатеринбург;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570666-4ba3788c/;;;;;;;ClassTrucks;3750000;-250000;Цена завышена - можно поторговаться;20;128000;;;УФО
+Шторный;Krone;SD;2016;1750000;Химки;https://auto.ru/trailer/used/sale/krone/sd/16314222-da940f2b/;300000;;;;;;КРОНЕ СканБалт;1800000;50000;;10;56000;1;ok;ЦФО
+Рефрижератор;Kögel;S24;2018;3850000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/s24/16549968-43ca970a/;200000;;;;;;ТРАНСАЛЬЯНС Москва;4140000;290000;Горячая цена! Срочно брать!;0;123000;;;ЦФО
+Шторный;Schmitz Cargobull;SCS;2019;2850000;Брянск;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16565642-e5df7361/;120000;;;;;;;2000000;-850000;Цена завышена - можно поторговаться;50;91000;;;ЦФО
+Рефрижератор;Kögel;S24;2018;3850000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/s24/16549878-bf8bc2e2/;233000;;;;;;ТРАНСАЛЬЯНС Москва;4140000;290000;Горячая цена! Срочно брать!;0;123000;;;ЦФО
+Шторный;Krone;SD;2017;1715000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16499444-4ad2d8ac/;15;;;;;;Юнион КРОНЕ Кимовск;1950000;235000;Горячая цена! Срочно брать!;0;55000;0,41768;unclear;ЦФО
+Шторный;Krone;SD;2018;1920000;Рязань;https://auto.ru/trailer/used/sale/krone/sd/16565914-09670e9b/;91600;;;;;;ООО Группа Авто;2020000;100000;;10;61000;;;ЦФО
+Рефрижератор;Krone;Cool Liner;2018;3900000;Солнечногорск;https://auto.ru/trailer/used/sale/krone/cool_liner/16549190-957ded11/;278000;;;;;;ТРАНСАЛЬЯНС Москва;4150000;250000;Горячая цена! Срочно брать!;0;125000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4270000;Тосно;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16546238-6724bb24/;;;;;;;ClassTrucks;4250000;-20000;;10;137000;;;СЗФО
+Рефрижератор;Krone;Cool Liner;2018;4400000;Домодедово;https://auto.ru/trailer/used/sale/krone/cool_liner/16532920-93e25465/;3700;;;;;;СТТ-АВТО;4420000;20000;;10;141000;;;ЦФО
+Шторный;Krone;SD;2017;1755000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16469218-72989197/;;;;;;;Юнион КРОНЕ Кимовск;1910000;155000;Горячая цена! Срочно брать!;0;56000;;;ЦФО
+Шторный;Schmitz Cargobull;SCB;2018;2195000;Тула;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16549798-93998e08/;;;;;;;;1980000;-215000;Цена завышена - можно поторговаться;20;70000;;;ЦФО
+Шторный;Schmitz Cargobull;SKO;2017;2090000;Дубровки;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16544259-f23a01d3/;160000;;;;;;Триера Трак;1900000;-190000;Цена завышена - можно поторговаться;20;67000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SCB;2017;3750000;Петрозаводск;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16486934-4f60b709/;30000;;;;;;;4150000;400000;Горячая цена! Срочно брать!;0;120000;0,32592;ok;СЗФО
+Шторный;Krone;Profi Liner;2019;2400000;Красногорск;https://auto.ru/trailer/used/sale/krone/profi_liner/16536006-d355b577/;30000;;;;;;Вест Групп;2040000;-360000;Цена завышена - можно поторговаться;30;77000;;;ЦФО
+Шторный;Krone;SD;2017;1900000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16483670-37809d30/;180000;;;;;;Триера Трак;1920000;20000;;10;61000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2020;5593399;Брянск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/15170012-37fbecca/;2000;;;;;;РосТрансАвто Брянск;5000000;-593399;Цена завышена - можно поторговаться;20;179000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2019;5340650;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570608-d150786d/;230000;;;;;;ГРИН ЛАЙН;4200000;-1140650;Цена завышена - можно поторговаться;40;171000;;;ЦФО
+Рефрижератор;Krone;SD;2017;3990000;Химки;https://auto.ru/trailer/used/sale/krone/sd/16475738-a6691cb9/;;;;;;;КРОНЕ СканБалт;4110000;120000;;10;128000;;;ЦФО
+Шторный;Krone;SD;2017;1840000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16499438-b74d7264/;10;;;;;;Юнион КРОНЕ Кимовск;1950000;110000;Горячая цена! Срочно брать!;0;59000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2015;3290000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16409802-ef64f1e2/;500;;;;;;;3240000;-50000;;10;105000;;;ЦФО
+Шторный;Krone;SD;2017;1710000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440156-aeed09a6/;;;;;;;Юнион КРОНЕ Кимовск;1910000;200000;Горячая цена! Срочно брать!;0;55000;0,3184;unclear;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3900000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16441606-a78245e6/;500000;;;;;;"ООО ""РЕД СТАР"" МАЗ Смоленск";3910000;10000;;10;125000;;;ЦФО
+Шторный;Тонар;9988;2015;740000;Набережные Челны;https://auto.ru/trailer/used/sale/tonar/9988/16382606-5cc8d3f8/;;;;;;;;780000;40000;Горячая цена! Срочно брать!;0;24000;1;no_vat;ПФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4983776;Солнечногорск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16511200-6e4cec89/;300000;;;;;;АЙС КУБ;3930000;-1053776;Цена завышена - можно поторговаться;40;159000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2018;4400000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478176-42720ca8/;290000;;;;;;ГРИН ЛАЙН;4220000;-180000;;10;141000;;;ЦФО
+Шторный;Krone;SD;2017;1715000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16512564-912ff4a6/;20;;;;;;Юнион КРОНЕ Кимовск;1950000;235000;Горячая цена! Срочно брать!;0;55000;0,41768;unclear;ЦФО
+Шторный;Krone;SD;2017;2150000;Дубровки;https://auto.ru/trailer/used/sale/krone/sd/16541650-beb40919/;180000;;;;;;Триера Трак;1920000;-230000;Цена завышена - можно поторговаться;20;69000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3230000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16476136-e187c4f5/;;;;;;;SGM-GROUP;4250000;1020000;Горячая цена! Срочно брать!;0;103000;0,46677;no_vat;ЦФО
+Шторный;Krone;SD;2016;1660000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16440162-8062959b/;;;;;;;Юнион КРОНЕ Кимовск;1800000;140000;Горячая цена! Срочно брать!;0;53000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2016;3800000;Москва;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16509026-30c75c9d/;250000;;;;;;АГТ-Трейдинг;3770000;-30000;;10;122000;;;ЦФО
+Шторный;Krone;Profi Liner;2017;1950000;Санкт-Петербург;https://auto.ru/trailer/used/sale/krone/profi_liner/16266142-09bbf3f1/;111111;;;;;;Вираж;1930000;-20000;;10;62000;1;unclear;СЗФО
+Шторный;Wielton;NS;2019;2400000;Петрозаводск;https://auto.ru/trailer/used/sale/wielton/ns/16557872-67176c0f/;50000;;;;;;;1990000;-410000;Цена завышена - можно поторговаться;30;77000;;;СЗФО
+Шторный;Krone;SD;2017;2100000;Асбест;https://auto.ru/trailer/used/sale/krone/sd/16569918-2724e01b/;35000;;;;;;;1950000;-150000;Цена завышена - можно поторговаться;20;67000;;;
+Рефрижератор;Schmitz Cargobull;SKO;2017;4538796;Солнечногорск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16475990-fceac998/;237000;;;;;;АЙС КУБ;3860000;-678796;Цена завышена - можно поторговаться;30;145000;;;ЦФО
+Бортовой;Kögel;SN24;2015;1490000;Солнечногорск;https://auto.ru/trailer/used/sale/kogel/sn24/16543758-1b359da7/;579000;;;;;;ТРАНСАЛЬЯНС Москва;1180000;-310000;Цена завышена - можно поторговаться;40;48000;;;ЦФО
+Шторный;Kögel;S24;2017;1720000;Москва;https://auto.ru/trailer/used/sale/kogel/s24/16402182-0f479964/;145000;;;;;;БорнТракСервис;1880000;160000;Горячая цена! Срочно брать!;0;55000;1;ok;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;3895000;Смоленск;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478068-5c7377cc/;510000;;;;;;ГРИН ЛАЙН;3910000;15000;;10;125000;;;ЦФО
+Рефрижератор;Krone;SD;2018;4100000;Всеволожск;https://auto.ru/trailer/used/sale/krone/sd/16496778-b61aa88f/;;;;;;;Технический центр Восток;4280000;180000;;10;131000;;;СЗФО
+Шторный;Krone;SD;2017;1795000;Кимовск;https://auto.ru/trailer/used/sale/krone/sd/16512596-6f8d353b/;20;;;;;;Юнион КРОНЕ Кимовск;1950000;155000;Горячая цена! Срочно брать!;0;57000;;;ЦФО
+Рефрижератор;Schmitz Cargobull;SKO;2017;4200000;Каменск-Шахтинский;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16554452-c7ce7296/;50000;;;;;;Мега-Транзит;4100000;-100000;;10;134000;;;ЮФО
+Шторный;Krone;Profi Liner;2018;2230000;Набережные Челны;https://auto.ru/trailer/used/sale/krone/profi_liner/16533074-e6c3a9fa/;;;;;;;M7 TRUCK Набережные Челны;2010000;-220000;Цена завышена - можно поторговаться;20;71000;;;ПФО
+Тягач;Renault;T-Series;2017;5150000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16563028-ef762f3a/;151120;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Свердловской области;4380000;-770000;Цена завышена - можно поторговаться;30;165000;;;УФО
+Тягач;Scania;R-Series;2015;3890000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16005774-a559c449/;600000;AT;4x2;440;2;2;;4080000;190000;;10;124000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16495624-a80e00ab/;532321;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;MAN;TGX;2018;6800000;Киров;https://auto.ru/artic/used/sale/man/tgx/15746291-72da66d3/;200000;MT;4x2;440;2;2;;4670000;-2130000;Цена завышена - можно поторговаться;60;218000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1390000;Бухловка;https://auto.ru/artic/used/sale/kamaz/5490/16524118-d352f09c/;613000;MT;4x2;401;3;1;;1970000;580000;Горячая цена! Срочно брать!;0;;0,56757;unclear;
+Тягач;КамАЗ;53504;2018;3500000;Пермь;https://auto.ru/artic/used/sale/kamaz/53504/16529476-772887db/;48000;MT;6x6;300;2;1;;3860000;360000;Горячая цена! Срочно брать!;0;112000;0,39715;unclear;УФО
+Тягач;МАЗ;5440;2018;2580000;Исток;https://auto.ru/artic/used/sale/maz/5440/16519282-7faccf6a/;220000;MT;4x2;420;2;1;;2450000;-130000;Цена завышена - можно поторговаться;20;83000;;;
+Тягач;КамАЗ;43118;2017;2850000;Миасс;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16461650-66417015/;30000;MT;6x6;300;2;1;ООО УралСпецКран;3340000;490000;Горячая цена! Срочно брать!;0;91000;0,39754;unclear;УФО
+Тягач;Scania;R-Series;2015;3750000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16409800-ffecba31/;800000;AT;;439;2;2;;4190000;440000;Горячая цена! Срочно брать!;0;120000;1;unclear;ЦФО
+Тягач;Volvo;FH;2018;7500000;Санкт-Петербург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16559372-8bbf2810/;660000;MT;6x4;510;2;2;;8140000;640000;Горячая цена! Срочно брать!;0;240000;;;СЗФО
+Тягач;КамАЗ;5490;2017;4100000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16279792-0c0f2949/;180000;MT;4x2;401;3;1;;2530000;-1570000;Цена завышена - можно поторговаться;70;131000;;;УФО
+Тягач;Mercedes-Benz;Actros;2017;4900000;Казань;https://auto.ru/artic/used/sale/mercedes/actros_t/16475604-f9172046/;620000;AT;4x2;440;2;2;;4440000;-460000;Цена завышена - можно поторговаться;20;157000;;;ПФО
+Тягач;Scania;R-Series;2015;3990000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16404742-709e1365/;700000;AT;4x2;440;2;2;;4080000;90000;;10;128000;;;ЦФО
+Тягач;MAN;TGX;2016;4800000;Мытищи;https://auto.ru/artic/used/sale/man/tgx/15464365-9c5d38ed/;267000;AT;4x2;480;2;2;КОМДОРАВТО;4410000;-390000;Цена завышена - можно поторговаться;20;154000;;;ЦФО
+Тягач;Volvo;FH;2017;5010000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16394884-e59252b1/;630000;AT;4x2;460;;;ГРИН ЛАЙН;4950000;-60000;;10;160000;1;ok;ЦФО
+Тягач;Scania;P-series;2015;7100000;Рязань;https://auto.ru/artic/used/sale/scania/p_1/16545020-e9dea246/;389000;MT;4x2;440;2;1;;3880000;-3220000;Цена завышена - можно поторговаться;90;227000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459598-60bccfff/;310000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;MAN;TGX;2017;5490000;Барнаул;https://auto.ru/artic/used/sale/man/tgx/16329126-403abe10/;393000;AT;4x2;400;2;2;Алт Авто;4470000;-1020000;Цена завышена - можно поторговаться;30;176000;1;unclear;СФО
+Тягач;МАЗ;6430;2017;2149000;Шилово;https://auto.ru/artic/used/sale/maz/6430/16539610-39f1c815/;255000;MT;6x4;412;2;2;;2710000;561000;Горячая цена! Срочно брать!;0;69000;0,44284;unclear;
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457556-3cf80fa5/;270000;AT;4x2;460;2;2;Партнер Лайн;5600000;-500000;Цена завышена - можно поторговаться;20;195000;;;ЦФО
+Тягач;Volvo;FH;2017;6030000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16555606-a7bdf2ec/;335082;AT;4x2;460;;;ClassTrucks;4950000;-1080000;Цена завышена - можно поторговаться;30;193000;;;ЦФО
+Тягач;Volvo;FH;2017;5100000;Набережные Челны;https://auto.ru/artic/used/sale/volvo/fh_tractor/16546596-7e63d3e9/;506575;AT;4x2;469;2;2;BS-Truck;4980000;-120000;;10;163000;;;ПФО
+Тягач;Scania;G-series;2015;4400000;Москва;https://auto.ru/artic/used/sale/scania/g/16544172-0ed50a51/;560000;MT;6x4;441;2;1;;4370000;-30000;;10;141000;;;ЦФО
+Тягач;DAF;XF105;2017;4900000;Смоленская область;https://auto.ru/artic/used/sale/daf/xf105/16333628-b7a0209e/;210000;MT;4x2;460;2;2;;4430000;-470000;Цена завышена - можно поторговаться;20;157000;;;
+Тягач;Mercedes-Benz;Axor;2018;3899000;Новониколаевский;https://auto.ru/artic/used/sale/mercedes/axor_t/16442848-7417d36e/;250534;MT;4x2;401;2;1;M7 TRUCK Казань;4390000;491000;Горячая цена! Срочно брать!;0;125000;0,47569;unclear;ПФО
+Тягач;Scania;R-Series;2017;5800000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16508224-5d2bfe84/;339081;AT;4x2;440;2;2;GROSS AUTO;5310000;-490000;Цена завышена - можно поторговаться;20;186000;;;ЦФО
+Тягач;Scania;P-series;2018;4600000;Домодедово;https://auto.ru/artic/used/sale/scania/p_1/16454360-9fb23f36/;423500;MT;4x2;441;2;1;Скан-Юго-Восток;5630000;1030000;Горячая цена! Срочно брать!;0;147000;0,56506;unclear;ЦФО
+Тягач;Volvo;FM;2018;6900000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fm_tractor/16446427-74f3cbe1/;400000;AT;6x4;428;2;1;;8410000;1510000;Горячая цена! Срочно брать!;0;221000;1;ok;УФО
+Тягач;Renault;T-Series;2017;4950000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16552712-a1ad38b8/;300780;AT;4x2;460;2;2;VOLVO TRUCKS РОССИЯ в Свердловской области;4060000;-890000;Цена завышена - можно поторговаться;30;158000;;;УФО
+Тягач;MAN;TGX;2016;4890000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgx/16009735-49cbd7c6/;359610;AT;4x2;480;2;1;АЛЬГА;4620000;-270000;Цена завышена - можно поторговаться;20;156000;;;СЗФО
+Тягач;IVECO;Stralis;2017;3450000;Липецк;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16527698-68de1498/;460000;MT;4x2;420;2;2;;3520000;70000;;10;110000;;;ЦФО
+Тягач;Volvo;FM;2017;5500000;Москва;https://auto.ru/artic/used/sale/volvo/fm_tractor/16537890-05d9a938/;170000;MT;6x4;420;2;1;;6580000;1080000;Горячая цена! Срочно брать!;0;176000;0,51657;unclear;ЦФО
+Тягач;DAF;XF;2016;5824789;Брянск;https://auto.ru/artic/used/sale/daf/xf_series/16235826-8c5d0f34/;269000;AT;4x2;460;2;2;РосТрансАвто Брянск;3950000;-1874789;Цена завышена - можно поторговаться;60;186000;;;ЦФО
+Тягач;DAF;XF;2017;5931584;Брянск;https://auto.ru/artic/used/sale/daf/xf_series/16257284-51cd6214/;260000;AT;4x2;460;2;2;РосТрансАвто Брянск;4390000;-1541584;Цена завышена - можно поторговаться;50;190000;;;ЦФО
+Тягач;КамАЗ;5490;2016;2050000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456362-3e687bc1/;250000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-160000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;65206;2017;3200000;Рязань;https://auto.ru/artic/used/sale/kamaz/65206/16225988-0f051019/;30000;MT;6x4;420;2;1;;3150000;-50000;;10;102000;;;ЦФО
+Тягач;Volvo;FH;2017;6030000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16535124-946c10ec/;368214;AT;4x2;500;;;ClassTrucks;5100000;-930000;Цена завышена - можно поторговаться;30;193000;;;ЦФО
+Тягач;Scania;P-series;2015;4200000;Домодедово;https://auto.ru/artic/used/sale/scania/p_1/16567466-b21ab438/;794894;MT;6x4;441;2;1;Скан-Юго-Восток;4370000;170000;;10;134000;;;ЦФО
+Тягач;КамАЗ;65206;2015;2550000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463074-4164df16/;215000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-380000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Volvo;FMX;2018;9300000;Омск;https://auto.ru/artic/used/sale/volvo/fmx_/15903254-a8119c81/;32;AT;6x6;540;2;2;;7020000;-2280000;Цена завышена - можно поторговаться;40;298000;;;СФО
+Тягач;Mercedes-Benz;Actros;2015;3750000;Краснодар;https://auto.ru/artic/used/sale/mercedes/actros_t/15901520-c4fb9b9b/;445000;AT;6x4;408;2;1;;4150000;400000;Горячая цена! Срочно брать!;0;120000;1;ok;ЮФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16512236-4f60d0f2/;439813;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;3800000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16517742-352ead91/;685370;AT;4x2;435;2;2;BS-Truck;4520000;720000;Горячая цена! Срочно брать!;0;122000;0,46156;unclear;ПФО
+Тягач;Scania;P-series;2017;5300000;Самара;https://auto.ru/artic/used/sale/scania/p_1/16385974-35cb4623/;526000;AT;6x4;400;;;;5980000;680000;Горячая цена! Срочно брать!;0;170000;0,51726;unclear;ПФО
+Тягач;Renault;T-Series;2018;4850000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15744395-f950d2ce/;325000;AT;4x2;480;2;2;БорнТракСервис;5280000;430000;Горячая цена! Срочно брать!;0;155000;;;ЦФО
+Тягач;MAN;TGX;2020;9500000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgx/16567670-57eb9b27/;10028;AT;6x4;480;2;1;;7800000;-1700000;Цена завышена - можно поторговаться;30;304000;;;СЗФО
+Тягач;MAN;TGX;2018;5800000;Смоленск;https://auto.ru/artic/used/sale/man/tgx/16445224-cc0398c3/;370000;AT;4x2;480;;;ГРИН ЛАЙН;5780000;-20000;;10;186000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16502612-846dd83c/;553236;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4800000;Ольша;https://auto.ru/artic/used/sale/mercedes/actros_t/16470436-a0eff35f/;290000;AT;4x2;435;2;2;CargoLine group;4520000;-280000;Цена завышена - можно поторговаться;20;154000;;;ЦФО
+Тягач;КамАЗ;6460;2015;2400000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/6460/16073218-6d1071a1/;29000;MT;6x4;400;2;1;Жумади;2040000;-360000;Цена завышена - можно поторговаться;30;;;;ПФО
+Тягач;Scania;P-series;2017;5490000;Москва;https://auto.ru/artic/used/sale/scania/p_1/16570070-38a7ae47/;810000;MT;6x4;441;2;1;;5790000;300000;Горячая цена! Срочно брать!;0;176000;;;ЦФО
+Тягач;DAF;XF;2017;5940483;Брянск;https://auto.ru/artic/used/sale/daf/xf_series/16301692-50254ad5/;260000;AT;4x2;460;2;2;РосТрансАвто Брянск;4390000;-1550483;Цена завышена - можно поторговаться;50;190000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1910000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456370-f3b3b01c/;255000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-20000;;10;;;;ЦФО
+Тягач;Volvo;FH;2015;4200000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16543632-f5071cfa/;663662;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;3760000;-440000;Цена завышена - можно поторговаться;20;134000;;;ЦФО
+Тягач;КамАЗ;5490;2016;2050000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456282-55496595/;240000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-160000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;МАЗ;6430;2018;3450000;Белгородская область;https://auto.ru/artic/used/sale/maz/6430/16544225-5faeae85/;70000;;;420;;;;2400000;-1050000;Цена завышена - можно поторговаться;50;110000;;;
+Тягач;DAF;XF105;2017;4990000;Рославль;https://auto.ru/artic/used/sale/daf/xf105/16274038-9e75dc5c/;320000;MT;4x2;460;2;2;;4430000;-560000;Цена завышена - можно поторговаться;20;160000;;;ЦФО
+Тягач;MAN;33;2016;4500000;Пермь;https://auto.ru/artic/used/sale/man/33_1/16467522-3a7b486f/;500000;MT;6x4;440;2;1;;4400000;-100000;;10;144000;;;УФО
+Тягач;КамАЗ;5490;2015;1680000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16355470-e48c6a3a/;636660;MT;4x2;401;2;1;Global Truck Sales Екатеринбург;1610000;-70000;;10;;;;УФО
+Тягач;МАЗ;5440;2016;1890000;Нижний Новгород;https://auto.ru/artic/used/sale/maz/5440/16530086-c28c53ee/;424000;MT;4x2;435;2;2;;2030000;140000;Горячая цена! Срочно брать!;0;;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16501341-b75ca640/;507944;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;Renault;T-Series;2017;4650000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15743029-2b7922c5/;165000;AT;4x2;460;2;2;БорнТракСервис;4060000;-590000;Цена завышена - можно поторговаться;20;149000;;;ЦФО
+Тягач;МАЗ;5440;2017;1800000;Челябинск;https://auto.ru/artic/used/sale/maz/5440/16538180-bd15ff63/;244000;MT;4x2;310;2;1;;1820000;20000;;10;58000;;;УФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16374556-cb197c3e/;750000;AT;4x2;410;2;2;;3990000;-160000;;10;133000;;;ПФО
+Тягач;КамАЗ;65206;2018;3350000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/65206/16513152-13ccc778/;160000;MT;6x4;423;2;1;;3740000;390000;Горячая цена! Срочно брать!;0;107000;0,40785;unclear;ПФО
+Тягач;КамАЗ;5490;2016;1890000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16329794-52cfcc69/;521061;MT;4x2;401;2;1;Global Truck Sales Екатеринбург;1890000;0;;10;;;;УФО
+Тягач;Renault;T-Series;2017;4970000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15765298-fec6d35e/;205000;AT;4x2;480;2;2;БорнТракСервис;4370000;-600000;Цена завышена - можно поторговаться;20;159000;;;ЦФО
+Тягач;Scania;G-series;2016;5000000;Большая Елховка;https://auto.ru/artic/used/sale/scania/g/16337316-5eb8ae52/;350000;MT;4x2;400;2;2;;4490000;-510000;Цена завышена - можно поторговаться;20;160000;;;
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457636-4ca19b18/;293000;AT;4x2;460;2;2;Партнер Лайн;5600000;-500000;Цена завышена - можно поторговаться;20;195000;;;ЦФО
+Тягач;Volvo;FH;2017;5950000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16537316-8f8f435f/;393426;AT;4x2;500;;;ClassTrucks;5100000;-850000;Цена завышена - можно поторговаться;30;190000;;;УФО
+Тягач;МАЗ;5440;2016;1570000;Уфа;https://auto.ru/artic/used/sale/maz/5440/16373928-7c7e6f5c/;530000;MT;4x2;430;2;2;;2020000;450000;Горячая цена! Срочно брать!;0;;1;unclear;ПФО
+Тягач;MAN;TGS;2016;4750000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgs/16137606-8a562966/;457000;AT;4x2;480;2;1;АЛЬГА;4620000;-130000;;10;152000;;;СЗФО
+Тягач;КамАЗ;5490;2018;3340000;Новониколаевский;https://auto.ru/artic/used/sale/kamaz/5490/16517376-c464453b/;179142;MT;4x2;401;2;1;M7 TRUCK Казань;2860000;-480000;Цена завышена - можно поторговаться;30;107000;;;ПФО
+Тягач;DAF;XF105;2016;4750000;Екатеринбург;https://auto.ru/artic/used/sale/daf/xf105/16416231-b401b55d/;650000;MT;4x2;460;2;2;;3810000;-940000;Цена завышена - можно поторговаться;30;152000;;;УФО
+Тягач;Renault;T-Series;2017;5100000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16563358-df828169/;160392;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;СЗФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459592-cf123504/;305000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-390000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Scania;R-Series;2015;3800000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16544640-921cfabf/;980500;MT;4x2;441;2;2;;3770000;-30000;;10;122000;;;ПФО
+Тягач;МАЗ;6425;2016;3150000;Вихоревка;https://auto.ru/artic/used/sale/maz/6425/16379872-b7b9e1ab/;30000;MT;6x6;420;2;2;;2750000;-400000;Цена завышена - можно поторговаться;20;;;;СФО
+Тягач;MAN;TGS;2017;8500000;Красноярск;https://auto.ru/artic/used/sale/man/tgs/16540974-762e3b3f/;50000;MT;6x6;480;2;2;РусТрансТоргСервис;7200000;-1300000;Цена завышена - можно поторговаться;30;272000;;;СФО
+Тягач;Scania;R-Series;2016;4600000;;https://auto.ru/artic/used/sale/scania/r_1/16520414-99f5342e/;800780;MT;4x2;440;2;2;M7 TRUCK Набережные Челны;4390000;-210000;;10;147000;;;
+Тягач;Renault;T-Series;2017;4950000;Санкт-Петербург;https://auto.ru/artic/used/sale/renault/t_series/16559224-a814b841/;285563;AT;4x2;460;2;1;Группа Милан;4380000;-570000;Цена завышена - можно поторговаться;20;158000;;;СЗФО
+Тягач;КамАЗ;5490;2019;4950000;Всеволожск;https://auto.ru/artic/used/sale/kamaz/5490/16470378-095b4099/;2000;MT;4x2;401;;;Технический центр Восток;2950000;-2000000;Цена завышена - можно поторговаться;80;158000;;;СЗФО
+Тягач;КамАЗ;5490;2017;2400000;Тольятти;https://auto.ru/artic/used/sale/kamaz/5490/16261576-e00ddaaf/;215000;;4x2;401;3;1;;2640000;240000;Горячая цена! Срочно брать!;0;77000;;;ПФО
+Тягач;КамАЗ;65206;2017;3100000;Волгоград;https://auto.ru/artic/used/sale/kamaz/65206/16244854-979c0c3e/;250000;MT;6x4;428;2;1;;3150000;50000;;10;99000;;;ЮФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16496346-c18c6f2f/;541712;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;MAN;TGS;2017;3950000;Москва;https://auto.ru/artic/used/sale/man/tgs/16537522-989fc5b0/;277803;MT;4x2;400;2;1;ГРУЗ СОЮЗ;4380000;430000;Горячая цена! Срочно брать!;0;126000;0,42148;unclear;ЦФО
+Тягач;МАЗ;6425;2017;2500000;Красноярск;https://auto.ru/artic/used/sale/maz/6425/16562670-e0717168/;80000;MT;6x6;417;2;2;;3200000;700000;Горячая цена! Срочно брать!;0;80000;0,479;unclear;СФО
+Тягач;DAF;XF105;2017;4500000;Красногорск;https://auto.ru/artic/used/sale/daf/xf105/16561496-d7e96cc1/;349464;;;462;;;Альфа-Лизинг Москва;4220000;-280000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Тягач;КамАЗ;6460;2017;2470000;Красноярск;https://auto.ru/artic/used/sale/kamaz/6460/16553866-b309488d/;154000;MT;6x4;360;2;2;;2950000;480000;Горячая цена! Срочно брать!;0;79000;0,45503;unclear;СФО
+Тягач;Mercedes-Benz;Actros;2017;4500000;Смоленск;https://auto.ru/artic/used/sale/mercedes/actros_t/16476986-f7455003/;300000;AT;4x2;435;2;2;;4520000;20000;;10;144000;;;ЦФО
+Тягач;Scania;R-Series;2017;4830000;Набережные Челны;https://auto.ru/artic/used/sale/scania/r_1/16566160-2d8cad7a/;692171;AT;4x2;440;2;2;M7 TRUCK Набережные Челны;5310000;480000;Горячая цена! Срочно брать!;0;155000;;;ПФО
+Тягач;MAN;TGS;2016;3600000;Зеленоград;https://auto.ru/artic/used/sale/man/tgs/16439588-0d22b052/;263533;MT;4x2;400;2;1;Global Truck Sales Москва Север;3580000;-20000;;10;115000;;;ЦФО
+Тягач;КамАЗ;65806;2016;2050000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/65806/16243500-fba95167/;393947;;6x4;428;2;1;Балтийский лизинг Санкт-Петербург;2620000;570000;Горячая цена! Срочно брать!;0;;0,4308;no_vat;СЗФО
+Тягач;Scania;R-Series;2019;6100000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16533638-535e59e1/;157000;AT;4x2;400;2;2;БорнТракСервис;6900000;800000;Горячая цена! Срочно брать!;0;195000;0,60845;unclear;ЦФО
+Тягач;МАЗ;6430;2019;2980000;Мурманск;https://auto.ru/artic/used/sale/maz/6430/16408722-539b5a35/;11125;MT;6x4;423;;;Альфа-Лизинг Россия;2900000;-80000;;10;95000;;;СЗФО
+Тягач;КамАЗ;5490 NEO;2018;3150000;Иркутск;https://auto.ru/artic/used/sale/kamaz/5490_neo/16552436-469353c4/;330000;AT;4x2;401;2;1;;3360000;210000;Горячая цена! Срочно брать!;0;101000;;;СФО
+Тягач;Renault;T-Series;2017;5150000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16561856-e264feb8/;263672;AT;4x2;480;2;2;VOLVO TRUCKS РОССИЯ;4370000;-780000;Цена завышена - можно поторговаться;30;165000;;;ЦФО
+Тягач;MAN;TGX;2018;5750000;Мытищи;https://auto.ru/artic/used/sale/man/tgx/16240406-326aaee2/;288000;AT;4x2;460;2;2;КОМДОРАВТО;4780000;-970000;Цена завышена - можно поторговаться;30;184000;;;ЦФО
+Тягач;Scania;R-Series;2015;4000000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16544668-8b0d97da/;970200;MT;4x2;441;2;2;;3770000;-230000;Цена завышена - можно поторговаться;20;128000;;;ПФО
+Тягач;КамАЗ;5490;2016;1790000;Зеленоград;https://auto.ru/artic/used/sale/kamaz/5490/16339302-dba218ac/;507000;MT;4x2;401;2;1;Global Truck Sales Москва Север;1890000;100000;Горячая цена! Срочно брать!;0;;;;ЦФО
+Тягач;КамАЗ;5490;2016;1745000;Новониколаевский;https://auto.ru/artic/used/sale/kamaz/5490/16545294-8b8922fe/;439002;MT;4x2;401;2;1;M7 TRUCK Казань;1890000;145000;Горячая цена! Срочно брать!;0;;;;ПФО
+Тягач;Scania;G-series;2017;4950000;Краснодар;https://auto.ru/artic/used/sale/scania/g/16205412-bc5ca9a9/;372000;AT;4x2;400;2;2;"ООО""Кубань-Скан""";5500000;550000;Горячая цена! Срочно брать!;0;158000;1;ok;ЮФО
+Тягач;Scania;R-Series;2017;5500000;Казань;https://auto.ru/artic/used/sale/scania/r_1/16549816-b1c91c50/;418000;AT;4x2;400;2;1;;5910000;410000;Горячая цена! Срочно брать!;0;176000;;;ПФО
+Тягач;КамАЗ;65116;2019;5500000;Липецк;https://auto.ru/artic/used/sale/kamaz/65116/16461128-c3ce4bc1/;5000;MT;6x4;292;2;1;;3470000;-2030000;Цена завышена - можно поторговаться;70;176000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4500000;Челябинск;https://auto.ru/artic/used/sale/mercedes/actros_t/16517966-f71b72ea/;600043;AT;4x2;435;2;2;;4520000;20000;;10;144000;;;УФО
+Тягач;Mercedes-Benz;Actros;2017;4550000;Нижний Новгород;https://auto.ru/artic/used/sale/mercedes/actros_t/16269784-75e3f510/;650000;AT;4x2;456;2;2;;4550000;0;;10;146000;;;ПФО
+Тягач;КамАЗ;65116;2017;2500000;Новосибирск;https://auto.ru/artic/used/sale/kamaz/65116/16164326-b1b30afc/;50000;MT;6x4;300;2;1;;2610000;110000;;10;80000;;;СФО
+Тягач;IVECO;Stralis;2017;4500000;Липецк;https://auto.ru/artic/used/sale/iveco/stralis_tractor/15780168-852f487b/;360000;AT;4x2;460;2;2;;4190000;-310000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Тягач;MAN;TGX;2015;4100000;Солнечногорск;https://auto.ru/artic/used/sale/man/tgx/16291062-de77ab16/;398977;AT;4x2;440;2;2;ТРАНСАЛЬЯНС Москва;3590000;-510000;Цена завышена - можно поторговаться;20;131000;;;ЦФО
+Тягач;Renault;C-Series;2018;7080000;Уфа;https://auto.ru/artic/used/sale/renault/c_series_tractor/16288670-e92d5da4/;200000;AT;6x4;440;2;2;;5900000;-1180000;Цена завышена - можно поторговаться;30;227000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4100000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16496308-2a69d19f/;478711;AT;4x2;408;2;2;PRO АВТО;3880000;-220000;Цена завышена - можно поторговаться;20;131000;;;ЦФО
+Тягач;DAF;XF105;2017;4500000;Собинка;https://auto.ru/artic/used/sale/daf/xf105/16445040-1f04ec07/;430000;MT;4x2;468;;;;4190000;-310000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Тягач;DAF;XF105;2018;7500000;Санкт-Петербург;https://auto.ru/artic/used/sale/daf/xf105/16566288-b01baefc/;397000;MT;6x2;462;2;2;;6090000;-1410000;Цена завышена - можно поторговаться;30;240000;;;СЗФО
+Тягач;КамАЗ;65206;2016;2800000;Новогуровский;https://auto.ru/artic/used/sale/kamaz/65206/16430872-6231247f/;481000;;6x4;428;2;1;;2620000;-180000;Цена завышена - можно поторговаться;20;;;;
+Тягач;MAN;TGX;2017;4300000;Ногинск;https://auto.ru/artic/used/sale/man/tgx/16549924-f06a056c/;320000;AT;4x2;400;2;2;Роллингер Логистика ООО;4470000;170000;;10;138000;;;ЦФО
+Тягач;КамАЗ;65206;2017;3600000;Тольятти;https://auto.ru/artic/used/sale/kamaz/65206/16356736-5a562e5b/;100000;MT;6x4;428;2;1;;3150000;-450000;Цена завышена - можно поторговаться;20;115000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2015;4600000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16215032-9f2d0f5e/;400000;AT;6x4;456;2;1;ЗТ Север;4320000;-280000;Цена завышена - можно поторговаться;20;147000;;;СЗФО
+Тягач;КамАЗ;5490 NEO;2017;3240000;Москва;https://auto.ru/artic/used/sale/kamaz/5490_neo/16542384-49361c49/;96136;MT;4x2;401;2;1;КАМЦЕНТР КамАЗ;2400000;-840000;Цена завышена - можно поторговаться;40;104000;;;ЦФО
+Тягач;КамАЗ;65206;2017;4199999;Ярославль;https://auto.ru/artic/used/sale/kamaz/65206/16060596-ca62b356/;89500;MT;6x4;428;2;1;;3150000;-1049999;Цена завышена - можно поторговаться;40;134000;;;ЦФО
+Тягач;КамАЗ;65116;2015;1750000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/65116/16494740-dd0bd2d3/;95000;MT;6x4;298;2;1;;1810000;60000;;10;;;;ПФО
+Тягач;Scania;G-series;2015;3999999;Москва;https://auto.ru/artic/used/sale/scania/g/16563114-6c69e122/;173000;AT;4x2;400;2;2;;4050000;50001;;10;128000;;;ЦФО
+Тягач;Volvo;FH;2017;5820000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16537358-56a324d5/;427973;AT;4x2;460;;;ClassTrucks;4950000;-870000;Цена завышена - можно поторговаться;30;186000;;;ЦФО
+Тягач;КамАЗ;53504;2015;1950000;Усть-Кут;https://auto.ru/artic/used/sale/kamaz/53504/16197468-9b4e128c/;50000;MT;6x6;300;2;1;;2380000;430000;Горячая цена! Срочно брать!;0;;1;no_vat;СФО
+Тягач;Scania;R-Series;2016;4510000;Авдон;https://auto.ru/artic/used/sale/scania/r_1/16467482-9fc88ce5/;639816;MT;4x2;440;2;2;M7 TRUCK Уфа;4390000;-120000;;10;144000;;;ПФО
+Тягач;КамАЗ;5490;2015;1800000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16524656-778764f3/;510000;MT;;410;2;1;;1750000;-50000;;10;;;;ПФО
+Тягач;MAN;TGX;2019;7200000;Москва;https://auto.ru/artic/used/sale/man/tgx/16548538-6ecf42f6/;75000;AT;4x2;440;2;1;;5730000;-1470000;Цена завышена - можно поторговаться;40;230000;;;ЦФО
+Тягач;DAF;XF;2016;5450000;Белгород;https://auto.ru/artic/used/sale/daf/xf_series/16498130-201d9fd1/;291000;AT;4x2;460;2;2;;3950000;-1500000;Цена завышена - можно поторговаться;50;174000;;;ЦФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/15920208-6797c5d9/;230000;MT;4x2;400;2;1;Юнион КРОНЕ Кимовск;1580000;-420000;Цена завышена - можно поторговаться;40;;;;ЦФО
+Тягач;КамАЗ;5490;2016;1600000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16512212-b4dd4e3b/;380000;MT;4x2;401;2;1;;1890000;290000;Горячая цена! Срочно брать!;0;;0,38528;unclear;СЗФО
+Тягач;DAF;XF105;2015;4050000;Москва;https://auto.ru/artic/used/sale/daf/xf105/16287580-f693a5cc/;596589;MT;4x2;460;2;2;GROSS AUTO;3390000;-660000;Цена завышена - можно поторговаться;30;130000;;;ЦФО
+Тягач;КамАЗ;5490;2018;3350000;Домодедово;https://auto.ru/artic/used/sale/kamaz/5490/16513262-208c6b62/;147445;MT;4x2;401;2;1;Технический Центр ИНФОРКОМ;2860000;-490000;Цена завышена - можно поторговаться;30;107000;;;ЦФО
+Тягач;МАЗ;5440;2016;1700000;Набережные Челны;https://auto.ru/artic/used/sale/maz/5440/16339038-910a17c1/;400000;MT;4x2;420;2;2;;2020000;320000;Горячая цена! Срочно брать!;0;;1;unclear;ПФО
+Тягач;Mercedes-Benz;Actros;2018;5000000;Всеволожск;https://auto.ru/artic/used/sale/mercedes/actros_t/16485636-6b45bd18/;240000;AT;4x2;440;2;2;Технический центр Восток;5050000;50000;;10;160000;;;СЗФО
+Тягач;МАЗ;5440;2016;1750000;Москва;https://auto.ru/artic/used/sale/maz/5440/16348328-645cb390/;55000;MT;4x2;310;2;1;;1430000;-320000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;КамАЗ;5490;2017;3140000;Казань;https://auto.ru/artic/used/sale/kamaz/5490/16476484-64747334/;50273;MT;4x2;401;2;1;РБА-Казань;2400000;-740000;Цена завышена - можно поторговаться;40;100000;;;ПФО
+Тягач;DAF;XF105;2017;4250000;Долгопрудный;https://auto.ru/artic/used/sale/daf/xf105/16570054-cc533392/;817000;MT;4x2;460;2;2;VH DAF;4430000;180000;;10;136000;;;
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457152-148c7c70/;605000;AT;4x2;460;;;ГРИН ЛАЙН;4950000;-100000;;10;162000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4300000;Пермь;https://auto.ru/artic/used/sale/mercedes/actros_t/16466802-e854de3f/;635000;AT;6x4;408;2;1;ЕвроТрак Mercedes-Benz Пермь;5520000;1220000;Горячая цена! Срочно брать!;0;138000;0,30456;no_vat;УФО
+Тягач;КамАЗ;5490;2016;1890000;Новониколаевский;https://auto.ru/artic/used/sale/kamaz/5490/16495694-a134e4af/;408506;MT;4x2;401;2;1;M7 TRUCK Казань;1890000;0;;10;;;;ПФО
+Тягач;КамАЗ;5490;2017;2500000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16280602-d64d8f1c/;300000;MT;4x2;401;2;1;;2400000;-100000;;10;80000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4650000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/15630344-4c060e72/;331823;AT;4x2;435;2;2;АГТ-Трейдинг;4000000;-650000;Цена завышена - можно поторговаться;30;149000;;;ЦФО
+Тягач;DAF;XF105;2016;4100000;Санкт-Петербург;https://auto.ru/artic/used/sale/daf/xf105/16554952-049263e8/;523000;MT;4x2;462;;;Terra Truck;3500000;-600000;Цена завышена - можно поторговаться;30;131000;;;СЗФО
+Тягач;Mercedes-Benz;Axor;2016;2600000;Дзержинский;https://auto.ru/artic/used/sale/mercedes/axor_t/16403338-842d2c98/;340000;MT;4x2;401;2;1;АвтоСпецЦентр Коммерческий транспорт;3170000;570000;Горячая цена! Срочно брать!;0;83000;1;ok;
+Тягач;КамАЗ;5490;2017;3270000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16287388-bcc5bcef/;124868;MT;4x2;401;2;1;КАМЦЕНТР КамАЗ;2400000;-870000;Цена завышена - можно поторговаться;50;105000;;;ЦФО
+Тягач;МАЗ;5440;2016;1200000;Ивантеевка;https://auto.ru/artic/used/sale/maz/5440/16498704-98842976/;249335;MT;4x2;310;2;1;;1430000;230000;Горячая цена! Срочно брать!;0;;0,39029;unclear;
+Тягач;Mercedes-Benz;Actros;2017;4100000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16518258-88776a11/;590000;AT;4x2;440;2;2;Компания АВТОТРАК Москва;4440000;340000;Горячая цена! Срочно брать!;0;131000;;;ЦФО
+Тягач;Scania;P-series;2016;4300000;Голицыно;https://auto.ru/artic/used/sale/scania/p_1/16485332-0d5b3115/;780000;MT;6x4;400;2;1;Скания Сервис;5380000;1080000;Горячая цена! Срочно брать!;0;138000;0,30456;no_vat;ЦФО
+Тягач;Mercedes-Benz;Actros;2018;5000000;Ростов-на-Дону;https://auto.ru/artic/used/sale/mercedes/actros_t/15816094-46f6a48d/;350000;AT;4x2;440;;;;5160000;160000;;10;160000;;;ЮФО
+Тягач;КамАЗ;65116;2019;3199999;Казань;https://auto.ru/artic/used/sale/kamaz/65116/16543520-45cf22ba/;21000;MT;6x4;292;2;1;Европлан Краснодар;3470000;270001;Горячая цена! Срочно брать!;0;102000;;;ПФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459550-b3679ba3/;295000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-390000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;КамАЗ;5490;2015;1450000;Люберцы;https://auto.ru/artic/used/sale/kamaz/5490/16554280-0dbea11f/;746229;MT;4x2;401;2;2;PRO АВТО;1980000;530000;Горячая цена! Срочно брать!;0;;0,45319;unclear;ЦФО
+Тягач;MAN;TGX;2017;5200000;Ростов-на-Дону;https://auto.ru/artic/used/sale/man/tgx/16250118-7ff1d824/;300000;AT;4x2;420;;;НЕЙС-ЮГ Ростов-на-Дону;4500000;-700000;Цена завышена - можно поторговаться;30;166000;;;ЮФО
+Тягач;КамАЗ;5490;2016;1890000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16333482-74c9a250/;685458;MT;4x2;401;2;1;Global Truck Sales Санкт-Петербург;1890000;0;;10;;;;СЗФО
+Тягач;MAN;TGX;2019;5880000;Берёзовский;https://auto.ru/artic/used/sale/man/tgx/16520542-fc11da5c/;157000;MT;4x2;440;2;2;MAN Центр Березовский;4910000;-970000;Цена завышена - можно поторговаться;30;188000;;;
+Тягач;КамАЗ;5490;2016;1790000;Елино;https://auto.ru/artic/used/sale/kamaz/5490/16509212-129b1022/;308000;MT;4x2;401;2;1;700 МАШИН;1890000;100000;Горячая цена! Срочно брать!;0;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4395000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16333048-4b96d644/;444000;AT;6x4;408;2;1;Global Truck Sales Санкт-Петербург;4810000;415000;Горячая цена! Срочно брать!;0;141000;;;СЗФО
+Тягач;Mercedes-Benz;Actros;2016;4050000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16487020-bb230fd7/;719000;AT;4x2;410;2;2;СТТ-АВТО;3990000;-60000;;10;130000;;;ЦФО
+Тягач;Scania;G-series;2016;5350000;Новониколаевский;https://auto.ru/artic/used/sale/scania/g/16477618-5db585b3/;820158;AT;6x2;440;2;2;M7 TRUCK Казань;6790000;1440000;Горячая цена! Срочно брать!;0;171000;0,31996;unclear;ПФО
+Тягач;МАЗ;5440;2017;2200000;Тамбов;https://auto.ru/artic/used/sale/maz/5440/16545588-2e570395/;264100;MT;6x2;410;2;1;;2540000;340000;Горячая цена! Срочно брать!;0;70000;0,4124;unclear;ЦФО
+Тягач;DAF;XF105;2016;4290000;Калининград;https://auto.ru/artic/used/sale/daf/xf105/16033760-469357d2/;490000;MT;4x2;460;2;2;;3810000;-480000;Цена завышена - можно поторговаться;20;137000;;;СЗФО
+Тягач;Scania;G-series;2020;9800000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/g/16553440-296597a6/;3000;AT;6x4;440;2;2;;8050000;-1750000;Цена завышена - можно поторговаться;30;314000;;;СЗФО
+Тягач;МАЗ;5440;2015;1750000;Саяногорск;https://auto.ru/artic/used/sale/maz/5440/16465584-dcf29452/;255000;MT;4x2;435;2;2;;1830000;80000;;10;;;;СФО
+Тягач;Volvo;FH;2017;5940000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16554356-345ad2a0/;424540;AT;4x2;500;;;ClassTrucks;5100000;-840000;Цена завышена - можно поторговаться;30;190000;;;УФО
+Тягач;Renault;T-Series;2017;5100000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16562682-9fd35aa3/;238753;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;СЗФО
+Тягач;Scania;G-series;2015;4000000;Казань;https://auto.ru/artic/used/sale/scania/g/16498374-5876aad5/;844704;AT;4x2;324;2;2;;4000000;0;;10;128000;;;ПФО
+Тягач;КамАЗ;5490;2018;4000000;Грозный;https://auto.ru/artic/used/sale/kamaz/5490/16300460-7d20b9ae/;4000;MT;4x2;401;2;1;;2860000;-1140000;Цена завышена - можно поторговаться;50;128000;;;СКФО
+Тягач;КамАЗ;43118;2015;2800000;Уфа;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16446393-aaf667e8/;80000;;;300;;;;1500000;-1300000;Цена завышена - можно поторговаться;100;;;;ПФО
+Тягач;IVECO;Stralis;2017;3800000;Воронеж;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16534208-28f3a4b8/;680000;MT;6x2;460;2;2;ГрузАвто-36;5440000;1640000;Горячая цена! Срочно брать!;0;122000;0,38668;unclear;ЦФО
+Тягач;DAF;XF;2016;4750000;Долгопрудный;https://auto.ru/artic/used/sale/daf/xf_series/16318974-3c43c382/;510000;AT;4x2;460;2;2;VH DAF;3950000;-800000;Цена завышена - можно поторговаться;30;152000;;;
+Тягач;КамАЗ;53504;2016;2500000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/53504/16349394-19b19b9e/;10000;MT;6x4;300;2;1;Автосалон на Мензелинском тракте;2080000;-420000;Цена завышена - можно поторговаться;30;;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;3100000;Брянск;https://auto.ru/artic/used/sale/mercedes/actros_t/16352376-ec1bf15a/;760000;AT;4x2;435;2;2;;4000000;900000;Горячая цена! Срочно брать!;0;99000;1;unclear;ЦФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16484812-10fdf68f/;610000;AT;4x2;460;2;2;ГРИН ЛАЙН;4870000;-180000;;10;162000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1605000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16558696-e2ede6d4/;597392;MT;4x2;400;2;1;M7 TRUCK Нижний Новгород;1580000;-25000;;10;;;;ПФО
+Тягач;DAF;XF105;2018;6390000;Людиново;https://auto.ru/artic/used/sale/daf/xf105/16410215-cfe0f2a7/;208000;AT;4x2;462;2;2;;5130000;-1260000;Цена завышена - можно поторговаться;30;204000;;;ЦФО
+Тягач;МАЗ;6425;2016;1554000;Красноярск;https://auto.ru/artic/used/sale/maz/6425/16265202-ab4c1ef1/;85000;MT;6x6;417;2;2;;2750000;1196000;Горячая цена! Срочно брать!;0;;1;ok;СФО
+Тягач;DAF;XF105;2015;3799990;Санкт-Петербург;https://auto.ru/artic/used/sale/daf/xf105/16512462-867e9179/;550000;MT;4x2;410;2;2;;3260000;-539990;Цена завышена - можно поторговаться;30;122000;;;СЗФО
+Тягач;MAN;TGX;2018;5500000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgx/16366138-2045bbbc/;114000;MT;4x2;400;2;1;SolexAuto;4960000;-540000;Цена завышена - можно поторговаться;20;176000;;;СЗФО
+Тягач;МАЗ;6425;2016;2200000;Кодинск;https://auto.ru/artic/used/sale/maz/6425/16193546-45106604/;80000;MT;6x6;418;2;2;;2750000;550000;Горячая цена! Срочно брать!;0;;1;unclear;СФО
+Тягач;Mercedes-Benz;Actros;2015;3918000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16530034-bac2e037/;713000;AT;6x4;408;2;1;M7 TRUCK Москва Юг;4150000;232000;Горячая цена! Срочно брать!;0;125000;;;ЦФО
+Тягач;Volvo;FH;2019;7260000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16554370-7921991d/;151099;AT;4x2;460;;;ClassTrucks;6190000;-1070000;Цена завышена - можно поторговаться;30;232000;;;СЗФО
+Тягач;КамАЗ;5410;2018;6975789;Железногорск;https://auto.ru/artic/used/sale/kamaz/5410/16426972-e590fcdf/;108618;MT;;401;2;2;;2940000;-4035789;Цена завышена - можно поторговаться;150;223000;;;
+Тягач;Volvo;FM;2017;6350000;Домодедово;https://auto.ru/artic/used/sale/volvo/fm_tractor/16459138-01632ceb/;118020;MT;6x4;428;2;1;Технический Центр ИНФОРКОМ;6290000;-60000;;10;203000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;2900000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16562140-e68a00ae/;725879;AT;4x2;408;2;2;АТРАКС;3410000;510000;Горячая цена! Срочно брать!;0;93000;0,40864;unclear;ПФО
+Тягач;Volvo;FH;2018;6300000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16451768-17f486f1/;320000;AT;4x2;460;2;2;ГРИН ЛАЙН;5600000;-700000;Цена завышена - можно поторговаться;20;202000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1550000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16570798-fe0b13de/;596371;MT;4x2;401;2;2;Global Truck Sales Екатеринбург;1980000;430000;Горячая цена! Срочно брать!;0;;0,41197;unclear;УФО
+Тягач;Mercedes-Benz;Actros;2017;4000000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16469586-cdfd5ad6/;317000;AT;4x2;435;2;2;;4520000;520000;Горячая цена! Срочно брать!;0;128000;0,46362;unclear;СЗФО
+Тягач;КамАЗ;5490;2017;3260000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16287386-e6b5fe87/;128505;MT;4x2;401;2;1;КАМЦЕНТР КамАЗ;2400000;-860000;Цена завышена - можно поторговаться;50;104000;;;ЦФО
+Тягач;КамАЗ;65206;2015;2310000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463066-82261e56/;295000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-140000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;5150000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16469508-ffb7b347/;429000;AT;6x4;456;2;1;;5660000;510000;Горячая цена! Срочно брать!;0;165000;;;СЗФО
+Тягач;КамАЗ;5490;2015;1470000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16330166-cad67ddd/;638000;;4x2;401;;;СОЛЛЕРС-ФИНАНС Екатеринбург;1520000;50000;;10;;;;УФО
+Тягач;Mercedes-Benz;Actros;2017;4500000;Новосибирск;https://auto.ru/artic/used/sale/mercedes/actros_t/16553862-8fc04592/;280000;AT;6x4;408;2;1;СибТракСкан;5520000;1020000;Горячая цена! Срочно брать!;0;144000;0,52985;unclear;СФО
+Тягач;МАЗ;6430;2018;3000000;Красноярск;https://auto.ru/artic/used/sale/maz/6430/16440206-1279aa66/;151182;MT;6x4;420;2;1;Альфа-Лизинг Россия;3090000;90000;;10;96000;;;СФО
+Тягач;МАЗ;6430;2019;3136000;Солонцы;https://auto.ru/artic/used/sale/maz/6430/16529034-1826c662/;25490;;;420;;;Сбербанк Лизинг;2580000;-556000;Цена завышена - можно поторговаться;30;100000;;;
+Тягач;Scania;G-series;2017;5500000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/g/16553772-0571d8a1/;580000;MT;6x2;400;2;1;;7680000;2180000;Горячая цена! Срочно брать!;0;176000;0,35036;unclear;СЗФО
+Тягач;Renault;T-Series;2017;4500000;Зеленоград;https://auto.ru/artic/used/sale/renault/t_series/16157210-920a7510/;435000;AT;4x2;469;2;2;СпецТранс Карго;4120000;-380000;Цена завышена - можно поторговаться;20;144000;;;ЦФО
+Тягач;МАЗ;6430;2018;2650000;Котельники;https://auto.ru/artic/used/sale/maz/6430/16508168-ae50d994/;183238;MT;6x4;420;2;2;Форсаж;3020000;370000;Горячая цена! Срочно брать!;0;85000;0,51956;unclear;
+Тягач;MAN;TGS;2018;5700000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgs/16558226-56a718f6/;235000;MT;6x4;441;2;1;;5310000;-390000;Цена завышена - можно поторговаться;20;182000;;;СЗФО
+Тягач;КамАЗ;5490;2016;1900000;Балахна;https://auto.ru/artic/used/sale/kamaz/5490/16536270-bb13429a/;545000;MT;4x2;401;;;ООО ТКС;1700000;-200000;Цена завышена - можно поторговаться;20;;;;
+Тягач;КамАЗ;65116;2015;1450000;Владимир;https://auto.ru/artic/used/sale/kamaz/65116/16111748-fa1c24b6/;210000;MT;6x4;300;2;1;;1810000;360000;Горячая цена! Срочно брать!;0;;1;unclear;ЦФО
+Тягач;МАЗ;6430;2018;3700000;Челябинск;https://auto.ru/artic/used/sale/maz/6430/16341038-823bccd2/;100000;MT;6x4;435;2;1;Альфа-Лизинг Россия;3250000;-450000;Цена завышена - можно поторговаться;20;118000;;;УФО
+Тягач;Mercedes-Benz;Axor;2016;3200000;Зеленоград;https://auto.ru/artic/used/sale/mercedes/axor_t/16528518-8eb5d523/;543000;MT;4x2;401;2;1;Global Truck Sales Москва Север;3170000;-30000;;10;102000;;;ЦФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457422-6fbaa3e2/;640000;;4x2;460;2;2;ГРИН ЛАЙН;4960000;-90000;;10;162000;;;ЦФО
+Тягач;Volvo;FM;2016;5480000;Санкт-Петербург;https://auto.ru/artic/used/sale/volvo/fm_tractor/16384332-b243cc72/;460930;AT;6x4;428;2;1;Global Truck Sales Санкт-Петербург;6250000;770000;Горячая цена! Срочно брать!;0;175000;1;ok;СЗФО
+Тягач;КамАЗ;44108;2016;3300000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/44108/16477900-1a2579fa/;6800;MT;6x6;300;2;1;ОАО РИАТ;2730000;-570000;Цена завышена - можно поторговаться;30;;;;ПФО
+Тягач;КамАЗ;5490;2016;1750000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16526462-215d11ac/;436961;MT;4x2;401;2;1;НК РУСМОБИЛЬ;1890000;140000;Горячая цена! Срочно брать!;0;;;;СЗФО
+Тягач;Scania;R-Series;2016;4475000;;https://auto.ru/artic/used/sale/scania/r_1/16234704-92c27b16/;687000;MT;4x2;440;2;2;M7 TRUCK Нижний Новгород;4390000;-85000;;10;143000;;;
+Тягач;КамАЗ;5490;2016;1790000;Казань;https://auto.ru/artic/used/sale/kamaz/5490/16569484-f2957631/;528000;MT;4x2;401;2;1;;1890000;100000;Горячая цена! Срочно брать!;0;;;;ПФО
+Тягач;КамАЗ;5490;2017;2290000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16500887-d7553693/;446153;MT;4x2;401;2;1;BS-Truck;2400000;110000;;10;73000;;;ПФО
+Тягач;Renault;T-Series;2018;5100000;Красногорск;https://auto.ru/artic/used/sale/renault/t_series/16568638-101bb129/;134786;;4x2;449;;;Альфа-Лизинг Москва;4690000;-410000;Цена завышена - можно поторговаться;20;163000;;;ЦФО
+Тягач;МАЗ;5440;2015;1350000;Челябинск;https://auto.ru/artic/used/sale/maz/5440/16160912-6debd03d/;410000;MT;4x2;310;2;1;;1210000;-140000;Цена завышена - можно поторговаться;20;;;;УФО
+Тягач;КамАЗ;65806;2016;3600000;Челябинск;https://auto.ru/artic/used/sale/kamaz/65806/16521026-a202b195/;156000;MT;6x4;428;2;1;;2510000;-1090000;Цена завышена - можно поторговаться;50;;;;УФО
+Тягач;Scania;G-series;2018;8700000;Иркутск;https://auto.ru/artic/used/sale/scania/g/16511960-a9a6064a/;83000;MT;6x6;500;2;2;ООО Эланд;8300000;-400000;;10;278000;;;СФО
+Тягач;КамАЗ;5490 NEO;2019;5850000;Москва;https://auto.ru/artic/used/sale/kamaz/5490_neo/16541688-3b640dfd/;84000;MT;4x2;401;2;2;ГРУЗОВИК-24;3130000;-2720000;Цена завышена - можно поторговаться;100;187000;;;ЦФО
+Тягач;MAN;TGS;2018;5000000;Обнинск;https://auto.ru/artic/used/sale/man/tgs/16549056-30bec772/;220000;MT;4x2;440;2;1;;4810000;-190000;;10;160000;;;ЦФО
+Тягач;Renault;T-Series;2017;5150000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16562770-08207b93/;151120;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ;4380000;-770000;Цена завышена - можно поторговаться;30;165000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;3940000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16343038-1cb18765/;317261;AT;4x2;440;2;2;Global Truck Sales Санкт-Петербург;4440000;500000;Горячая цена! Срочно брать!;0;126000;0,44962;unclear;СЗФО
+Тягач;КамАЗ;5490 NEO;2018;3180000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490_neo/16524800-d04a3092/;285000;MT;4x2;401;2;1;Global Truck Sales Екатеринбург;2860000;-320000;Цена завышена - можно поторговаться;20;102000;;;УФО
+Тягач;Volvo;FH;2017;5890000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16546252-82593ff8/;384403;AT;4x2;460;;;ClassTrucks;4950000;-940000;Цена завышена - можно поторговаться;30;188000;;;УФО
+Тягач;Scania;P-series;2015;3500000;Домодедово;https://auto.ru/artic/used/sale/scania/p_1/15908870-5c84eb2d/;299037;MT;4x2;440;2;1;"ООО""Трейд Моторс";3880000;380000;Горячая цена! Срочно брать!;0;112000;0,36999;unclear;ЦФО
+Тягач;Scania;S-Series;2017;6800000;Москва;https://auto.ru/artic/used/sale/scania/s_artic/16558644-091a7ea0/;461114;AT;4x2;450;2;2;Global Truck Sales Москва Север;6280000;-520000;Цена завышена - можно поторговаться;20;218000;;;ЦФО
+Тягач;КамАЗ;5490 NEO;2018;3250000;Авдон;https://auto.ru/artic/used/sale/kamaz/5490_neo/16542264-d2c8f5d1/;150000;AT;4x2;401;2;1;M7 TRUCK Уфа;3360000;110000;;10;104000;;;ПФО
+Тягач;Renault;T-Series;2017;5100000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16562780-97573d3d/;238753;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;ЦФО
+Тягач;Scania;R-Series;2017;5450000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/r_1/16276802-dd9c3da3/;316000;MT;4x2;400;2;2;;5400000;-50000;;10;174000;;;СЗФО
+Тягач;Volvo;FH;2019;7760000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16560938-489fd51e/;159536;AT;4x2;500;;;ClassTrucks;6080000;-1680000;Цена завышена - можно поторговаться;40;248000;;;УФО
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16478172-ffec1e99/;290000;AT;4x2;460;2;2;ГРИН ЛАЙН;5600000;-500000;Цена завышена - можно поторговаться;20;195000;;;ЦФО
+Тягач;Volvo;FH;2017;5000000;Ольша;https://auto.ru/artic/used/sale/volvo/fh_tractor/16469984-8358576f/;570000;AT;4x2;460;2;2;CargoLine group;4870000;-130000;;10;160000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2019;6490000;Хутор Маяковского;https://auto.ru/artic/used/sale/mercedes/actros_t/16393666-97373f2c/;25000;AT;4x2;421;2;2;ГРИФОН;5130000;-1360000;Цена завышена - можно поторговаться;40;208000;;;
+Тягач;MAN;TGX;2016;4800000;Москва;https://auto.ru/artic/used/sale/man/tgx/16155338-a8783f09/;300000;AT;4x2;440;2;2;;3980000;-820000;Цена завышена - можно поторговаться;30;154000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1610000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16537080-4204959c/;707511;MT;4x2;401;2;2;Global Truck Sales Санкт-Петербург;1980000;370000;Горячая цена! Срочно брать!;0;;0,43148;unclear;СЗФО
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16441872-52ba6709/;366000;AT;4x2;469;2;2;"ООО ""РЕД СТАР"" МАЗ Смоленск";5750000;-350000;Цена завышена - можно поторговаться;20;195000;;;ЦФО
+Тягач;КамАЗ;5490;2017;2000000;Волгоград;https://auto.ru/artic/used/sale/kamaz/5490/16296706-4591b5d1/;360000;;4x2;401;;;;2270000;270000;Горячая цена! Срочно брать!;0;64000;0,38236;unclear;ЮФО
+Тягач;Volvo;FH;2017;5200000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16570302-51b83619/;715000;AT;4x2;428;2;2;;4930000;-270000;Цена завышена - можно поторговаться;20;166000;;;УФО
+Тягач;Mercedes-Benz;Actros;2016;4000000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16536816-89644a7c/;450000;MT;6x4;408;2;1;;3840000;-160000;;10;128000;;;СЗФО
+Тягач;Scania;R-Series;2015;4000000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16451424-dc8e486b/;680000;AT;4x2;440;2;2;;4080000;80000;;10;128000;;;ЦФО
+Тягач;Scania;G-series;2015;4000000;;https://auto.ru/artic/used/sale/scania/g/16200816-2e8bd1ec/;930000;AT;4x2;400;2;2;СибТракСкан;4050000;50000;;10;128000;;;
+Тягач;Volvo;FH;2017;4997000;Ольша;https://auto.ru/artic/used/sale/volvo/fh_tractor/16031536-b4e2f70a/;580000;AT;4x2;469;2;2;Бест Транс;4980000;-17000;;10;160000;;;ЦФО
+Тягач;Volvo;FH;2017;6400000;Ревда;https://auto.ru/artic/used/sale/volvo/fh_tractor/16471296-145dc161/;500;AT;6x4;428;2;1;;7250000;850000;Горячая цена! Срочно брать!;0;205000;0,49471;unclear;УФО
+Тягач;Volvo;FH;2016;4400000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16468104-68f55049/;760000;MT;4x2;420;2;2;Компания АВТОТРАК Москва;3900000;-500000;Цена завышена - можно поторговаться;20;141000;;;ЦФО
+Тягач;МАЗ;5440;2018;3850000;Нижний Тагил;https://auto.ru/artic/used/sale/maz/5440/16528614-6a7fa00a/;207000;MT;4x2;420;2;2;;2530000;-1320000;Цена завышена - можно поторговаться;60;123000;;;
+Тягач;Mercedes-Benz;Actros;2015;3790000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16330400-158bb857/;750000;AT;4x2;435;2;2;;3520000;-270000;Цена завышена - можно поторговаться;20;121000;;;ЦФО
+Тягач;Scania;R-Series;2015;3750000;Авдон;https://auto.ru/artic/used/sale/scania/r_1/16529106-bf46c80f/;691688;AT;4x2;400;2;2;M7 TRUCK Уфа;4050000;300000;Горячая цена! Срочно брать!;0;120000;;;ПФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/15920186-8261e1ee/;230000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-390000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Volvo;FH;2018;5880000;Тольятти;https://auto.ru/artic/used/sale/volvo/fh_tractor/16513870-3bb90639/;565000;AT;4x2;420;2;2;;5510000;-370000;Цена завышена - можно поторговаться;20;188000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4940000;Тосно;https://auto.ru/artic/used/sale/mercedes/actros_t/16489484-c7215268/;655458;AT;4x2;450;;;ClassTrucks;3640000;-1300000;Цена завышена - можно поторговаться;50;158000;;;СЗФО
+Тягач;Volvo;FH;2017;5960000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16555622-0056662c/;368459;AT;4x2;460;;;ClassTrucks;4950000;-1010000;Цена завышена - можно поторговаться;30;191000;;;УФО
+Тягач;КамАЗ;5490;2018;3099999;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16471938-d16b2bc5/;184326;MT;4x2;401;2;2;;2890000;-209999;Цена завышена - можно поторговаться;20;99000;;;ПФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16441884-d3ff9e34/;552000;AT;4x2;469;2;2;"ООО ""РЕД СТАР"" МАЗ Смоленск";4980000;-70000;;10;162000;;;ЦФО
+Тягач;DAF;XF105;2015;3500000;Москва;https://auto.ru/artic/used/sale/daf/xf105/16158346-72388877/;535000;MT;4x2;460;2;2;БорнТракСервис;3390000;-110000;;10;112000;;;ЦФО
+Тягач;Volvo;FH;2017;6100000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16542410-a25b22df/;327214;AT;4x2;500;;;ClassTrucks;5100000;-1000000;Цена завышена - можно поторговаться;30;195000;;;ЦФО
+Тягач;Volvo;FM;2019;7850000;Домодедово;https://auto.ru/artic/used/sale/volvo/fm_tractor/16529146-eb4f3130/;18326;AT;6x4;428;2;1;Технический Центр ИНФОРКОМ;8930000;1080000;Горячая цена! Срочно брать!;0;251000;0,56998;unclear;ЦФО
+Тягач;Volvo;FH;2017;5940000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16537332-0955f676/;413355;AT;4x2;500;;;ClassTrucks;5100000;-840000;Цена завышена - можно поторговаться;30;190000;;;СЗФО
+Тягач;Volvo;FH;2018;5900000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457648-47f7a57b/;430000;AT;4x2;460;2;2;Партнер Лайн;5600000;-300000;Цена завышена - можно поторговаться;20;189000;;;ЦФО
+Тягач;МАЗ;5440;2017;3000000;Тамань;https://auto.ru/artic/used/sale/maz/5440/16472080-d36dc4ab/;120000;MT;4x2;410;2;1;;2100000;-900000;Цена завышена - можно поторговаться;50;96000;;;
+Тягач;IVECO;Stralis;2017;3509000;Брянск;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16407862-8e3f7f51/;269000;MT;4x2;420;2;1;Ивеко Велес Брянск;3400000;-109000;;10;112000;;;ЦФО
+Тягач;КамАЗ;65206;2016;2450000;Красногорск;https://auto.ru/artic/used/sale/kamaz/65206/16277026-32374cb0/;437531;AT;6x4;401;2;1;Альфа Трак;2790000;340000;Горячая цена! Срочно брать!;0;;1;ok;ЦФО
+Тягач;КамАЗ;65116;2017;2500000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/65116/16552188-4a77eb2f/;149000;MT;6x4;300;3;1;;2790000;290000;Горячая цена! Срочно брать!;0;80000;0,40073;unclear;УФО
+Тягач;КамАЗ;5490 NEO;2018;3390000;Уфа;https://auto.ru/artic/used/sale/kamaz/5490_neo/16536120-b5f09a5d/;169000;MT;4x2;401;2;1;Русбизнесавто Уфа;2860000;-530000;Цена завышена - можно поторговаться;30;108000;;;ПФО
+Тягач;КамАЗ;6460;2016;1900000;Алексин;https://auto.ru/artic/used/sale/kamaz/6460/16350314-cf001b5b/;98000;MT;6x4;400;2;2;;2540000;640000;Горячая цена! Срочно брать!;0;;1;unclear;ЦФО
+Тягач;DAF;XF105;2018;4850000;Москва;https://auto.ru/artic/used/sale/daf/xf105/16461404-75cee9fd/;390000;MT;;460;2;2;;5010000;160000;;10;155000;;;ЦФО
+Тягач;Volvo;FH;2017;5000000;Ольша;https://auto.ru/artic/used/sale/volvo/fh_tractor/15862402-fb2e235d/;525000;AT;4x2;460;2;2;Бест Транс;4870000;-130000;;10;160000;;;ЦФО
+Тягач;КамАЗ;5490;2017;2500000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16262610-ff1f9f2f/;312121;;4x2;401;;;;2270000;-230000;Цена завышена - можно поторговаться;20;80000;;;ПФО
+Тягач;КамАЗ;5490;2017;3150000;Воронеж;https://auto.ru/artic/used/sale/kamaz/5490/16001972-568b44dc/;450000;MT;4x2;400;2;2;;2560000;-590000;Цена завышена - можно поторговаться;30;101000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1890000;Казань;https://auto.ru/artic/used/sale/kamaz/5490/16527168-e17a182b/;411000;MT;4x2;400;2;1;;1850000;-40000;;10;;;;ПФО
+Тягач;Volvo;FH;2017;4750000;Кимовск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16463036-1a691f80/;271940;AT;4x2;469;2;2;Юнион КРОНЕ Кимовск;4980000;230000;;10;152000;;;ЦФО
+Тягач;КамАЗ;5490;2017;3200000;Мурманск;https://auto.ru/artic/used/sale/kamaz/5490/16368154-50a57f74/;268000;MT;4x2;438;2;1;;2510000;-690000;Цена завышена - можно поторговаться;40;102000;;;СЗФО
+Тягач;КамАЗ;5490;2017;2500000;Городец;https://auto.ru/artic/used/sale/kamaz/5490/16345888-24cfa3ce/;318500;MT;4x2;460;2;1;;2600000;100000;;10;80000;;;
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16502250-46edd97f/;587917;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;Volvo;FH;2019;7150000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16479798-b19250e7/;230000;AT;4x2;460;2;2;ГРИН ЛАЙН;5960000;-1190000;Цена завышена - можно поторговаться;30;229000;;;ЦФО
+Тягач;MAN;TGX;2018;4550000;Красноярск;https://auto.ru/artic/used/sale/man/tgx/16426810-57e61dba/;351000;;4x2;400;2;1;ГК САЛК;5270000;720000;Горячая цена! Срочно брать!;0;146000;0,55582;unclear;СФО
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459622-40ab090e/;301000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;МАЗ;5440;2016;2400000;Москва;https://auto.ru/artic/used/sale/maz/5440/16566874-cea9838b/;330000;MT;4x2;435;2;2;;2030000;-370000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Volvo;FH;2018;6530000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16535120-0c416920/;317148;AT;4x2;460;;;ClassTrucks;5940000;-590000;Цена завышена - можно поторговаться;20;209000;;;ЦФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457236-d31a5a07/;620000;AT;4x2;460;2;2;ГРИН ЛАЙН;4870000;-180000;;10;162000;;;ЦФО
+Тягач;Scania;R-Series;2016;4475000;;https://auto.ru/artic/used/sale/scania/r_1/16533344-905a3c7b/;678385;MT;4x2;440;2;2;M7 TRUCK Санкт-Петербург;4390000;-85000;;10;143000;;;
+Тягач;Scania;R-Series;2015;4000000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16545224-3b987911/;976000;MT;4x2;441;2;2;;3770000;-230000;Цена завышена - можно поторговаться;20;128000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2015;4750000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16137884-d5b024f1/;337000;AT;6x4;456;2;1;Вираж;4320000;-430000;Цена завышена - можно поторговаться;20;152000;;;СЗФО
+Тягач;Scania;R-Series;2015;3800000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16545196-5a6f34ca/;1058000;MT;4x2;441;2;2;;3770000;-30000;;10;122000;;;ПФО
+Тягач;MAN;TGS;2017;4500000;Калуга;https://auto.ru/artic/used/sale/man/tgs/16207884-fc4f1ac5/;406813;MT;4x2;400;2;1;;4380000;-120000;;10;144000;;;
+Тягач;КамАЗ;5490;2016;1860000;Москва и Московская область;https://auto.ru/artic/used/sale/kamaz/5490/16557442-98c7895b/;614081;MT;4x2;401;2;1;;1890000;30000;;10;;;;ЦФО
+Тягач;КамАЗ;44108;2019;3450000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/44108/16477916-de3183d0/;12600;MT;6x6;360;2;1;ОАО РИАТ;4570000;1120000;Горячая цена! Срочно брать!;0;110000;0,41717;unclear;ПФО
+Тягач;Volvo;FH;2017;5250000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16496878-52b423f3/;288892;AT;4x2;428;2;2;АГТ-Трейдинг;4930000;-320000;Цена завышена - можно поторговаться;20;168000;;;ЦФО
+Тягач;Scania;R-Series;2015;3800000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16543876-3de7acbd/;1021000;MT;4x2;441;2;2;;3770000;-30000;;10;122000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4100000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16484394-6131e3f3/;650000;AT;4x2;410;2;2;СТТ-АВТО;3990000;-110000;;10;131000;;;ЦФО
+Тягач;КамАЗ;5490;2016;2150000;Пенза;https://auto.ru/artic/used/sale/kamaz/5490/16408852-6938047b/;400000;MT;4x2;410;2;1;;1860000;-290000;Цена завышена - можно поторговаться;30;;;;ПФО
+Тягач;MAN;TGS;2017;4300000;Москва;https://auto.ru/artic/used/sale/man/tgs/16444086-b2eef300/;440000;;;400;;;;4660000;360000;Горячая цена! Срочно брать!;0;138000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459324-f6457926/;280000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;КамАЗ;5490 NEO;2018;3199999;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490_neo/16549874-3b46bc95/;215000;MT;4x2;401;2;1;;2860000;-339999;Цена завышена - можно поторговаться;20;102000;;;ПФО
+Тягач;КамАЗ;5490;2016;1910000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456356-2d2f01ef/;244000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-20000;;10;;;;ЦФО
+Тягач;МАЗ;5440;2018;3050000;Белгород;https://auto.ru/artic/used/sale/maz/5440/16159866-75632fdb/;20000;MT;;420;2;2;;2570000;-480000;Цена завышена - можно поторговаться;30;98000;;;ЦФО
+Тягач;Renault;T-Series;2017;3500000;Люберцы;https://auto.ru/artic/used/sale/renault/t_series/16559286-53de0181/;603842;AT;4x2;439;2;2;PRO АВТО;4030000;530000;Горячая цена! Срочно брать!;0;112000;0,38181;unclear;ЦФО
+Тягач;Renault;T-Series;2017;5150000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16562690-ee4ff6e2/;151120;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4380000;-770000;Цена завышена - можно поторговаться;30;165000;;;СЗФО
+Тягач;КамАЗ;5490;2016;1780000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16255530-341db1e7/;350000;MT;4x2;400;2;1;;1850000;70000;;10;;;;СЗФО
+Тягач;Scania;R-Series;2015;7500000;Киров;https://auto.ru/artic/used/sale/scania/r_1/16551264-66c87828/;442400;AT;4x2;440;2;2;;4080000;-3420000;Цена завышена - можно поторговаться;90;240000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1750000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16400696-c1844f32/;638646;MT;4x2;428;2;2;Global Truck Sales Екатеринбург;2040000;290000;Горячая цена! Срочно брать!;0;;1;ok;УФО
+Тягач;Volvo;FM;2016;5500000;Красноярск;https://auto.ru/artic/used/sale/volvo/fm_tractor/16565488-6df0e120/;205165;MT;6x6;400;2;2;РусТрансТоргСервис;6340000;840000;Горячая цена! Срочно брать!;0;176000;0,49059;unclear;СФО
+Тягач;Scania;G-series;2017;5100000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/g/16562352-5eee2e41/;400000;AT;4x2;440;2;2;;5310000;210000;;10;163000;;;СЗФО
+Тягач;КамАЗ;5490;2016;2099000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16482848-8efff08d/;478855;MT;4x2;400;2;1;GROSS AUTO;1850000;-249000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16501369-b0b2050a/;514981;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;КамАЗ;5490;2017;2550000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16442204-3c85940a/;266230;MT;4x2;401;2;1;BS-Truck;2400000;-150000;Цена завышена - можно поторговаться;20;82000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2015;3750000;Белгород;https://auto.ru/artic/used/sale/mercedes/actros_t/16352974-7262620c/;430000;AT;4x2;410;2;2;GOODTRUCKS;3470000;-280000;Цена завышена - можно поторговаться;20;120000;;;ЦФО
+Тягач;Renault;T-Series;2017;4750000;Солнечногорск;https://auto.ru/artic/used/sale/renault/t_series/16505140-11fe71d9/;477361;AT;4x2;480;2;2;АЙС КУБ;4370000;-380000;Цена завышена - можно поторговаться;20;152000;;;ЦФО
+Тягач;КамАЗ;5490;2018;3050000;Череповец;https://auto.ru/artic/used/sale/kamaz/5490/16517598-fdb53696/;200000;MT;4x2;401;2;1;;2860000;-190000;Цена завышена - можно поторговаться;20;98000;;;СЗФО
+Тягач;Mercedes-Benz;Actros;2017;4500000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16353912-84ca4c86/;570000;AT;4x2;430;2;2;Компания АВТОТРАК Москва;5130000;630000;Горячая цена! Срочно брать!;0;144000;1;ok;ЦФО
+Тягач;КамАЗ;5490 NEO;2018;3450000;Москва;https://auto.ru/artic/used/sale/kamaz/5490_neo/16563344-8d3c1b80/;102343;AT;4x2;401;2;1;КАМЦЕНТР КамАЗ;3360000;-90000;;10;110000;;;ЦФО
+Тягач;MAN;33;2017;4850000;Пермь;https://auto.ru/artic/used/sale/man/33_1/16543640-dd384dce/;480000;MT;6x4;440;2;1;;5120000;270000;Горячая цена! Срочно брать!;0;155000;;;УФО
+Тягач;DAF;XF105;2017;5200000;Москва;https://auto.ru/artic/used/sale/daf/xf105/16557864-f5620541/;500000;MT;4x4;462;2;1;;4850000;-350000;Цена завышена - можно поторговаться;20;166000;;;ЦФО
+Тягач;Volvo;FM;2016;6449000;Якутск;https://auto.ru/artic/used/sale/volvo/fm_tractor/15571850-e2a3188a/;196000;AT;6x4;438;2;2;УРАЛЛИЗИНГ;5730000;-719000;Цена завышена - можно поторговаться;20;206000;;;ДВФО
+Тягач;Mercedes-Benz;Actros;2016;3900000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16471364-8f5088f0/;539878;AT;4x2;408;2;2;Камавтокомплект-Трак;3880000;-20000;;10;125000;;;ПФО
+Тягач;КамАЗ;5490 NEO;2018;3275000;Авдон;https://auto.ru/artic/used/sale/kamaz/5490_neo/16544303-55fc75e2/;190541;AT;4x2;401;2;1;M7 TRUCK Уфа;3360000;85000;;10;105000;;;ПФО
+Тягач;КамАЗ;53504;2015;2300000;Урай;https://auto.ru/artic/used/sale/kamaz/53504/16454944-930addda/;72600;MT;6x6;300;2;1;;2380000;80000;;10;;;;СФО
+Тягач;КамАЗ;5490;2015;1790000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16499652-237c5334/;384530;AT;4x2;401;2;2;Global Truck Sales Екатеринбург;2150000;360000;Горячая цена! Срочно брать!;0;;0,38319;unclear;УФО
+Тягач;Volvo;FH;2017;5300000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16450598-166e4bcf/;350;AT;4x2;460;2;2;;4870000;-430000;Цена завышена - можно поторговаться;20;170000;;;УФО
+Тягач;Mercedes-Benz;Actros;2016;5010000;Тосно;https://auto.ru/artic/used/sale/mercedes/actros_t/16512014-ea812d9a/;646696;AT;4x2;450;;;ClassTrucks;3640000;-1370000;Цена завышена - можно поторговаться;50;160000;;;СЗФО
+Тягач;Renault;T-Series;2015;3590000;Уфа;https://auto.ru/artic/used/sale/renault/t_series/16202450-7491be73/;522000;AT;4x2;469;2;1;Бизнес Авто;3230000;-360000;Цена завышена - можно поторговаться;20;;;;ПФО
+Тягач;Volvo;FH;2019;7100000;Санкт-Петербург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16546618-6301da5c/;230000;AT;4x2;469;2;2;;6130000;-970000;Цена завышена - можно поторговаться;30;227000;;;СЗФО
+Тягач;IVECO;Stralis;2018;4577000;Ставропольский край;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16560590-6ed4a025/;109000;MT;4x2;480;2;2;;4990000;413000;Горячая цена! Срочно брать!;0;146000;;;
+Тягач;КамАЗ;5490;2017;2400000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16477588-22912e60/;500000;;4x2;400;;;;2250000;-150000;Цена завышена - можно поторговаться;20;77000;;;ПФО
+Тягач;IVECO;Stralis;2018;5900000;Екатеринбург;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16246768-18e70142/;110000;AT;4x2;330;;;СОЛЛЕРС-ФИНАНС Екатеринбург;4230000;-1670000;Цена завышена - можно поторговаться;50;189000;;;УФО
+Тягач;КамАЗ;5490;2017;2390000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16502654-b86679d5/;166638;MT;4x2;400;2;1;ГРУЗ СОЮЗ;2380000;-10000;;10;76000;;;ЦФО
+Тягач;Scania;G-series;2020;8600000;Москва;https://auto.ru/artic/used/sale/scania/g/16520454-f976225d/;11000;AT;4x2;440;2;2;Север-Скан АВТО;6790000;-1810000;Цена завышена - можно поторговаться;40;275000;;;ЦФО
+Тягач;Volvo;FH;2017;5100000;Кимовск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16463034-330369b5/;271940;AT;4x2;469;2;2;Юнион КРОНЕ Кимовск;4980000;-120000;;10;163000;;;ЦФО
+Тягач;КамАЗ;5490;2017;2400000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16358862-a04e5a5f/;450000;MT;4x2;401;2;1;;2400000;0;;10;77000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2017;4400000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16565472-d053f47c/;320000;AT;4x2;410;2;2;ЮНАЙТЕД ТРАК СЕРВИСИЗ (ЮТС);4570000;170000;;10;141000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1350000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16567684-7a48df3d/;700000;MT;;400;2;2;;1980000;630000;Горячая цена! Срочно брать!;0;;0,56849;unclear;СЗФО
+Тягач;Mercedes-Benz;Actros;2015;3799777;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16471934-923e92ea/;583701;AT;4x2;440;2;2;ТТ777;3520000;-279777;Цена завышена - можно поторговаться;20;122000;;;ЦФО
+Тягач;IVECO;Stralis;2018;3433000;Липецк;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16388390-ea5fb611/;391805;MT;4x2;480;2;2;Европлан Краснодар;4990000;1557000;Горячая цена! Срочно брать!;0;110000;1;ok;ЦФО
+Тягач;КамАЗ;65806;2018;6140000;Благовещенск;https://auto.ru/artic/used/sale/kamaz/65806/16433608-afbe20b1/;9200;MT;6x4;428;2;1;;3680000;-2460000;Цена завышена - можно поторговаться;80;196000;;;ДВФО
+Тягач;Volvo;FH;2016;4849000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16550612-c9b992f6/;587000;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;4280000;-569000;Цена завышена - можно поторговаться;20;155000;;;ЦФО
+Тягач;МАЗ;6430;2016;2650000;Москва;https://auto.ru/artic/used/sale/maz/6430/16555578-439275d6/;139207;MT;6x4;410;2;2;ГРУЗ СОЮЗ;2290000;-360000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Volvo;FH;2015;4300000;Казань;https://auto.ru/artic/used/sale/volvo/fh_tractor/16498334-818b12ea/;737300;AT;4x2;428;2;2;;3510000;-790000;Цена завышена - можно поторговаться;30;138000;;;ПФО
+Тягач;МАЗ;5440;2016;1900000;Пенза;https://auto.ru/artic/used/sale/maz/5440/16044574-f22b8518/;280000;MT;4x2;410;2;2;;1980000;80000;;10;;;;ПФО
+Тягач;Scania;G-series;2017;5790000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/g/16419632-8a687d0d/;330000;MT;4x2;340;2;2;;5420000;-370000;Цена завышена - можно поторговаться;20;185000;;;СЗФО
+Тягач;МАЗ;6430;2019;3136000;Солонцы;https://auto.ru/artic/used/sale/maz/6430/16528990-c3cff761/;25511;MT;;420;;;Сбербанк Лизинг;2400000;-736000;Цена завышена - можно поторговаться;40;100000;;;
+Тягач;МАЗ;6430;2017;2150000;Москва;https://auto.ru/artic/used/sale/maz/6430/16373108-8734c182/;200000;MT;6x4;410;2;2;Аскет-Авто;2680000;530000;Горячая цена! Срочно брать!;0;69000;1;ok;ЦФО
+Тягач;Volvo;FH;2017;5050000;Краснодар;https://auto.ru/artic/used/sale/volvo/fh_tractor/15511720-ff204206/;550000;AT;4x2;460;2;2;Собер-Авто;4870000;-180000;;10;162000;;;ЮФО
+Тягач;МАЗ;6430;2017;3300000;Сыктывкар;https://auto.ru/artic/used/sale/maz/6430/16565610-cee26be3/;270000;MT;6x4;430;2;2;;2750000;-550000;Цена завышена - можно поторговаться;30;106000;;;
+Тягач;КамАЗ;65206;2015;2485000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463058-c5bac556/;310000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-315000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;43118;2018;5450000;Миасс;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16476984-9a8e8396/;20000;MT;6x6;300;2;0;;3720000;-1730000;Цена завышена - можно поторговаться;60;174000;;;УФО
+Тягач;Scania;R-Series;2016;4510000;Авдон;https://auto.ru/artic/used/sale/scania/r_1/16525110-5a96d220/;709302;MT;4x2;440;2;2;M7 TRUCK Уфа;4390000;-120000;;10;144000;;;ПФО
+Тягач;Volvo;FH;2019;7208676;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16441866-d973eec2/;269000;AT;4x2;469;2;2;"ООО ""РЕД СТАР"" МАЗ Смоленск";6130000;-1078676;Цена завышена - можно поторговаться;30;231000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4350000;Ижевск;https://auto.ru/artic/used/sale/mercedes/actros_t/16507484-866a8a9a/;441914;AT;4x2;456;;;;3780000;-570000;Цена завышена - можно поторговаться;30;139000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2018;4700000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16546182-ee062458/;263000;AT;4x2;408;;;Mercedes-Benz Financial Services Rus;5040000;340000;Горячая цена! Срочно брать!;0;150000;;;ЦФО
+Тягач;MAN;TGS;2017;4000000;Кострома;https://auto.ru/artic/used/sale/man/tgs/16263022-69a7eb6b/;240000;MT;4x2;400;2;1;;4380000;380000;Горячая цена! Срочно брать!;0;128000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2019;6585704;Ольша;https://auto.ru/artic/used/sale/mercedes/actros_t/16513478-cca68a03/;290000;AT;4x2;449;2;2;CargoLine group;6200000;-385704;Цена завышена - можно поторговаться;20;211000;;;ЦФО
+Тягач;MAN;TGX;2018;5000000;Красногорск;https://auto.ru/artic/used/sale/man/tgx/16562100-61de7854/;301187;AT;4x2;480;2;2;Альфа-Лизинг Москва;5580000;580000;Горячая цена! Срочно брать!;0;160000;0,5751;unclear;ЦФО
+Тягач;Renault;T-Series;2017;5100000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16563198-4ba50826/;160392;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;ЦФО
+Тягач;КамАЗ;65116;2015;1950000;Люберцы;https://auto.ru/artic/used/sale/kamaz/65116/16454798-8d800973/;200000;MT;6x2;298;2;1;;1720000;-230000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;МАЗ;5440;2016;1350000;Воронеж;https://auto.ru/artic/used/sale/maz/5440/16569442-4ac883c6/;297965;MT;4x2;400;2;1;;1670000;320000;Горячая цена! Срочно брать!;0;;0,46553;unclear;ЦФО
+Тягач;Renault;T-Series;2017;5100000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16562706-ba9c71db/;238753;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Свердловской области;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;УФО
+Тягач;Mercedes-Benz;Axor;2016;3100000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/axor_t/16281830-b1f0187c/;403000;MT;4x2;401;2;1;;3170000;70000;;10;99000;;;СЗФО
+Тягач;DAF;XF;2016;5600000;Тольятти;https://auto.ru/artic/used/sale/daf/xf_series/16539046-daf5a44d/;220000;AT;4x2;460;2;2;;3950000;-1650000;Цена завышена - можно поторговаться;50;179000;;;ПФО
+Тягач;Scania;R-Series;2015;4000000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/r_1/16544650-d7c9cf1a/;997400;MT;4x2;441;2;2;;3770000;-230000;Цена завышена - можно поторговаться;20;128000;;;ПФО
+Тягач;Volvo;FH;2018;6820000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16519844-887d664f/;221967;AT;4x2;460;;;ClassTrucks;5940000;-880000;Цена завышена - можно поторговаться;20;218000;;;СЗФО
+Тягач;КамАЗ;5490;2016;1899000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/15253452-6ddafb00/;269000;MT;4x2;401;2;1;;1890000;-9000;;10;;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16501393-308d0dbd/;517276;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;КамАЗ;5490;2017;1790000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16516806-927684cf/;390000;MT;4x2;401;2;1;ГРУЗОВИК-24;2400000;610000;Горячая цена! Срочно брать!;0;57000;0,52173;no_vat;ЦФО
+Тягач;Scania;P-series;2016;4400000;Москва;https://auto.ru/artic/used/sale/scania/p_1/16552986-ce6e5284/;650000;MT;6x4;400;2;1;;5380000;980000;Горячая цена! Срочно брать!;0;141000;0,479;unclear;ЦФО
+Тягач;Scania;G-series;2016;4349000;Новониколаевский;https://auto.ru/artic/used/sale/scania/g/16471366-53e5ef87/;658689;AT;4x2;440;2;2;M7 TRUCK Казань;4670000;321000;Горячая цена! Срочно брать!;0;139000;;;ПФО
+Тягач;КамАЗ;5490;2017;3280000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16287394-ff18c70a/;118307;MT;4x2;401;2;1;КАМЦЕНТР КамАЗ;2400000;-880000;Цена завышена - можно поторговаться;50;105000;;;ЦФО
+Тягач;КамАЗ;65206;2018;3599000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/65206/16517668-3bf0e3fb/;146892;MT;6x4;428;2;1;УРАЛЛИЗИНГ;3680000;81000;;10;115000;;;УФО
+Тягач;Scania;G-series;2019;1600000;Заречный;https://auto.ru/artic/used/sale/scania/g/16542040-60cf43fe/;150000;MT;4x2;400;2;2;;6460000;4860000;Горячая цена! Срочно брать!;0;51000;1;leasing;
+Тягач;IVECO;Stralis;2018;3000000;Воронеж;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16492850-139ca934/;391805;;4x2;420;;;Европлан Краснодар;4330000;1330000;Горячая цена! Срочно брать!;0;96000;1;ok;ЦФО
+Тягач;Volvo;FM;2017;7000000;Одинцово;https://auto.ru/artic/used/sale/volvo/fm_tractor/16497596-f8e928bc/;720000;MT;6x4;420;2;1;;6580000;-420000;Цена завышена - можно поторговаться;20;224000;;;
+Тягач;КамАЗ;65116;2016;1400000;Воронеж;https://auto.ru/artic/used/sale/kamaz/65116/16325970-0aeb83ee/;74000;MT;6x4;219;2;1;;1880000;480000;Горячая цена! Срочно брать!;0;;1;unclear;ЦФО
+Тягач;DAF;XF;2017;5944933;Брянск;https://auto.ru/artic/used/sale/daf/xf_series/16297808-90ddd275/;265000;AT;4x2;460;2;2;РосТрансАвто Брянск;4390000;-1554933;Цена завышена - можно поторговаться;50;190000;;;ЦФО
+Тягач;Scania;P-series;2018;4300000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/p_1/16351236-38b9592d/;347000;MT;4x2;400;2;1;;6320000;2020000;Горячая цена! Срочно брать!;0;138000;1;ok;СЗФО
+Тягач;Scania;G-series;2018;2500000;Пенза;https://auto.ru/artic/used/sale/scania/g/16544092-b9d81467/;258000;AT;4x2;400;2;2;;6450000;3950000;Горячая цена! Срочно брать!;0;80000;1;leasing;ПФО
+Тягач;Renault;T-Series;2017;5150000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16562312-e95c8d8d/;139754;AT;4x2;460;2;2;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4060000;-1090000;Цена завышена - можно поторговаться;40;165000;;;СЗФО
+Тягач;Scania;G-series;2016;4300000;Новосибирск;https://auto.ru/artic/used/sale/scania/g/16553380-d3ed1546/;650000;MT;4x2;400;2;2;;4490000;190000;;10;138000;;;СФО
+Тягач;КамАЗ;65806;2016;1908498;Иркутск;https://auto.ru/artic/used/sale/kamaz/65806/16132434-0ebacfa9/;89533;MT;6x4;428;2;1;CARCADE AUTO;2510000;601502;Горячая цена! Срочно брать!;0;;1;ok;СФО
+Тягач;DAF;XF105;2017;5500000;Москва;https://auto.ru/artic/used/sale/daf/xf105/16542074-31fd5cf6/;217000;MT;4x2;460;2;2;;4430000;-1070000;Цена завышена - можно поторговаться;30;176000;;;ЦФО
+Тягач;Mercedes-Benz;Axor;2018;3900000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/axor_t/16554346-635d1969/;277000;MT;4x2;401;2;1;;4390000;490000;Горячая цена! Срочно брать!;0;125000;0,46898;unclear;СЗФО
+Тягач;МАЗ;6430;2018;3200000;Хотьково;https://auto.ru/artic/used/sale/maz/6430/16537960-0e5ab9d5/;20792;MT;6x4;435;2;2;;3170000;-30000;;10;102000;;;
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/15920006-cb9a48f5/;230000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;MAN;TGS;2017;3550000;Москва;https://auto.ru/artic/used/sale/man/tgs/16450912-fb56cc0b/;560000;MT;4x2;400;2;1;;4380000;830000;Горячая цена! Срочно брать!;0;114000;0,39709;unclear;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4940000;Екатеринбург;https://auto.ru/artic/used/sale/mercedes/actros_t/16511430-76c83a98/;667665;AT;4x2;450;;;ClassTrucks;3640000;-1300000;Цена завышена - можно поторговаться;50;158000;;;УФО
+Тягач;MAN;TGX;2020;7710758;Краснодар;https://auto.ru/artic/used/sale/man/tgx/16500823-1baafe4f/;3370;AT;4x2;440;2;2;;5430000;-2280758;Цена завышена - можно поторговаться;50;247000;;;ЮФО
+Тягач;Mercedes-Benz;Actros;2015;3650000;Казань;https://auto.ru/artic/used/sale/mercedes/actros_t/16568760-7549da73/;907000;AT;4x2;400;2;2;;3430000;-220000;Цена завышена - можно поторговаться;20;117000;;;ПФО
+Тягач;MAN;TGX;2020;7900000;Челябинск;https://auto.ru/artic/used/sale/man/tgx/16351270-ca33609a/;3000;AT;4x2;440;2;2;;5430000;-2470000;Цена завышена - можно поторговаться;60;253000;;;УФО
+Тягач;MAN;TGX;2017;4399000;Екатеринбург;https://auto.ru/artic/used/sale/man/tgx/16339838-895c2baa/;365000;MT;4x2;400;2;1;;4380000;-19000;;10;141000;;;УФО
+Тягач;Scania;R-Series;2016;4498500;Чёрная Грязь;https://auto.ru/artic/used/sale/scania/r_1/16326206-fba2e3d8/;631827;MT;4x2;440;2;2;M7 TRUCK Москва;4390000;-108500;;10;144000;;;ЦФО
+Тягач;Mercedes-Benz;Axor;2017;3600000;Новониколаевский;https://auto.ru/artic/used/sale/mercedes/axor_t/16493272-fb728add/;582179;AT;4x2;401;2;2;M7 TRUCK Казань;4360000;760000;Горячая цена! Срочно брать!;0;115000;0,46293;unclear;ПФО
+Тягач;Renault;T-Series;2017;4649000;Москва;https://auto.ru/artic/used/sale/renault/t_series/16060068-f36681a1/;125000;AT;4x2;440;2;2;БорнТракСервис;4050000;-599000;Цена завышена - можно поторговаться;20;149000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1320000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16555754-b8e6b445/;595000;MT;4x2;401;2;1;ГРУЗОВИК-24;1610000;290000;Горячая цена! Срочно брать!;0;;0,35317;unclear;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16502562-335bfa9f/;542629;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;3800000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16471386-d5ed35aa/;760282;AT;4x2;408;2;2;Камавтокомплект-Трак;3880000;80000;;10;122000;;;ПФО
+Тягач;Scania;G-series;2017;4800000;Набережные Челны;https://auto.ru/artic/used/sale/scania/g/16454228-e27f52b9/;632916;AT;4x2;440;2;2;M7 TRUCK Набережные Челны;5310000;510000;Горячая цена! Срочно брать!;0;154000;0,50174;unclear;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16502338-f6977d11/;494534;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;Scania;P-series;2016;4100000;Краснодар;https://auto.ru/artic/used/sale/scania/p_1/16200702-523813b6/;360000;AT;4x2;400;2;1;;5050000;950000;Горячая цена! Срочно брать!;0;131000;1;ok;ЮФО
+Тягач;КамАЗ;5490;2016;1990000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16006174-589d5d94/;498765;MT;4x2;400;2;1;GROSS AUTO;1850000;-140000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Volvo;FH;2019;7297672;Краснодар;https://auto.ru/artic/used/sale/volvo/fh_tractor/15745523-4bd5aeab/;250000;AT;4x2;460;2;2;Собер-Авто;5960000;-1337672;Цена завышена - можно поторговаться;30;234000;;;ЮФО
+Тягач;КамАЗ;5490;2017;2990000;;https://auto.ru/artic/used/sale/kamaz/5490/16383364-8f133410/;60000;MT;4x2;401;2;1;РБА-Урал Пермь;2400000;-590000;Цена завышена - можно поторговаться;30;96000;;;
+Тягач;Scania;R-Series;2015;3850000;Дурыкино;https://auto.ru/artic/used/sale/scania/r_1/16524468-a08b84bb/;785623;AT;4x2;440;2;2;VEGA;4080000;230000;Горячая цена! Срочно брать!;0;123000;;;
+Тягач;MAN;TGX;2017;4650000;Ростов-на-Дону;https://auto.ru/artic/used/sale/man/tgx/16553518-3669b895/;500000;MT;4x2;400;2;1;НЕЙС-ЮГ Ростов-на-Дону;4380000;-270000;Цена завышена - можно поторговаться;20;149000;;;ЮФО
+Тягач;Mercedes-Benz;Axor;2016;2980000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/axor_t/16403012-4b95956d/;323000;MT;4x2;401;2;1;МБ тракс СПб;3170000;190000;Горячая цена! Срочно брать!;0;95000;;;СЗФО
+Тягач;Mercedes-Benz;Actros;2016;3350000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16431072-97724da9/;430000;AT;4x2;410;2;2;;3990000;640000;Горячая цена! Срочно брать!;0;107000;0,45949;unclear;СЗФО
+Тягач;КамАЗ;65225;2017;3400000;Новый Уренгой;https://auto.ru/artic/used/sale/kamaz/65225_t/16505058-ffc32ca1/;80000;MT;6x6;400;2;1;;3960000;560000;Горячая цена! Срочно брать!;0;109000;0,40578;unclear;
+Тягач;DAF;XF105;2017;4400000;Красногорск;https://auto.ru/artic/used/sale/daf/xf105/16561458-434075e5/;349464;;;462;;;Альфа-Лизинг Москва;4220000;-180000;;10;141000;;;ЦФО
+Тягач;Volvo;FH;2019;7760000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16570660-c3eee3ca/;163245;AT;4x2;500;;;ClassTrucks;6080000;-1680000;Цена завышена - можно поторговаться;40;248000;;;ЦФО
+Тягач;MAN;TGX;2017;4800000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgx/16208284-d8635028/;600000;MT;4x2;440;2;1;;4330000;-470000;Цена завышена - можно поторговаться;20;154000;;;СЗФО
+Тягач;Scania;P-series;2016;5500000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/p_1/16468108-cffdfc0f/;445000;MT;6x4;400;2;1;НК РУСМОБИЛЬ;5380000;-120000;;10;176000;;;СЗФО
+Тягач;КамАЗ;5490;2016;2500000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/15636508-d4b29b3b/;200000;MT;4x2;420;2;2;;2220000;-280000;Цена завышена - можно поторговаться;20;;;;СЗФО
+Тягач;MAN;TGX;2016;4800000;Мытищи;https://auto.ru/artic/used/sale/man/tgx/16262736-9a6fd435/;286000;AT;4x2;480;2;2;КОМДОРАВТО;4410000;-390000;Цена завышена - можно поторговаться;20;154000;;;ЦФО
+Тягач;MAN;TGX;2018;5795000;Смоленск;https://auto.ru/artic/used/sale/man/tgx/16338196-8f18bdbe/;395000;AT;4x2;480;;;ГРИН ЛАЙН;5780000;-15000;;10;185000;;;ЦФО
+Тягач;Volvo;FH;2018;5850000;Уфа;https://auto.ru/artic/used/sale/volvo/fh_tractor/10579040-33dd06d5/;440000;AT;4x2;420;2;1;;6160000;310000;Горячая цена! Срочно брать!;0;187000;1;unclear;ПФО
+Тягач;КамАЗ;5490;2019;4500000;Каменск-Шахтинский;https://auto.ru/artic/used/sale/kamaz/5490/16466548-50b29401/;28000;MT;4x2;401;2;1;;3180000;-1320000;Цена завышена - можно поторговаться;50;144000;;;ЮФО
+Тягач;КамАЗ;5490;2019;4250000;Ольша;https://auto.ru/artic/used/sale/kamaz/5490/16486832-74fc9af1/;100000;MT;4x2;400;2;1;CargoLine group;3250000;-1000000;Цена завышена - можно поторговаться;40;136000;;;ЦФО
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459572-fb01594f/;300000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;IVECO;Stralis;2017;4200000;Воронеж;https://auto.ru/artic/used/sale/iveco/stralis_tractor/15880659-c7b226a3/;280000;MT;4x2;420;2;2;;3520000;-680000;Цена завышена - можно поторговаться;30;134000;;;ЦФО
+Тягач;DAF;CF-series;2019;8000000;Коломна;https://auto.ru/artic/used/sale/daf/cf_series_1/16403328-8aa882de/;50000;MT;6x2;462;2;2;;6460000;-1540000;Цена завышена - можно поторговаться;30;256000;;;ЦФО
+Тягач;MAN;TGS;2017;4400000;Боровск;https://auto.ru/artic/used/sale/man/tgs/15958656-be78a369/;326000;MT;4x2;400;2;1;;4380000;-20000;;10;141000;;;ЦФО
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16478186-eac2932f/;360000;AT;4x2;460;2;2;ГРИН ЛАЙН;5600000;-500000;Цена завышена - можно поторговаться;20;195000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4030000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16496660-486ffe99/;730000;AT;4x2;410;2;2;СТТ-АВТО;3990000;-40000;;10;129000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1625000;Уфа;https://auto.ru/artic/used/sale/kamaz/5490/16362420-ab9803d2/;472630;AT;4x2;401;2;1;;2240000;615000;Горячая цена! Срочно брать!;0;;1;no_vat;ПФО
+Тягач;Scania;R-Series;2015;3750000;Новониколаевский;https://auto.ru/artic/used/sale/scania/r_1/16491320-f11eb180/;785974;AT;4x2;400;2;2;M7 TRUCK Казань;4050000;300000;Горячая цена! Срочно брать!;0;120000;;;ПФО
+Тягач;DAF;CF-series;2019;7000000;Москва;https://auto.ru/artic/used/sale/daf/cf_series_1/16419220-98320b22/;56000;MT;6x2;462;2;2;70тонн;6460000;-540000;Цена завышена - можно поторговаться;20;224000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;3900000;Воронеж;https://auto.ru/artic/used/sale/mercedes/actros_t/16521042-fd732952/;774000;AT;4x2;410;2;2;;3990000;90000;;10;125000;;;ЦФО
+Тягач;Mercedes-Benz;Axor;2016;3200000;Зеленоград;https://auto.ru/artic/used/sale/mercedes/axor_t/16528528-730412a8/;402865;MT;4x2;401;2;1;Global Truck Sales Москва Север;3170000;-30000;;10;102000;;;ЦФО
+Тягач;Volvo;FH;2017;7600000;Красноярск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16103054-9befa490/;500253;AT;6x4;510;2;2;"ООО ""Автокредит""";6120000;-1480000;Цена завышена - можно поторговаться;30;243000;;;СФО
+Тягач;КамАЗ;65116;2019;4800000;Красноярск;https://auto.ru/artic/used/sale/kamaz/65116/16537036-ee81955d/;44167;MT;6x4;300;3;1;Альфа-Лизинг Россия;3810000;-990000;Цена завышена - можно поторговаться;40;154000;;;СФО
+Тягач;Volvo;FH;2017;5100000;Кимовск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16535720-d1a349d7/;352960;AT;4x2;469;;;Юнион КРОНЕ Кимовск;4990000;-110000;;10;163000;;;ЦФО
+Тягач;Scania;G-series;2019;9600000;Нижний Новгород;https://auto.ru/artic/used/sale/scania/g/16570888-7354c6fc/;41000;MT;6x4;440;2;2;Транссервис;7200000;-2400000;Цена завышена - можно поторговаться;40;307000;;;ПФО
+Тягач;Volvo;FH;2018;6500000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16413262-b6ac9a95/;154300;AT;4x2;500;2;2;;5290000;-1210000;Цена завышена - можно поторговаться;30;208000;;;УФО
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16495652-82124bd6/;485884;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;КамАЗ;5490;2017;3400000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16551998-da71426e/;342;MT;4x2;401;2;1;;2400000;-1000000;Цена завышена - можно поторговаться;50;109000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4990000;Екатеринбург;https://auto.ru/artic/used/sale/mercedes/actros_t/16556460-be1d062a/;350000;AT;;435;;;;4460000;-530000;Цена завышена - можно поторговаться;20;160000;;;УФО
+Тягач;Mercedes-Benz;Actros;2019;7092000;Москва и Московская область;https://auto.ru/artic/used/sale/mercedes/actros_t/16565796-5da8c628/;105000;AT;4x2;449;2;2;;6200000;-892000;Цена завышена - можно поторговаться;20;227000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;4000000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16494860-14564f00/;499333;AT;4x2;408;2;2;PRO АВТО;3410000;-590000;Цена завышена - можно поторговаться;30;128000;;;ЦФО
+Тягач;КамАЗ;5490 NEO;2017;2900000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490_neo/16563330-37a0328b/;273122;MT;4x2;401;2;1;;2400000;-500000;Цена завышена - можно поторговаться;30;93000;;;ПФО
+Тягач;MAN;TGS;2019;6850000;Старый Оскол;https://auto.ru/artic/used/sale/man/tgs/16518524-34b0ad6d/;150000;MT;6x2;400;2;1;ОСКОЛ ТРАК;7320000;470000;Горячая цена! Срочно брать!;0;219000;;;ЦФО
+Тягач;Volvo;FH;2017;5820000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16511916-7d999777/;445205;AT;4x2;460;;;ClassTrucks;4950000;-870000;Цена завышена - можно поторговаться;30;186000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16512338-7f7aaaa2/;570412;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;КамАЗ;5490;2018;3000000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16567520-1f7c4a93/;226000;MT;4x2;401;2;2;;2890000;-110000;;10;96000;;;СЗФО
+Тягач;DAF;XF105;2016;4300000;Казань;https://auto.ru/artic/used/sale/daf/xf105/16546738-be479084/;600000;AT;4x2;460;2;2;;3950000;-350000;Цена завышена - можно поторговаться;20;138000;;;ПФО
+Тягач;Volvo;FH;2016;4400000;Еманжелинск;https://auto.ru/artic/used/sale/volvo/fh_tractor/15595678-8fde1349/;580000;MT;4x2;420;2;2;;3900000;-500000;Цена завышена - можно поторговаться;20;141000;;;УФО
+Тягач;Volvo;FH;2016;4847000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16567056-eaa389d4/;663802;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;4280000;-567000;Цена завышена - можно поторговаться;20;155000;;;ЦФО
+Тягач;MAN;TGS;2015;2800000;Зеленоград;https://auto.ru/artic/used/sale/man/tgs/16287076-6316e951/;600615;MT;4x2;400;2;1;Global Truck Sales Москва Север;3060000;260000;Горячая цена! Срочно брать!;0;90000;;;ЦФО
+Тягач;Scania;G-series;2015;4950000;Краснодар;https://auto.ru/artic/used/sale/scania/g/16526620-d5c338ce/;585000;MT;6x4;400;2;2;"ООО""Кубань-Скан""";4810000;-140000;;10;158000;;;ЮФО
+Тягач;МАЗ;6430;2015;3820000;Краснодар;https://auto.ru/artic/used/sale/maz/6430/16431952-e63cf88f/;185000;;;435;;;;1320000;-2500000;Цена завышена - можно поторговаться;200;;;;ЮФО
+Тягач;КамАЗ;5490 NEO;2018;3340000;Авдон;https://auto.ru/artic/used/sale/kamaz/5490_neo/16545322-adb3fbdb/;164326;MT;4x2;401;2;1;M7 TRUCK Уфа;2860000;-480000;Цена завышена - можно поторговаться;30;107000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;4100000;Тверь;https://auto.ru/artic/used/sale/mercedes/actros_t/16510486-200512f5/;719000;AT;4x2;408;2;2;;3880000;-220000;Цена завышена - можно поторговаться;20;131000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4100000;Шушары;https://auto.ru/artic/used/sale/mercedes/actros_t/16453086-71e6b3d6/;423531;AT;4x2;408;2;2;МАН Трак энд Бас РУС;4390000;290000;Горячая цена! Срочно брать!;0;131000;;;СЗФО
+Тягач;КамАЗ;6460;2017;2299000;Красноярск;https://auto.ru/artic/used/sale/kamaz/6460/15941420-8adf7c76/;173000;MT;6x4;400;2;1;;3080000;781000;Горячая цена! Срочно брать!;0;74000;1;unclear;СФО
+Тягач;КамАЗ;53504;2015;2250000;Братск;https://auto.ru/artic/used/sale/kamaz/53504/16299320-edfc115c/;70000;MT;6x6;300;2;1;;2380000;130000;Горячая цена! Срочно брать!;0;;;;СФО
+Тягач;КамАЗ;65116;2016;2220000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/65116/15733639-ff3fab5e/;23000;MT;;300;2;1;;1760000;-460000;Цена завышена - можно поторговаться;40;;;;ПФО
+Тягач;Renault;T-Series;2017;4649000;Москва;https://auto.ru/artic/used/sale/renault/t_series/16146484-a14f2378/;165000;AT;4x2;460;2;2;БорнТракСервис;4060000;-589000;Цена завышена - можно поторговаться;20;149000;;;ЦФО
+Тягач;MAN;TGX;2017;4400000;Петрозаводск;https://auto.ru/artic/used/sale/man/tgx/15772628-bdf29d26/;263211;MT;4x2;400;2;2;;4400000;0;;10;141000;;;СЗФО
+Тягач;Scania;G-series;2018;6100000;Москва;https://auto.ru/artic/used/sale/scania/g/16562340-712bea05/;245000;AT;4x2;440;2;2;БорнТракСервис;6130000;30000;;10;195000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;3800000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16484022-3d97c02a/;831000;AT;4x2;410;2;2;СТТ-АВТО;3990000;190000;;10;122000;;;ЦФО
+Тягач;МАЗ;5440;2020;3410000;Екатеринбург;https://auto.ru/artic/used/sale/maz/5440/16549178-00a515d8/;2000;MT;4x2;330;2;2;;2710000;-700000;Цена завышена - можно поторговаться;40;109000;;;УФО
+Тягач;Volvo;FH;2019;7200000;Наро-Фоминск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16317346-1f01e465/;157200;AT;4x2;469;2;2;Нара Авто Транс;6130000;-1070000;Цена завышена - можно поторговаться;30;230000;;;
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16457956-c6bab222/;299000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16478038-c7d20786/;610000;;4x2;460;2;2;ГРИН ЛАЙН;4960000;-90000;;10;162000;;;ЦФО
+Тягач;Volvo;FH;2016;4650000;Хоругвино;https://auto.ru/artic/used/sale/volvo/fh_tractor/16380832-14bd1136/;350000;AT;4x2;440;2;2;TELS Group;4300000;-350000;Цена завышена - можно поторговаться;20;149000;;;ЦФО
+Тягач;Scania;R-Series;2017;4800000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16449344-f5010a7a/;540000;MT;4x2;400;2;2;Компания АВТОТРАК Москва;5400000;600000;Горячая цена! Срочно брать!;0;154000;0,51735;unclear;ЦФО
+Тягач;КамАЗ;5490;2017;2750000;Ростов-на-Дону;https://auto.ru/artic/used/sale/kamaz/5490/16470018-a3b4c503/;236000;MT;4x2;401;2;1;;2400000;-350000;Цена завышена - можно поторговаться;20;88000;;;ЮФО
+Тягач;КамАЗ;5490;2016;1910000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456364-98524a6c/;255000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-20000;;10;;;;ЦФО
+Тягач;МАЗ;5440;2017;5000000;Воронеж;https://auto.ru/artic/used/sale/maz/5440/16265442-57ca22f2/;280000;MT;4x2;310;;;;1510000;-3490000;Цена завышена - можно поторговаться;240;160000;;;ЦФО
+Тягач;DAF;XF105;2016;4250000;Домодедово;https://auto.ru/artic/used/sale/daf/xf105/16541660-9cd24846/;450000;AT;4x2;460;;;СТТ-АВТО;4070000;-180000;;10;136000;;;ЦФО
+Тягач;MAN;TGX;2018;5900000;Киров;https://auto.ru/artic/used/sale/man/tgx/16473790-bf294ebe/;300000;AT;4x2;480;2;2;;5580000;-320000;Цена завышена - можно поторговаться;20;189000;;;ЦФО
+Тягач;Volvo;FH;2019;7350000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16560976-411eedb6/;120294;AT;4x2;460;;;ClassTrucks;6190000;-1160000;Цена завышена - можно поторговаться;30;235000;;;ЦФО
+Тягач;МАЗ;6430;2018;2500000;Вязьма;https://auto.ru/artic/used/sale/maz/6430/16427114-9436b223/;100000;MT;6x4;430;2;2;;3160000;660000;Горячая цена! Срочно брать!;0;80000;1;unclear;ЦФО
+Тягач;DAF;XF105;2018;5150000;Котельники;https://auto.ru/artic/used/sale/daf/xf105/16526706-8f18d8fc/;398337;MT;4x2;462;2;2;Форсаж;4740000;-410000;Цена завышена - можно поторговаться;20;165000;;;
+Тягач;МАЗ;5440;2017;1950000;Александров;https://auto.ru/artic/used/sale/maz/5440/16323440-30d08af6/;89000;MT;4x2;310;2;1;;1820000;-130000;Цена завышена - можно поторговаться;20;62000;;;ЦФО
+Тягач;Renault;T-Series;2017;4750000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15966698-e3d4f371/;295000;AT;4x2;480;2;2;БорнТракСервис;4370000;-380000;Цена завышена - можно поторговаться;20;152000;;;ЦФО
+Тягач;МАЗ;5440;2017;3200000;Пермь;https://auto.ru/artic/used/sale/maz/5440/16330076-e61b7d4b/;310000;MT;4x2;410;2;1;;2100000;-1100000;Цена завышена - можно поторговаться;60;102000;;;УФО
+Тягач;КамАЗ;5490;2015;1552000;Подольск;https://auto.ru/artic/used/sale/kamaz/5490/16011865-41084c84/;524919;MT;4x2;401;2;1;КомТоргТранс;1610000;58000;;10;;;;ЦФО
+Тягач;Renault;T-Series;2017;5100000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16563346-3d77ac6a/;160392;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ в Свердловской области;4380000;-720000;Цена завышена - можно поторговаться;30;163000;;;УФО
+Тягач;Mercedes-Benz;Actros;2016;4100000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16487260-6520c0c5/;705000;AT;4x2;410;2;2;СТТ-АВТО;3990000;-110000;;10;131000;;;ЦФО
+Тягач;КамАЗ;5490;2016;2000000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/15892082-62d12c93/;483147;MT;4x2;400;2;1;GROSS AUTO;1850000;-150000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;MAN;TGX;2018;6000000;Липецк;https://auto.ru/artic/used/sale/man/tgx/16371136-347892d0/;150000;AT;4x2;400;2;1;;5570000;-430000;Цена завышена - можно поторговаться;20;192000;;;ЦФО
+Тягач;Scania;R-Series;2017;5455000;Набережные Челны;https://auto.ru/artic/used/sale/scania/r_1/16488140-3843fef3/;400000;AT;4x2;440;2;2;M7 TRUCK Набережные Челны;5310000;-145000;;10;175000;;;ПФО
+Тягач;МАЗ;6430;2017;2700000;Иркутск;https://auto.ru/artic/used/sale/maz/6430/16461600-b1ba2248/;75000;MT;6x4;412;2;2;;2710000;10000;;10;86000;;;СФО
+Тягач;MAN;TGX;2016;4825000;Шушары;https://auto.ru/artic/used/sale/man/tgx/16316926-b5645172/;282765;;4x2;480;2;2;МАН Трак энд Бас РУС;4340000;-485000;Цена завышена - можно поторговаться;20;154000;;;СЗФО
+Тягач;Mercedes-Benz;Actros;2016;4250000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16512214-c768ae0c/;614067;AT;4x2;435;2;2;PRO АВТО;4000000;-250000;Цена завышена - можно поторговаться;20;136000;;;ЦФО
+Тягач;КамАЗ;5490;2018;3340000;;https://auto.ru/artic/used/sale/kamaz/5490/16526320-973ff826/;165658;MT;4x2;401;2;1;M7 TRUCK Набережные Челны;2860000;-480000;Цена завышена - можно поторговаться;30;107000;;;
+Тягач;MAN;TGS;2015;3250000;Саратов;https://auto.ru/artic/used/sale/man/tgs/16292786-00d93d0e/;692135;MT;4x2;400;2;1;;3060000;-190000;Цена завышена - можно поторговаться;20;104000;;;ПФО
+Тягач;Volvo;FH;2015;4199000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16538620-c813b679/;663662;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;3760000;-439000;Цена завышена - можно поторговаться;20;134000;;;ЦФО
+Тягач;DAF;XF;2016;4000000;Вологда;https://auto.ru/artic/used/sale/daf/xf_series/16563010-818a0eb5/;570000;AT;;460;;;;3960000;-40000;;10;128000;;;СЗФО
+Тягач;МАЗ;6425;2017;2300000;Красноярск;https://auto.ru/artic/used/sale/maz/6425/16564712-f5233b77/;103000;MT;6x6;410;2;2;;3180000;880000;Горячая цена! Срочно брать!;0;74000;0,51366;unclear;СФО
+Тягач;КамАЗ;65225;2018;3200000;Нижневартовск;https://auto.ru/artic/used/sale/kamaz/65225_t/16561396-336a0aad/;59134;MT;6x6;400;2;0;;4390000;1190000;Горячая цена! Срочно брать!;0;102000;0,48265;unclear;СФО
+Тягач;DAF;XF105;2017;5200000;Каменск-Шахтинский;https://auto.ru/artic/used/sale/daf/xf105/16569300-2c0a418a/;232000;AT;4x2;460;2;2;Мега-Транзит;4390000;-810000;Цена завышена - можно поторговаться;30;166000;;;ЮФО
+Тягач;КамАЗ;65116;2016;1620000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/65116/16342336-861a882c/;114931;MT;6x4;298;2;0;Global Truck Sales Екатеринбург;1960000;340000;Горячая цена! Срочно брать!;0;;0,4595;unclear;УФО
+Тягач;MAN;TGS;2020;8580000;Челябинск;https://auto.ru/artic/used/sale/man/tgs/15246498-d3a51b93/;3800;MT;6x4;440;2;1;;6200000;-2380000;Цена завышена - можно поторговаться;50;275000;;;УФО
+Тягач;КамАЗ;5490;2017;2750000;Ростов-на-Дону;https://auto.ru/artic/used/sale/kamaz/5490/15906108-b4bc3d43/;250000;MT;4x2;408;;;;2200000;-550000;Цена завышена - можно поторговаться;40;88000;;;ЮФО
+Тягач;Volvo;FH;2017;5810000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16528844-5766917c/;483737;AT;4x2;500;;;ClassTrucks;5100000;-710000;Цена завышена - можно поторговаться;20;186000;;;СЗФО
+Тягач;Scania;R-Series;2015;3750000;Чёрная Грязь;https://auto.ru/artic/used/sale/scania/r_1/16560532-926d2ab7/;786680;AT;4x2;400;2;2;M7 TRUCK Москва;4050000;300000;Горячая цена! Срочно брать!;0;120000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4700000;Еманжелинск;https://auto.ru/artic/used/sale/mercedes/actros_t/16511756-2f80be1a/;550000;AT;4x2;440;2;2;;4440000;-260000;Цена завышена - можно поторговаться;20;150000;;;УФО
+Тягач;Scania;S-Series;2017;6800000;Москва;https://auto.ru/artic/used/sale/scania/s_artic/16558012-dc657501/;684157;AT;4x2;450;2;2;Global Truck Sales Москва Север;6280000;-520000;Цена завышена - можно поторговаться;20;218000;;;ЦФО
+Тягач;МАЗ;6430;2016;5500000;Ростов-на-Дону;https://auto.ru/artic/used/sale/maz/6430/16418778-e6c6cc23/;170000;;;435;;;;1510000;-3990000;Цена завышена - можно поторговаться;270;;;;ЮФО
+Тягач;Volvo;FH;2018;6100000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16484848-3a3b76e3/;340000;;;460;;;ГРИН ЛАЙН;6130000;30000;;10;195000;;;ЦФО
+Тягач;MAN;TGS;2017;5700000;;https://auto.ru/artic/used/sale/man/tgs/16211528-d0e978d9/;400000;MT;6x4;440;2;1;СибТракСкан;5120000;-580000;Цена завышена - можно поторговаться;20;182000;;;
+Тягач;Volvo;FH;2017;5880000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16528846-1c3d609d/;407104;AT;4x2;500;;;ClassTrucks;5100000;-780000;Цена завышена - можно поторговаться;30;188000;;;СЗФО
+Тягач;MAN;TGX;2017;5500000;Ялуторовск;https://auto.ru/artic/used/sale/man/tgx/16481658-7e7574c6/;580000;MT;4x2;440;2;2;;4300000;-1200000;Цена завышена - можно поторговаться;40;176000;;;СФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16457620-b3fa89ae/;480000;AT;4x2;460;2;2;Партнер Лайн;4870000;-180000;;10;162000;;;ЦФО
+Тягач;МАЗ;5440;2016;1490000;Люберцы;https://auto.ru/artic/used/sale/maz/5440/16210040-59c26edf/;76981;MT;4x2;310;2;2;ТРАК ПЛАТФОРМА;1780000;290000;Горячая цена! Срочно брать!;0;;1;no_vat;ЦФО
+Тягач;Scania;G-series;2018;5500000;Екатеринбург;https://auto.ru/artic/used/sale/scania/g/16552870-29ee2ddc/;410000;AT;4x2;400;2;2;;6450000;950000;Горячая цена! Срочно брать!;0;176000;0,57326;unclear;УФО
+Тягач;Mercedes-Benz;Actros;2017;5150000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16537274-48a11bbd/;437580;AT;6x4;460;2;1;Global Truck Sales Санкт-Петербург;5270000;120000;;10;165000;;;СЗФО
+Тягач;Scania;R-Series;2016;4510000;Авдон;https://auto.ru/artic/used/sale/scania/r_1/16479036-18ed60ab/;696000;MT;4x2;440;2;2;M7 TRUCK Уфа;4390000;-120000;;10;144000;;;ПФО
+Тягач;Mercedes-Benz;Actros;2016;5080000;Екатеринбург;https://auto.ru/artic/used/sale/mercedes/actros_t/16524132-b400fa52/;586141;AT;4x2;450;;;ClassTrucks;3640000;-1440000;Цена завышена - можно поторговаться;50;163000;;;УФО
+Тягач;MAN;TGS;2017;4000000;Калуга;https://auto.ru/artic/used/sale/man/tgs/16549238-dc330380/;430000;MT;4x2;400;2;1;;4380000;380000;Горячая цена! Срочно брать!;0;128000;;;
+Тягач;КамАЗ;5490 NEO;2015;1350000;Казань;https://auto.ru/artic/used/sale/kamaz/5490_neo/16550564-d845db74/;690000;MT;4x2;428;2;2;;2040000;690000;Горячая цена! Срочно брать!;0;;0,60883;unclear;ПФО
+Тягач;Mercedes-Benz;Actros;2017;4000000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16499886-e547c526/;500000;AT;6x4;410;2;1;;5730000;1730000;Горячая цена! Срочно брать!;0;128000;0,34217;unclear;ЦФО
+Тягач;КамАЗ;65806;2018;7400000;Петрозаводск;https://auto.ru/artic/used/sale/kamaz/65806/15852388-23d102a9/;15000;MT;6x4;428;2;1;;3680000;-3720000;Цена завышена - можно поторговаться;110;237000;;;СЗФО
+Тягач;DAF;XF105;2015;4980000;Павловск;https://auto.ru/artic/used/sale/daf/xf105/16505566-10451e87/;564277;AT;4x2;462;2;2;;3580000;-1400000;Цена завышена - можно поторговаться;50;159000;;;
+Тягач;Volvo;FH;2018;7360000;Берёзовский;https://auto.ru/artic/used/sale/volvo/fh_tractor/16555178-748ed342/;400000;AT;6x4;428;2;1;MAN Центр Березовский;8410000;1050000;Горячая цена! Срочно брать!;0;236000;0,594;unclear;
+Тягач;КамАЗ;65116;2016;1749000;Кемерово;https://auto.ru/artic/used/sale/kamaz/65116/16545598-f8f3db99/;92345;MT;6x4;298;2;1;;2070000;321000;Горячая цена! Срочно брать!;0;;0,42943;unclear;
+Тягач;IVECO;Stralis;2016;3400000;Санкт-Петербург;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16546754-78296779/;361250;MT;4x2;420;2;1;Global Truck Sales Санкт-Петербург;2620000;-780000;Цена завышена - можно поторговаться;40;;;;СЗФО
+Тягач;Renault;T-Series;2017;4970000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15850798-3a6205e8/;195000;AT;4x2;520;2;2;БорнТракСервис;4190000;-780000;Цена завышена - можно поторговаться;30;159000;;;ЦФО
+Тягач;КамАЗ;5490;2016;2050000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456368-2b9ac69b/;250000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-160000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;44108;2017;3755000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/44108/16465998-30c77028/;;MT;6x6;340;2;1;;3700000;-55000;;10;120000;;;ПФО
+Тягач;Volvo;FH;2017;5750000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16456044-9b88e14f/;370000;MT;6x4;469;2;1;;7090000;1340000;Горячая цена! Срочно брать!;0;184000;0,48886;unclear;ЦФО
+Тягач;Scania;R-Series;2016;4600000;Набережные Челны;https://auto.ru/artic/used/sale/scania/r_1/16520408-327be6d9/;836916;MT;4x2;440;2;2;M7 TRUCK Набережные Челны;4390000;-210000;;10;147000;;;ПФО
+Тягач;МАЗ;5440;2017;2500000;Курск;https://auto.ru/artic/used/sale/maz/5440/16442470-dccbd5eb/;250000;MT;4x2;410;2;1;;2100000;-400000;Цена завышена - можно поторговаться;30;80000;;;ЦФО
+Тягач;DAF;XF;2016;5150000;Смоленск;https://auto.ru/artic/used/sale/daf/xf_series/16116786-7bd75f1c/;340000;;4x2;460;2;2;;3610000;-1540000;Цена завышена - можно поторговаться;50;165000;;;ЦФО
+Тягач;КамАЗ;5490;2017;2050000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16372926-1ba3723a/;256056;MT;4x2;401;2;1;Аскет-Авто;2400000;350000;Горячая цена! Срочно брать!;0;66000;1;ok;ЦФО
+Тягач;КамАЗ;6460;2015;2300000;Кодинск;https://auto.ru/artic/used/sale/kamaz/6460/16297290-881eca75/;175000;MT;6x4;400;2;1;;2040000;-260000;Цена завышена - можно поторговаться;20;;;;СФО
+Тягач;КамАЗ;5490;2016;1730000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16284530-53f641ab/;662800;MT;4x2;401;2;1;Global Truck Sales Санкт-Петербург;1890000;160000;Горячая цена! Срочно брать!;0;;;;СЗФО
+Тягач;Volvo;FH;2018;6300000;Омск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16568896-c9b98b5c/;280792;AT;4x2;469;2;2;Альфа-Лизинг Россия;5750000;-550000;Цена завышена - можно поторговаться;20;202000;;;СФО
+Тягач;КамАЗ;5490;2015;1900000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16471898-fdb4494e/;360000;MT;4x2;428;2;2;;2040000;140000;Горячая цена! Срочно брать!;0;;;;ЦФО
+Тягач;КамАЗ;5490;2018;3350000;Воронеж;https://auto.ru/artic/used/sale/kamaz/5490/15848274-79f42488/;110000;MT;4x2;401;2;2;;2890000;-460000;Цена завышена - можно поторговаться;30;107000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;4750000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16155536-00a17dea/;376572;AT;6x4;456;2;1;АГТ-Трейдинг;4320000;-430000;Цена завышена - можно поторговаться;20;152000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2019;6850000;;https://auto.ru/artic/used/sale/mercedes/actros_t/16415825-c35d183f/;100000;AT;4x2;450;2;2;Камион;6210000;-640000;Цена завышена - можно поторговаться;20;219000;;;
+Тягач;MAN;TGX;2019;6300000;Новосибирск;https://auto.ru/artic/used/sale/man/tgx/16568032-c65c6768/;88818;AT;4x2;440;2;1;;5730000;-570000;Цена завышена - можно поторговаться;20;202000;;;СФО
+Тягач;МАЗ;5440;2016;1300000;Челябинск;https://auto.ru/artic/used/sale/maz/5440/16321298-b47beca0/;256000;MT;4x2;310;;;;1230000;-70000;Цена завышена - можно поторговаться;20;;;;УФО
+Тягач;MAN;TGX;2016;4000000;Ногинск;https://auto.ru/artic/used/sale/man/tgx/16301624-6a697d8d/;600000;AT;4x2;400;2;2;Роллингер Логистика ООО;3950000;-50000;;10;128000;;;ЦФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16451702-280878cc/;595000;AT;4x2;460;2;2;ГРИН ЛАЙН;4870000;-180000;;10;162000;;;ЦФО
+Тягач;Scania;R-Series;2016;4475000;Санкт-Петербург;https://auto.ru/artic/used/sale/scania/r_1/16537270-e944efcf/;744000;MT;4x2;440;2;2;M7 TRUCK Санкт-Петербург;4390000;-85000;;10;143000;;;СЗФО
+Тягач;КамАЗ;65206;2017;3150000;Якутск;https://auto.ru/artic/used/sale/kamaz/65206/16469912-e20593bb/;170000;MT;6x4;428;2;1;;3150000;0;;10;101000;;;ДВФО
+Тягач;Volvo;FH;2017;6100000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16542412-e3e10006/;336833;AT;4x2;500;;;ClassTrucks;5100000;-1000000;Цена завышена - можно поторговаться;30;195000;;;ЦФО
+Тягач;MAN;TGX;2017;4995000;Мытищи;https://auto.ru/artic/used/sale/man/tgx/16375890-16fb30c9/;297552;AT;4x2;420;2;2;КОМДОРАВТО;4300000;-695000;Цена завышена - можно поторговаться;30;160000;1;ok;ЦФО
+Тягач;Volvo;FH;2019;7431166;Казань;https://auto.ru/artic/used/sale/volvo/fh_tractor/16012697-3b6f5f9a/;230000;AT;4x2;460;2;2;ЗилантМоторс;5960000;-1471166;Цена завышена - можно поторговаться;30;238000;1;ok;ПФО
+Тягач;КамАЗ;65116;2017;2300000;Москва;https://auto.ru/artic/used/sale/kamaz/65116/16549410-618d4df2/;139696;MT;6x4;298;2;1;Трак-Сток;2600000;300000;Горячая цена! Срочно брать!;0;74000;0,41705;unclear;ЦФО
+Тягач;MAN;TGS;2016;3950000;Москва;https://auto.ru/artic/used/sale/man/tgs/16567380-8ac75f60/;303441;MT;4x2;400;2;1;ГРУЗ СОЮЗ;3580000;-370000;Цена завышена - можно поторговаться;20;126000;;;ЦФО
+Тягач;МАЗ;5440;2017;2200000;Самара;https://auto.ru/artic/used/sale/maz/5440/16392426-01f5aca5/;227000;MT;4x2;430;2;2;;2310000;110000;;10;70000;1;no_vat;ПФО
+Тягач;КамАЗ;65225;2017;3400000;Иркутск;https://auto.ru/artic/used/sale/kamaz/65225_t/16504178-ea77b599/;80000;MT;6x6;400;2;1;;3960000;560000;Горячая цена! Срочно брать!;0;109000;0,40578;unclear;СФО
+Тягач;Mercedes-Benz;Actros;2015;4290000;Барнаул;https://auto.ru/artic/used/sale/mercedes/actros_t/16531288-12c60d6a/;400000;AT;6x4;408;2;1;SAEM-truck;4150000;-140000;;10;137000;;;СФО
+Тягач;Volvo;FH;2016;4850000;Елино;https://auto.ru/artic/used/sale/volvo/fh_tractor/16554748-4515a44f/;587350;AT;4x2;469;2;2;700 МАШИН;4360000;-490000;Цена завышена - можно поторговаться;20;155000;;;ЦФО
+Тягач;MAN;TGS;2017;3800000;Шушары;https://auto.ru/artic/used/sale/man/tgs/16327564-e07e335f/;243602;MT;4x2;400;2;0;МАН Трак энд Бас РУС;4130000;330000;Горячая цена! Срочно брать!;0;122000;1;ok;СЗФО
+Тягач;КамАЗ;53504;2018;3280000;Самара;https://auto.ru/artic/used/sale/kamaz/53504/16420230-739b933f/;55000;MT;6x6;300;3;1;;4150000;870000;Горячая цена! Срочно брать!;0;105000;1;no_vat;ПФО
+Тягач;MAN;18;2017;5100000;Мытищи;https://auto.ru/artic/used/sale/man/18_1/16386112-ad0266dd/;241000;AT;4x2;420;2;2;КОМДОРАВТО;4300000;-800000;Цена завышена - можно поторговаться;30;163000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4100000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16502826-54fbe2d9/;300000;AT;4x2;410;2;2;Mercedes-Benz Financial Services Rus;4570000;470000;Горячая цена! Срочно брать!;0;131000;0,3022;ok;ЦФО
+Тягач;Volvo;FH;2019;7200000;Наро-Фоминск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16412976-84f2ad44/;157400;AT;4x2;469;2;2;Нара Авто Транс;6130000;-1070000;Цена завышена - можно поторговаться;30;230000;;;
+Тягач;MAN;TGX;2015;4350000;Санкт-Петербург;https://auto.ru/artic/used/sale/man/tgx/16481822-2a20c877/;358000;AT;4x2;441;2;1;;3710000;-640000;Цена завышена - можно поторговаться;30;139000;;;СЗФО
+Тягач;МАЗ;5440;2016;1600000;Уфа;https://auto.ru/artic/used/sale/maz/5440/16364998-37668172/;571743;MT;4x2;430;2;2;;2020000;420000;Горячая цена! Срочно брать!;0;;1;no_vat;ПФО
+Тягач;КамАЗ;5490;2018;3340000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16526214-634a8dd2/;123987;MT;4x2;401;2;1;M7 TRUCK Набережные Челны;2860000;-480000;Цена завышена - можно поторговаться;30;107000;;;ПФО
+Тягач;DAF;XF105;2018;6600000;Люберцы;https://auto.ru/artic/used/sale/daf/xf105/16559210-8e1e2a90/;285645;MT;4x2;462;2;2;ТРАК ПЛАТФОРМА;4740000;-1860000;Цена завышена - можно поторговаться;50;211000;;;ЦФО
+Тягач;Renault;T-Series;2017;4950000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16552676-b3cb50e8/;300772;AT;4x2;460;2;2;VOLVO TRUCKS РОССИЯ;4060000;-890000;Цена завышена - можно поторговаться;30;158000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;3390000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16439944-02450244/;460000;AT;4x2;440;2;2;;3520000;130000;;10;108000;;;СЗФО
+Тягач;Renault;T-Series;2017;4950000;Санкт-Петербург;https://auto.ru/artic/used/sale/renault/t_series/16559228-491d7160/;270557;AT;4x2;460;2;2;Группа Милан;4060000;-890000;Цена завышена - можно поторговаться;30;158000;;;СЗФО
+Тягач;MAN;TGS;2015;2580000;Москва;https://auto.ru/artic/used/sale/man/tgs/16507988-1d18e295/;847040;MT;4x2;400;2;1;ГРУЗ СОЮЗ;3060000;480000;Горячая цена! Срочно брать!;0;83000;0,38073;unclear;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4940000;Екатеринбург;https://auto.ru/artic/used/sale/mercedes/actros_t/16534248-b03cbc2c/;678459;AT;4x2;450;;;ClassTrucks;3640000;-1300000;Цена завышена - можно поторговаться;50;158000;;;УФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/15986566-acb7e37c/;550000;AT;4x2;469;2;2;;4980000;-70000;;10;162000;1;ok;ЦФО
+Тягач;КамАЗ;6460;2017;1790000;Нижнекамск;https://auto.ru/artic/used/sale/kamaz/6460/16552752-e160b498/;102000;;;280;;;;1990000;200000;Горячая цена! Срочно брать!;0;57000;0,38811;unclear;
+Тягач;Renault;T-Series;2017;5150000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16561762-1d238f3d/;263672;AT;4x2;480;2;2;VOLVO TRUCKS РОССИЯ в Свердловской области;4370000;-780000;Цена завышена - можно поторговаться;30;165000;;;УФО
+Тягач;Mercedes-Benz;Actros;2015;4299777;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16545468-39ea4f48/;680000;MT;4x2;480;2;2;ТТ777;3380000;-919777;Цена завышена - можно поторговаться;40;138000;;;ЦФО
+Тягач;КамАЗ;65206;2016;3000000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/65206/16562592-ceeb0a8c/;173000;MT;6x4;426;2;1;КамРемТорг;2510000;-490000;Цена завышена - можно поторговаться;30;;;;ПФО
+Тягач;КамАЗ;5490;2017;2800000;Омск;https://auto.ru/artic/used/sale/kamaz/5490/16168466-b32b44f2/;200000;MT;4x2;400;2;2;;2560000;-240000;Цена завышена - можно поторговаться;20;90000;;;СФО
+Тягач;КамАЗ;65206;2015;5000000;Барнаул;https://auto.ru/artic/used/sale/kamaz/65206/16395242-de1bd15f/;300000;MT;6x4;428;2;1;;2170000;-2830000;Цена завышена - можно поторговаться;140;;;;СФО
+Тягач;МАЗ;5440;2017;2750000;Самара;https://auto.ru/artic/used/sale/maz/5440/16039974-8d339eb6/;185000;MT;4x2;435;2;2;;2320000;-430000;Цена завышена - можно поторговаться;30;88000;;;ПФО
+Тягач;Volvo;FH;2015;4900000;Зеленоград;https://auto.ru/artic/used/sale/volvo/fh_tractor/16437828-3bd71b3a/;517000;;4x2;469;2;2;Global Truck Sales Москва Север;3790000;-1110000;Цена завышена - можно поторговаться;40;157000;;;ЦФО
+Тягач;MAN;TGX;2015;4100000;Хоругвино;https://auto.ru/artic/used/sale/man/tgx/16380776-bc4ce49a/;450000;AT;4x2;441;2;2;TELS Group;3580000;-520000;Цена завышена - можно поторговаться;20;131000;1;unclear;ЦФО
+Тягач;КамАЗ;5490;2016;2050000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16437098-6c1752c5/;244408;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-160000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Scania;P-series;2017;8000000;Полысаево;https://auto.ru/artic/used/sale/scania/p_1/16312152-343a2972/;500000;MT;6x4;400;2;1;;6510000;-1490000;Цена завышена - можно поторговаться;30;256000;1;unclear;СФО
+Тягач;МАЗ;6425;2017;1690000;Усть-Кут;https://auto.ru/artic/used/sale/maz/6425/16416981-bac16dbc/;85000;MT;6x6;420;2;1;;3260000;1570000;Горячая цена! Срочно брать!;0;54000;1;ok;СФО
+Тягач;КамАЗ;5490 NEO;2017;2500000;Тюмень;https://auto.ru/artic/used/sale/kamaz/5490_neo/16559598-a3eb814b/;240000;MT;4x2;401;2;1;;2400000;-100000;;10;80000;;;СФО
+Тягач;Scania;G-series;2018;8775000;Набережные Челны;https://auto.ru/artic/used/sale/scania/g/16483694-1601b4d5/;280862;AT;4x2;410;2;1;M7 TRUCK Набережные Челны;7110000;-1665000;Цена завышена - можно поторговаться;30;281000;;;ПФО
+Тягач;Volvo;FH;2017;5050000;;https://auto.ru/artic/used/sale/volvo/fh_tractor/16520514-59a28bc9/;750000;AT;4x2;460;2;2;Камион;4870000;-180000;;10;162000;;;
+Тягач;Mercedes-Benz;Actros;2017;3950000;Чёрная Грязь;https://auto.ru/artic/used/sale/mercedes/actros_t/16563142-510cd4eb/;464023;AT;4x2;408;2;2;M7 TRUCK Москва;4390000;440000;Горячая цена! Срочно брать!;0;126000;0,43356;unclear;ЦФО
+Тягач;КамАЗ;5490;2016;3000000;Ростов-на-Дону;https://auto.ru/artic/used/sale/kamaz/5490/16401962-8d71b46f/;303780;MT;4x2;400;2;1;;1850000;-1150000;Цена завышена - можно поторговаться;70;;;;ЮФО
+Тягач;КамАЗ;65206;2015;2315000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463088-41817a56/;300000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-145000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;DAF;CF-series;2018;6449990;Москва;https://auto.ru/artic/used/sale/daf/cf_series_1/16524928-f12eb34f/;135000;MT;6x2;462;2;1;СИАС;6110000;-339990;Цена завышена - можно поторговаться;20;206000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;2850000;Набережные Челны;https://auto.ru/artic/used/sale/mercedes/actros_t/16463094-1d0e30e1/;412592;AT;4x2;408;2;2;АТРАКС;3880000;1030000;Горячая цена! Срочно брать!;0;91000;1;no_vat;ПФО
+Тягач;Scania;G-series;2015;3950000;Москва;https://auto.ru/artic/used/sale/scania/g/15881239-8aa21034/;569392;MT;4x2;441;2;2;GROSS AUTO;3770000;-180000;;10;126000;1;ok;ЦФО
+Тягач;КамАЗ;5490;2016;1910000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16437100-b9b2b255/;244408;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-20000;;10;;;;ЦФО
+Тягач;Scania;G-series;2017;5190000;Самара;https://auto.ru/artic/used/sale/scania/g/16565416-250ca349/;480000;MT;4x2;441;2;2;;4840000;-350000;Цена завышена - можно поторговаться;20;166000;;;ПФО
+Тягач;MAN;18;2017;4200000;Новосибирск;https://auto.ru/artic/used/sale/man/18_1/16525618-b5e98743/;350000;AT;4x2;440;2;2;СибТракСкан;4410000;210000;;10;134000;;;СФО
+Тягач;КамАЗ;65206;2019;5650000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/65206/16537310-ba9c24ec/;117000;MT;6x4;428;2;1;;4030000;-1620000;Цена завышена - можно поторговаться;50;181000;;;УФО
+Тягач;КамАЗ;5490;2015;1870000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/15920218-2268cd6b/;230000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-260000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459312-78e20670/;310000;MT;4x2;401;;;Юнион КРОНЕ Кимовск;1460000;-540000;Цена завышена - можно поторговаться;50;;;;ЦФО
+Тягач;КамАЗ;65806;2018;4300000;Уфа;https://auto.ru/artic/used/sale/kamaz/65806/16318468-531fd3de/;150000;;6x4;428;2;1;;4080000;-220000;Цена завышена - можно поторговаться;20;138000;1;ok;ПФО
+Тягач;КамАЗ;5490;2017;2350000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16569590-3f4f932e/;203000;MT;4x2;401;2;1;Global Truck Sales Москва Север;2400000;50000;;10;75000;;;ЦФО
+Тягач;IVECO;Stralis;2019;5840000;Ставропольский край;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16540074-88aed6cf/;19000;MT;6x4;460;2;1;;7020000;1180000;Горячая цена! Срочно брать!;0;187000;0,57362;unclear;
+Тягач;MAN;TGS;2020;9855000;Красноярск;https://auto.ru/artic/used/sale/man/tgs/16438402-bdde34ca/;5000;MT;6x6;480;2;1;;7880000;-1975000;Цена завышена - можно поторговаться;40;315000;;;СФО
+Тягач;Volvo;FH;2018;6300000;Красногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16569766-43f22103/;248406;AT;4x2;469;2;2;Альфа-Лизинг Москва;5750000;-550000;Цена завышена - можно поторговаться;20;202000;;;ЦФО
+Тягач;Volvo;FH;2018;8300000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16509668-1efd9afd/;324000;MT;6x4;510;2;1;Компания АВТОТРАК Москва;8340000;40000;;10;266000;;;ЦФО
+Тягач;КамАЗ;65806;2017;3450000;Москва;https://auto.ru/artic/used/sale/kamaz/65806/16391350-b7677937/;115087;;6x4;428;;;;2970000;-480000;Цена завышена - можно поторговаться;30;110000;;;ЦФО
+Тягач;DAF;XF105;2017;4400000;Самара;https://auto.ru/artic/used/sale/daf/xf105/16507688-e64074da/;480000;MT;4x2;460;2;2;;4430000;30000;;10;141000;;;ПФО
+Тягач;КамАЗ;65116;2019;3750000;Тюмень;https://auto.ru/artic/used/sale/kamaz/65116/16435036-5b443d76/;61500;MT;6x4;300;2;1;;3520000;-230000;Цена завышена - можно поторговаться;20;120000;;;СФО
+Тягач;Mercedes-Benz;Actros;2015;4550000;Барнаул;https://auto.ru/artic/used/sale/mercedes/actros_t/16469178-cbab8053/;370000;AT;6x4;408;2;1;SAEM-truck;4150000;-400000;Цена завышена - можно поторговаться;20;146000;;;СФО
+Тягач;MAN;TGX;2020;7564660;Мытищи;https://auto.ru/artic/used/sale/man/tgx/16044274-75caf416/;2500;MT;4x2;400;2;1;КОМДОРАВТО;5520000;-2044660;Цена завышена - можно поторговаться;50;242000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4680000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16123222-2e646e25/;430000;MT;6x4;460;2;2;;4570000;-110000;;10;150000;1;unclear;СЗФО
+Тягач;МАЗ;6430;2017;1950000;Ярославль;https://auto.ru/artic/used/sale/maz/6430/16514094-4cd5c5a8/;467823;MT;6x4;410;2;2;КОМПАНИЯ АВТОМОБИЛИЯ;2680000;730000;Горячая цена! Срочно брать!;0;62000;0,5518;no_vat;ЦФО
+Тягач;КамАЗ;43118;2019;5640000;Казань;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16476028-aa00609d/;21780;MT;6x6;300;;;РБА-Казань;3750000;-1890000;Цена завышена - можно поторговаться;60;180000;;;ПФО
+Тягач;Volvo;FH;2016;4840000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16557324-35bb43d9/;597169;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;4280000;-560000;Цена завышена - можно поторговаться;20;155000;;;ЦФО
+Тягач;DAF;XF105;2017;4700000;Ростов-на-Дону;https://auto.ru/artic/used/sale/daf/xf105/16525772-b007fb3e/;547000;MT;4x2;462;2;2;НЕЙС-ЮГ Ростов-на-Дону;4330000;-370000;Цена завышена - можно поторговаться;20;150000;;;ЮФО
+Тягач;КамАЗ;65206;2017;3350000;;https://auto.ru/artic/used/sale/kamaz/65206/16391596-ac93f260/;93000;AT;6x4;401;2;1;Жумади;3390000;40000;;10;107000;1;no_vat;
+Тягач;Mercedes-Benz;Actros;2016;4150000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16500981-0704a5ab/;453686;AT;4x2;435;2;2;PRO АВТО;4000000;-150000;;10;133000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4200000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16495564-7018dfba/;505726;AT;4x2;435;2;2;PRO АВТО;4000000;-200000;Цена завышена - можно поторговаться;20;134000;;;ЦФО
+Тягач;Volvo;FH;2018;7800000;Нижний Новгород;https://auto.ru/artic/used/sale/volvo/fh_tractor/16291018-336a691a/;140000;AT;6x4;500;2;2;;6690000;-1110000;Цена завышена - можно поторговаться;30;250000;;;ПФО
+Тягач;Volvo;FH;2017;5050000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16461632-79d5fbc3/;580000;AT;4x2;460;2;2;ГРИН ЛАЙН;4870000;-180000;;10;162000;;;ЦФО
+Тягач;Scania;G-series;2018;5300000;Москва;https://auto.ru/artic/used/sale/scania/g/16563378-2c5d7fc3/;356182;MT;4x2;400;2;2;Global Truck Sales Москва Север;6060000;760000;Горячая цена! Срочно брать!;0;170000;0,60192;unclear;ЦФО
+Тягач;Scania;R-Series;2016;4538500;Чёрная Грязь;https://auto.ru/artic/used/sale/scania/r_1/16559202-0b1e6c1b/;546947;MT;4x2;440;2;2;M7 TRUCK Москва;4390000;-148500;;10;145000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1870000;Казань;https://auto.ru/artic/used/sale/kamaz/5490/16115650-bcc66d47/;390000;MT;4x2;401;2;1;;1890000;20000;;10;;;;ПФО
+Тягач;Scania;G-series;2018;8500000;Оренбург;https://auto.ru/artic/used/sale/scania/g/16542804-85dc2250/;344000;AT;4x2;340;2;2;Оренбург-СканСервис;7250000;-1250000;Цена завышена - можно поторговаться;30;272000;;;УФО
+Тягач;MAN;TGX;2016;4725000;Москва;https://auto.ru/artic/used/sale/man/tgx/16562020-cbafea7c/;475000;MT;4x2;440;2;2;МАН Трак энд Бас РУС;3810000;-915000;Цена завышена - можно поторговаться;30;151000;;;ЦФО
+Тягач;Scania;P-series;2017;4850000;Самара;https://auto.ru/artic/used/sale/scania/p_1/16482334-74295149/;337000;MT;4x2;440;2;1;;5350000;500000;Горячая цена! Срочно брать!;0;155000;0,51996;unclear;ПФО
+Тягач;КамАЗ;65206;2018;3550000;Москва;https://auto.ru/artic/used/sale/kamaz/65206/16570078-26ecb62e/;251000;MT;6x4;428;2;1;ТПК Бизнес Интерьер;3680000;130000;;10;114000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1450000;Казань;https://auto.ru/artic/used/sale/kamaz/5490/15879403-20c535c4/;333000;MT;4x2;400;2;1;;1850000;400000;Горячая цена! Срочно брать!;0;;1;no_vat;ПФО
+Тягач;КамАЗ;65206;2017;2800000;Уфа;https://auto.ru/artic/used/sale/kamaz/65206/15589382-25d0e42c/;220000;AT;6x4;401;2;1;;3390000;590000;Горячая цена! Срочно брать!;0;90000;0,48379;unclear;ПФО
+Тягач;КамАЗ;5490;2017;2800000;Калуга;https://auto.ru/artic/used/sale/kamaz/5490/16549468-2e48c06b/;295928;MT;4x2;401;2;1;;2400000;-400000;Цена завышена - можно поторговаться;30;90000;;;
+Тягач;КамАЗ;5490;2017;3290000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16365004-3b139290/;116201;MT;4x2;401;2;1;КАМЦЕНТР КамАЗ;2400000;-890000;Цена завышена - можно поторговаться;50;105000;;;ЦФО
+Тягач;МАЗ;5440;2016;2460000;Кулебаки;https://auto.ru/artic/used/sale/maz/5440/16523760-da30a78a/;346000;MT;4x2;412;2;2;;1980000;-480000;Цена завышена - можно поторговаться;30;;;;
+Тягач;MAN;TGX;2017;4600000;Старый Оскол;https://auto.ru/artic/used/sale/man/tgx/16458946-3a2c8200/;508877;AT;4x2;441;2;2;;4400000;-200000;;10;147000;;;ЦФО
+Тягач;Volvo;FH;2019;7200000;Наро-Фоминск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16327622-c5cb4fde/;156270;AT;4x2;469;2;2;Нара Авто Транс;6130000;-1070000;Цена завышена - можно поторговаться;30;230000;1;ok;
+Тягач;МАЗ;6430;2017;1975000;Москва;https://auto.ru/artic/used/sale/maz/6430/16553782-21e0aa99/;285124;MT;6x4;410;2;2;МАН Трак энд Бас РУС;2680000;705000;Горячая цена! Срочно брать!;0;63000;0,49209;no_vat;ЦФО
+Тягач;Volvo;FH;2017;5200000;Красноярск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16515982-3d172b05/;570000;AT;4x2;500;2;2;;4720000;-480000;Цена завышена - можно поторговаться;20;166000;;;СФО
+Тягач;DAF;XF105;2016;4500000;Новокузнецк;https://auto.ru/artic/used/sale/daf/xf105/16281538-76a37b42/;415000;;4x2;416;2;1;;3700000;-800000;Цена завышена - можно поторговаться;30;144000;1;ok;СФО
+Тягач;Renault;T-Series;2017;4970000;Москва;https://auto.ru/artic/used/sale/renault/t_series/15966740-31b4c4f4/;210000;AT;4x2;480;2;2;БорнТракСервис;4370000;-600000;Цена завышена - можно поторговаться;20;159000;;;ЦФО
+Тягач;КамАЗ;65206;2015;2370000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463076-0e3aa078/;290000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-200000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;MAN;TGX;2015;4100000;Елино;https://auto.ru/artic/used/sale/man/tgx/16179548-5d7bcb56/;403323;AT;4x2;441;2;2;700 МАШИН;3580000;-520000;Цена завышена - можно поторговаться;20;131000;1;ok;ЦФО
+Тягач;Mercedes-Benz;Actros;2018;4400000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16503160-66c0fdcf/;150000;AT;4x2;408;2;2;Mercedes-Benz Financial Services Rus;5040000;640000;Горячая цена! Срочно брать!;0;141000;0,3152;ok;ЦФО
+Тягач;MAN;TGS;2016;3300000;Москва;https://auto.ru/artic/used/sale/man/tgs/16569314-e2863cfc/;600000;MT;4x2;400;2;2;АвтоБан;3790000;490000;Горячая цена! Срочно брать!;0;106000;0,40849;unclear;ЦФО
+Тягач;КамАЗ;65206;2015;2490000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463084-5e7ab179/;305000;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-320000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;5490;2015;1552000;Подольск;https://auto.ru/artic/used/sale/kamaz/5490/15979822-23b16172/;542227;MT;4x2;401;2;1;КомТоргТранс;1610000;58000;;10;;;;ЦФО
+Тягач;Scania;R-Series;2017;5455000;Новониколаевский;https://auto.ru/artic/used/sale/scania/r_1/16463218-dfa65bfc/;400000;AT;4x2;440;2;2;M7 TRUCK Казань;5310000;-145000;;10;175000;;;ПФО
+Тягач;МАЗ;5440;2016;1100000;Москва;https://auto.ru/artic/used/sale/maz/5440/16252454-dfb80217/;312450;MT;4x2;310;2;1;ГРУЗ СОЮЗ;1430000;330000;Горячая цена! Срочно брать!;0;;0,45585;no_vat;ЦФО
+Тягач;MAN;TGX;2018;5500000;Ростов-на-Дону;https://auto.ru/artic/used/sale/man/tgx/15880917-750ce43f/;160000;MT;4x2;440;2;1;;4810000;-690000;Цена завышена - можно поторговаться;20;176000;;;ЮФО
+Тягач;КамАЗ;5490;2016;2050000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456354-642c47e3/;240000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-160000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;3750000;Красноярск;https://auto.ru/artic/used/sale/mercedes/actros_t/16538834-6afd1068/;700;AT;4x2;440;2;2;;3520000;-230000;Цена завышена - можно поторговаться;20;120000;;;СФО
+Тягач;КамАЗ;5490 NEO;2017;3300000;Тимашевск;https://auto.ru/artic/used/sale/kamaz/5490_neo/16569228-1e2c552c/;320000;MT;;400;2;1;;2490000;-810000;Цена завышена - можно поторговаться;40;106000;;;
+Тягач;КамАЗ;5490;2017;1950000;Новороссийск;https://auto.ru/artic/used/sale/kamaz/5490/16565226-e226c2fd/;400000;MT;4x2;401;2;1;;2400000;450000;Горячая цена! Срочно брать!;0;62000;0,4232;unclear;ЮФО
+Тягач;Renault;T-Series;2017;4950000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16552782-ced38d25/;300780;AT;4x2;460;2;2;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4060000;-890000;Цена завышена - можно поторговаться;30;158000;;;СЗФО
+Тягач;КамАЗ;5490;2016;2100000;Алексин;https://auto.ru/artic/used/sale/kamaz/5490/16527310-e0452fe8/;320000;MT;4x2;401;2;1;;1890000;-210000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;44108;2017;2800000;Тюмень;https://auto.ru/artic/used/sale/kamaz/44108/16436352-cd3590d2/;120000;MT;6x6;330;2;1;;3820000;1020000;Горячая цена! Срочно брать!;0;90000;1;unclear;СФО
+Тягач;Mercedes-Benz;Actros;2015;4000000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16494930-71b633f9/;493333;AT;4x2;408;2;2;PRO АВТО;3410000;-590000;Цена завышена - можно поторговаться;30;128000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1910000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16456284-40aa5b5d/;240000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1890000;-20000;;10;;;;ЦФО
+Тягач;КамАЗ;65206;2015;2050000;Котлас;https://auto.ru/artic/used/sale/kamaz/65206/16232186-77f65072/;402000;MT;6x4;428;2;1;;2170000;120000;Горячая цена! Срочно брать!;0;;1;unclear;СЗФО
+Тягач;КамАЗ;5490;2017;1950000;Москва;https://auto.ru/artic/used/sale/kamaz/5490/16430910-30dc3f23/;260434;MT;4x2;401;2;1;Аскет-Авто;2400000;450000;Горячая цена! Срочно брать!;0;62000;1;unclear;ЦФО
+Тягач;MAN;TGX;2017;5720000;Барнаул;https://auto.ru/artic/used/sale/man/tgx/16329168-da089e98/;351000;AT;4x2;440;2;2;Алт Авто;4410000;-1310000;Цена завышена - можно поторговаться;40;183000;1;unclear;СФО
+Тягач;КамАЗ;65116;2018;3850000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/65116/16476948-734e400b/;1341;MT;6x4;365;2;1;M7 TRUCK Набережные Челны;3610000;-240000;Цена завышена - можно поторговаться;20;123000;;;ПФО
+Тягач;МАЗ;6430;2019;3073000;Солонцы;https://auto.ru/artic/used/sale/maz/6430/16527142-36e2cb85/;35726;MT;;420;;;Сбербанк Лизинг;2400000;-673000;Цена завышена - можно поторговаться;40;98000;;;
+Тягач;Scania;G-series;2016;5350000;Новониколаевский;https://auto.ru/artic/used/sale/scania/g/16542236-691aa508/;706000;AT;6x2;440;2;2;M7 TRUCK Казань;6790000;1440000;Горячая цена! Срочно брать!;0;171000;0,31996;unclear;ПФО
+Тягач;DAF;XF;2016;4600000;Москва;https://auto.ru/artic/used/sale/daf/xf_series/16197232-b85d2178/;266000;AT;4x2;462;2;2;Совкомбанк-Лизинг Москва;4030000;-570000;Цена завышена - можно поторговаться;20;147000;1;ok;ЦФО
+Тягач;MAN;TGS;2015;3150000;Чёрная Грязь;https://auto.ru/artic/used/sale/man/tgs/16533108-e46d3dd6/;784431;MT;4x2;400;2;2;M7 TRUCK Москва;3350000;200000;Горячая цена! Срочно брать!;0;101000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2017;4590000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16434168-65cd46c8/;588000;AT;4x2;435;2;2;МБ тракс СПб;4520000;-70000;;10;147000;;;СЗФО
+Тягач;MAN;TGX;2017;4550000;Воронеж;https://auto.ru/artic/used/sale/man/tgx/16353048-013666f6/;400000;AT;6x2;400;;;Альфа-Лизинг Россия;5750000;1200000;Горячая цена! Срочно брать!;0;146000;1;ok;ЦФО
+Тягач;КамАЗ;5490;2017;1790000;Санкт-Петербург;https://auto.ru/artic/used/sale/kamaz/5490/16486640-0464c288/;661000;MT;4x2;400;2;2;;2560000;770000;Горячая цена! Срочно брать!;0;57000;1;ok;СЗФО
+Тягач;MAN;TGX;2018;6000000;Стерлитамак;https://auto.ru/artic/used/sale/man/tgx/16412346-31559ad8/;186000;AT;4x2;480;2;2;;5580000;-420000;Цена завышена - можно поторговаться;20;192000;;;ПФО
+Тягач;Scania;P-series;2017;4999999;Вологда;https://auto.ru/artic/used/sale/scania/p_1/16565670-4ea5c845/;173900;MT;4x2;360;2;1;;5210000;210001;;10;160000;;;СЗФО
+Тягач;MAN;TGX;2018;5800000;Смоленск;https://auto.ru/artic/used/sale/man/tgx/16457634-f9a1e0d6/;270000;AT;4x2;480;2;2;Партнер Лайн;5580000;-220000;;10;186000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;3650000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16404710-b0333a21/;620000;AT;4x2;440;2;2;;3520000;-130000;;10;117000;1;unclear;ЦФО
+Тягач;Volvo;FH;2019;7200000;Наро-Фоминск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16420222-45398566/;159095;AT;4x2;469;2;2;Нара Авто Транс;6130000;-1070000;Цена завышена - можно поторговаться;30;230000;;;
+Тягач;Mercedes-Benz;Actros;2016;5080000;Москва;https://auto.ru/artic/used/sale/mercedes/actros_t/16462348-ba42d22e/;575718;AT;4x2;450;;;ClassTrucks;3640000;-1440000;Цена завышена - можно поторговаться;50;163000;;;ЦФО
+Тягач;Volvo;FH;2019;7800000;Петрозаводск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16557918-ee2bb462/;60000;AT;4x2;460;2;2;;5960000;-1840000;Цена завышена - можно поторговаться;40;250000;;;СЗФО
+Тягач;КамАЗ;5490;2018;3600000;Домодедово;https://auto.ru/artic/used/sale/kamaz/5490/16470022-2663d333/;129401;MT;4x2;401;2;1;Технический Центр ИНФОРКОМ;2860000;-740000;Цена завышена - можно поторговаться;40;115000;;;ЦФО
+Тягач;МАЗ;6430;2017;3500000;Братск;https://auto.ru/artic/used/sale/maz/6430/16473172-43926081/;140000;MT;4x2;435;2;1;;2160000;-1340000;Цена завышена - можно поторговаться;70;112000;;;СФО
+Тягач;КамАЗ;65206;2015;2495000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463038-f7a1e15b/;172902;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-325000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;Volvo;FH;2018;5900000;Смоленск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16445238-5af8bc8a/;460000;AT;4x2;460;2;2;ГРИН ЛАЙН;5600000;-300000;Цена завышена - можно поторговаться;20;189000;;;ЦФО
+Тягач;МАЗ;5440;2017;1300000;Москва;https://auto.ru/artic/used/sale/maz/5440/16419500-43e7bb6d/;372628;MT;4x2;430;2;2;ГРУЗ СОЮЗ;2310000;1010000;Горячая цена! Срочно брать!;0;42000;1;unclear;ЦФО
+Тягач;MAN;TGX;2018;5800000;Краснодар;https://auto.ru/artic/used/sale/man/tgx/16351120-0b39f25b/;290000;AT;4x2;480;2;2;Собер-Авто;5580000;-220000;;10;186000;1;ok;ЮФО
+Тягач;IVECO;Stralis;2016;3250000;Елино;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16470244-21f2046c/;465000;MT;4x2;420;2;2;700 МАШИН;2810000;-440000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Renault;T-Series;2017;5150000;Новоалексеевское;https://auto.ru/artic/used/sale/renault/t_series/16561788-e2c78e27/;139754;AT;4x2;460;2;2;VOLVO TRUCKS РОССИЯ в Свердловской области;4060000;-1090000;Цена завышена - можно поторговаться;40;165000;;;УФО
+Тягач;КамАЗ;5490;2015;1690000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16370998-2e243b09/;511000;MT;4x2;428;2;2;Global Truck Sales Екатеринбург;2040000;350000;Горячая цена! Срочно брать!;0;;0,39617;unclear;УФО
+Тягач;КамАЗ;65206;2015;2320000;Кимовск;https://auto.ru/artic/used/sale/kamaz/65206/16463044-542a1684/;172902;MT;6x4;428;2;1;Юнион КРОНЕ Кимовск;2170000;-150000;Цена завышена - можно поторговаться;20;;;;ЦФО
+Тягач;КамАЗ;65206;2015;2099000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/65206/16226306-9c658a05/;658216;MT;6x4;428;2;1;M7 TRUCK Набережные Челны;2170000;71000;;10;;;;ПФО
+Тягач;Renault;T-Series;2017;5150000;Домодедово;https://auto.ru/artic/used/sale/renault/t_series/16561778-709e436d/;139754;AT;4x2;460;2;1;VOLVO TRUCKS РОССИЯ;4380000;-770000;Цена завышена - можно поторговаться;30;165000;;;ЦФО
+Тягач;Scania;G-series;2016;4349000;;https://auto.ru/artic/used/sale/scania/g/16517396-e76ef9ae/;622872;AT;4x2;440;2;2;M7 TRUCK Казань;4670000;321000;Горячая цена! Срочно брать!;0;139000;;;
+Тягач;Volvo;FH;2017;5820000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16519488-97717d9f/;413499;AT;4x2;460;;;ClassTrucks;4950000;-870000;Цена завышена - можно поторговаться;30;186000;;;ЦФО
+Тягач;DAF;XF105;2017;5270000;Челябинск;https://auto.ru/artic/used/sale/daf/xf105/16188346-1d1b6be1/;520000;MT;4x2;460;2;2;;4430000;-840000;Цена завышена - можно поторговаться;30;169000;1;no_vat;УФО
+Тягач;Mercedes-Benz;Axor;2016;2870000;Зеленоград;https://auto.ru/artic/used/sale/mercedes/axor_t/16207902-56638d75/;300000;MT;4x2;401;2;1;Global Truck Sales Москва Север;3170000;300000;Горячая цена! Срочно брать!;0;92000;1;ok;ЦФО
+Тягач;КамАЗ;43118;2018;4500000;Сургут;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16562658-97c9c6fc/;46758;MT;6x6;300;2;0;;3720000;-780000;Цена завышена - можно поторговаться;30;144000;;;
+Тягач;КамАЗ;5490;2017;2200000;Чёрная Грязь;https://auto.ru/artic/used/sale/kamaz/5490/16537398-4e958c35/;288560;MT;4x2;401;2;1;M7 TRUCK Москва;2400000;200000;Горячая цена! Срочно брать!;0;70000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4080000;Домодедово;https://auto.ru/artic/used/sale/mercedes/actros_t/16484484-dc4e9c4e/;616000;AT;4x2;410;2;2;СТТ-АВТО;3990000;-90000;;10;131000;;;ЦФО
+Тягач;Scania;P-series;2017;5150000;Казань;https://auto.ru/artic/used/sale/scania/p_1/16179334-8155df07/;280000;;4x2;400;2;1;;5880000;730000;Горячая цена! Срочно брать!;0;165000;1;unclear;ПФО
+Тягач;КамАЗ;5490;2015;1552000;Подольск;https://auto.ru/artic/used/sale/kamaz/5490/15978568-ac4a1572/;532227;MT;4x2;401;2;1;КомТоргТранс;1610000;58000;;10;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;4410000;Белгород;https://auto.ru/artic/used/sale/mercedes/actros_t/16327434-db0d65cd/;420000;AT;4x2;410;2;2;GOODTRUCKS;3470000;-940000;Цена завышена - можно поторговаться;40;141000;1;ok;ЦФО
+Тягач;Volvo;FH;2019;6250000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16350620-76be5429/;105000;AT;4x2;428;2;2;БорнТракСервис;6450000;200000;;10;200000;1;ok;ЦФО
+Тягач;КамАЗ;5490;2015;1600000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/5490/16266054-209c5522/;500000;MT;4x2;401;2;1;;1610000;10000;;10;;;;ПФО
+Тягач;Volvo;FH;2016;4845000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16552152-54be05fb/;587356;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;4280000;-565000;Цена завышена - можно поторговаться;20;155000;;;ЦФО
+Тягач;Volvo;FH;2018;7350000;Санкт-Петербург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16556154-51e5f982/;695000;MT;6x4;510;2;2;;8140000;790000;Горячая цена! Срочно брать!;0;235000;0,5922;unclear;СЗФО
+Тягач;Volvo;FH;2016;4900000;Старый Оскол;https://auto.ru/artic/used/sale/volvo/fh_tractor/10672019-3048bb60/;490000;AT;4x2;460;2;2;ИП Клейменов С.Н.;4280000;-620000;Цена завышена - можно поторговаться;20;157000;1;ok;ЦФО
+Тягач;Volvo;FH;2015;4190000;Солнечногорск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16543646-ff32dd04/;636601;AT;4x2;460;2;2;ТРАНСАЛЬЯНС Москва;3760000;-430000;Цена завышена - можно поторговаться;20;134000;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2016;4320000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16541382-2da0d33c/;630000;AT;6x2;440;2;2;SolexAuto;5230000;910000;Горячая цена! Срочно брать!;0;138000;0,39259;unclear;СЗФО
+Тягач;КамАЗ;65206;2017;3600000;Камышин;https://auto.ru/artic/used/sale/kamaz/65206/16276228-3c9088ed/;320000;MT;6x4;420;2;1;;3150000;-450000;Цена завышена - можно поторговаться;20;115000;;;ЮФО
+Тягач;КамАЗ;5490 NEO;2018;3340000;Авдон;https://auto.ru/artic/used/sale/kamaz/5490_neo/16537374-a76f8c7a/;150637;MT;4x2;401;2;1;M7 TRUCK Уфа;2860000;-480000;Цена завышена - можно поторговаться;30;107000;;;ПФО
+Тягач;КамАЗ;5490;2017;3150000;Звенигород;https://auto.ru/artic/used/sale/kamaz/5490/16375684-0fc953c7/;270000;AT;4x2;401;2;1;;2680000;-470000;Цена завышена - можно поторговаться;30;101000;;;
+Тягач;КамАЗ;5490;2017;2950000;Курск;https://auto.ru/artic/used/sale/kamaz/5490/16533022-f783a9ff/;170444;AT;4x2;401;2;1;;2680000;-270000;Цена завышена - можно поторговаться;20;94000;;;ЦФО
+Тягач;МАЗ;6425;2015;2400000;Тара;https://auto.ru/artic/used/sale/maz/6425/15710421-78943c0c/;45000;MT;6x6;420;2;2;;2530000;130000;Горячая цена! Срочно брать!;0;;;;
+Тягач;КамАЗ;65206;2018;7000000;Тюмень;https://auto.ru/artic/used/sale/kamaz/65206/16433642-0b5a420c/;21000;MT;6x4;428;2;1;;3680000;-3320000;Цена завышена - можно поторговаться;100;224000;;;СФО
+Тягач;Mercedes-Benz;Actros;2015;3106000;;https://auto.ru/artic/used/sale/mercedes/actros_t/16344962-3d7335f6/;658000;MT;4x2;410;2;2;M7 TRUCK Санкт-Петербург;3110000;4000;;10;99000;1;ok;
+Тягач;Scania;P-series;2017;5900000;Москва;https://auto.ru/artic/used/sale/scania/p_1/16349882-36ee9fc3/;300000;MT;6x4;440;2;1;Компания АВТОТРАК Москва;6220000;320000;Горячая цена! Срочно брать!;0;189000;1;ok;ЦФО
+Тягач;КамАЗ;5490 NEO;2017;3000000;Керчь;https://auto.ru/artic/used/sale/kamaz/5490_neo/16566582-4ab4fb73/;41300;MT;4x2;401;2;2;;2560000;-440000;Цена завышена - можно поторговаться;30;96000;;;
+Тягач;Mercedes-Benz;Actros;2016;4490000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/16545076-f205cb1a/;463000;AT;6x4;408;2;1;МБ тракс СПб;4810000;320000;Горячая цена! Срочно брать!;0;144000;;;СЗФО
+Тягач;MAN;TGS;2015;3900000;Новосибирск;https://auto.ru/artic/used/sale/man/tgs/16566934-65bdfb21/;580000;MT;6x4;441;2;1;;3740000;-160000;;10;125000;;;СФО
+Тягач;КамАЗ;44108;2016;2800000;Набережные Челны;https://auto.ru/artic/used/sale/kamaz/44108/16202016-6816ea3d/;120000;MT;6x6;280;3;1;;2890000;90000;;10;;;;ПФО
+Тягач;DAF;XF;2016;5200000;Домодедово;https://auto.ru/artic/used/sale/daf/xf_series/16513566-e75c9035/;166385;AT;4x2;462;2;2;"ООО""Трейд Моторс";4030000;-1170000;Цена завышена - можно поторговаться;40;166000;;;ЦФО
+Тягач;MAN;TGX;2017;4350000;Москва;https://auto.ru/artic/used/sale/man/tgx/16411488-5981e135/;462628;AT;4x2;400;2;2;GROSS AUTO;4470000;120000;;10;139000;;;ЦФО
+Тягач;МАЗ;5440;2015;1200000;Сухиничи;https://auto.ru/artic/used/sale/maz/5440/16366136-4a6225a5/;902230;MT;;435;2;2;;1890000;690000;Горячая цена! Срочно брать!;0;;1;no_vat;ЦФО
+Тягач;MAN;TGX;2020;7750000;Оренбург;https://auto.ru/artic/used/sale/man/tgx/16380674-3feb012f/;2000;AT;4x2;440;2;2;;5430000;-2320000;Цена завышена - можно поторговаться;50;248000;1;ok;УФО
+Тягач;MAN;TGX;2015;4100000;Солнечногорск;https://auto.ru/artic/used/sale/man/tgx/16485178-ae13ec45/;435000;AT;4x2;440;2;2;ТРАНСАЛЬЯНС Москва;3590000;-510000;Цена завышена - можно поторговаться;20;131000;;;ЦФО
+Тягач;КамАЗ;5490;2016;1520000;Котельники;https://auto.ru/artic/used/sale/kamaz/5490/16560980-edd6af27/;413776;MT;4x2;401;2;1;Форсаж;1890000;370000;Горячая цена! Срочно брать!;0;;0,37803;unclear;
+Тягач;МАЗ;6430;2017;2900000;Воронеж;https://auto.ru/artic/used/sale/maz/6430/16514502-3316e44f/;125000;MT;6x4;435;2;2;ООО Ю-ТРАК;2760000;-140000;Цена завышена - можно поторговаться;20;93000;;;ЦФО
+Тягач;Volvo;FH;2017;5940000;Екатеринбург;https://auto.ru/artic/used/sale/volvo/fh_tractor/16537314-895e3bf0/;437357;AT;4x2;500;;;ClassTrucks;5100000;-840000;Цена завышена - можно поторговаться;30;190000;;;УФО
+Тягач;КамАЗ;5490;2015;1680000;Екатеринбург;https://auto.ru/artic/used/sale/kamaz/5490/16401974-45765f54/;608858;MT;4x2;401;2;1;Global Truck Sales Екатеринбург;1610000;-70000;;10;;;;УФО
+Тягач;КамАЗ;65116;2018;2790000;Уфа;https://auto.ru/artic/used/sale/kamaz/65116/16566206-20d92c1d/;90000;MT;6x4;292;2;1;;3090000;300000;Горячая цена! Срочно брать!;0;89000;0,48906;unclear;ПФО
+Тягач;Scania;G-series;2015;4800000;Краснодар;https://auto.ru/artic/used/sale/scania/g/16519654-fcf1f11c/;200000;MT;6x4;440;2;2;"ООО""Кубань-Скан""";4770000;-30000;;10;154000;;;ЮФО
+Тягач;КамАЗ;5490;2017;2500000;Красноярск;https://auto.ru/artic/used/sale/kamaz/5490/16354736-c095f1ef/;221000;MT;4x2;401;2;1;;2400000;-100000;;10;80000;;;СФО
+Тягач;IVECO;Stralis;2017;4390000;Воронеж;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16282914-c7e168e9/;400000;AT;4x2;460;2;2;;4190000;-200000;;10;140000;1;unclear;ЦФО
+Тягач;Renault;T-Series;2017;5150000;Шушары;https://auto.ru/artic/used/sale/renault/t_series/16562324-bf2b1b3a/;263672;AT;4x2;480;2;2;VOLVO TRUCKS РОССИЯ в Санкт-Петербурге;4370000;-780000;Цена завышена - можно поторговаться;30;165000;;;СЗФО
+Тягач;DAF;XF105;2017;5500000;Смоленск;https://auto.ru/artic/used/sale/daf/xf105/15479531-50a19277/;400000;AT;4x2;460;2;2;;4390000;-1110000;Цена завышена - можно поторговаться;40;176000;1;unclear;ЦФО
+Тягач;КамАЗ;6460;2016;1650000;Княжье Озеро;https://auto.ru/artic/used/sale/kamaz/6460/16139594-a37d72b2/;110000;MT;6x4;400;2;1;;2370000;720000;Горячая цена! Срочно брать!;0;;1;unclear;
+Тягач;IVECO;Stralis;2017;4600000;Воронеж;https://auto.ru/artic/used/sale/iveco/stralis_tractor/16392184-e5c6e501/;423000;AT;4x2;460;2;2;ГрузАвто-36;4190000;-410000;Цена завышена - можно поторговаться;20;147000;1;unclear;ЦФО
+Тягач;КамАЗ;5490;2015;1350000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16502116-d93b06b4/;500000;MT;4x2;401;2;1;;1610000;260000;Горячая цена! Срочно брать!;0;;0,33562;ok;ПФО
+Тягач;КамАЗ;5490;2015;2000000;Кимовск;https://auto.ru/artic/used/sale/kamaz/5490/16459616-cf712577/;315000;MT;4x2;401;2;1;Юнион КРОНЕ Кимовск;1610000;-390000;Цена завышена - можно поторговаться;30;;;;ЦФО
+Тягач;Mercedes-Benz;Actros;2015;4000000;Люберцы;https://auto.ru/artic/used/sale/mercedes/actros_t/16519382-e2bb4e1a/;454145;AT;4x2;435;2;2;PRO АВТО;3520000;-480000;Цена завышена - можно поторговаться;20;128000;;;ЦФО
+Тягач;Scania;P-series;2020;9000000;Москва;https://auto.ru/artic/used/sale/scania/p_1/16468248-4b6e9c49/;9000;MT;6x4;440;2;1;Север-Скан АВТО;7650000;-1350000;Цена завышена - можно поторговаться;30;288000;;;ЦФО
+Тягач;DAF;XF105;2015;4000000;Калининград;https://auto.ru/artic/used/sale/daf/xf105/16262864-b6236942/;500000;MT;4x2;462;2;2;;3370000;-630000;Цена завышена - можно поторговаться;30;128000;1;unclear;СЗФО
+Тягач;КамАЗ;5490;2017;2600000;Воронеж;https://auto.ru/artic/used/sale/kamaz/5490/16397230-c02906a3/;420000;MT;4x2;450;2;1;;2510000;-90000;;10;83000;;;ЦФО
+Тягач;МАЗ;6430;2017;1800000;Красноярск;https://auto.ru/artic/used/sale/maz/6430/16418656-4cc679c4/;100000;MT;6x4;412;2;2;;2710000;910000;Горячая цена! Срочно брать!;0;58000;1;ok;СФО
+Тягач;Volvo;FH;2016;5280000;Москва;https://auto.ru/artic/used/sale/volvo/fh_tractor/16512272-46706e6e/;405635;AT;4x2;428;2;1;АГТ-Трейдинг;4510000;-770000;Цена завышена - можно поторговаться;30;169000;;;ЦФО
+Тягач;DAF;XF105;2017;4690000;Нижний Новгород;https://auto.ru/artic/used/sale/daf/xf105/15941474-8de05776/;598000;MT;4x2;460;2;2;;4430000;-260000;Цена завышена - можно поторговаться;20;150000;;;ПФО
+Тягач;МАЗ;5440;2017;1450000;Воронеж;https://auto.ru/artic/used/sale/maz/5440/16534846-a93f86dd/;610000;MT;4x2;430;2;1;;2150000;700000;Горячая цена! Срочно брать!;0;46000;1;unclear;ЦФО
+Тягач;Scania;R-Series;2020;8000000;Москва;https://auto.ru/artic/used/sale/scania/r_1/16568324-cec901f6/;50000;AT;4x2;450;2;2;Север-Скан АВТО;8160000;160000;;10;256000;;;ЦФО
+Тягач;КамАЗ;65206;2018;3699000;Оренбург;https://auto.ru/artic/used/sale/kamaz/65206/16543514-cb4753cd/;160000;MT;6x4;428;2;1;Европлан Краснодар;3680000;-19000;;10;118000;;;УФО
+Тягач;Volvo;FH;2015;3990000;Ольша;https://auto.ru/artic/used/sale/volvo/fh_tractor/15759051-1aac2c31/;720000;AT;4x2;428;2;2;Бест Транс;3510000;-480000;Цена завышена - можно поторговаться;20;128000;;;ЦФО
+Тягач;Scania;G-series;2016;4450000;Белгород;https://auto.ru/artic/used/sale/scania/g/16479232-87104367/;702000;MT;4x2;440;2;2;;4390000;-60000;;10;142000;;;ЦФО
+Тягач;Renault;T-Series;2015;3590000;Самара;https://auto.ru/artic/used/sale/renault/t_series/16515052-120d04b9/;522636;;4x2;469;2;1;;2810000;-780000;Цена завышена - можно поторговаться;40;;;;ПФО
+Тягач;КамАЗ;5490;2015;2600000;Батырево;https://auto.ru/artic/used/sale/kamaz/5490/16487642-1d438e62/;600000;MT;;401;2;2;;2010000;-590000;Цена завышена - можно поторговаться;40;;;;
+Тягач;КамАЗ;43118;2018;6450000;;https://auto.ru/artic/used/sale/kamaz/43118_tyagach/16527746-ce9f9a8a/;70158;MT;6x6;300;2;1;ООО Техсистема-Управление Механизированных Работ;3860000;-2590000;Цена завышена - можно поторговаться;80;206000;;;
+Тягач;Mercedes-Benz;Actros;2016;4649000;Санкт-Петербург;https://auto.ru/artic/used/sale/mercedes/actros_t/15923276-f70a94d9/;380000;AT;4x2;435;2;2;Вираж;4000000;-649000;Цена завышена - можно поторговаться;30;149000;1;unclear;СЗФО
+Тягач;Volvo;FH;2015;4200000;Елино;https://auto.ru/artic/used/sale/volvo/fh_tractor/16451008-45b53b70/;539000;AT;4x2;469;2;2;700 МАШИН;3810000;-390000;Цена завышена - можно поторговаться;20;134000;;;ЦФО
+Тягач;Volvo;FH;2019;7350000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16554372-5ce87018/;120116;AT;4x2;460;;;ClassTrucks;6190000;-1160000;Цена завышена - можно поторговаться;30;235000;;;СЗФО
+Тягач;Volvo;FH;2019;7350000;Тосно;https://auto.ru/artic/used/sale/volvo/fh_tractor/16545138-17af690d/;120590;AT;4x2;460;;;ClassTrucks;6190000;-1160000;Цена завышена - можно поторговаться;30;235000;;;СЗФО
+Тягач;МАЗ;6430;2019;3061000;Солонцы;https://auto.ru/artic/used/sale/maz/6430/16527820-0a27c473/;37590;MT;;420;;;Сбербанк Лизинг;2400000;-661000;Цена завышена - можно поторговаться;40;98000;;;
+Тягач;MAN;TGX;2017;5300000;Тверь;https://auto.ru/artic/used/sale/man/tgx/16472184-2c7c9502/;180000;MT;4x2;480;2;2;;5010000;-290000;Цена завышена - можно поторговаться;20;170000;;;ЦФО
+Тягач;Scania;R-Series;2015;3695000;Набережные Челны;https://auto.ru/artic/used/sale/scania/r_1/16410145-044d1c23/;797000;AT;4x2;400;2;2;M7 TRUCK Набережные Челны;4050000;355000;Горячая цена! Срочно брать!;0;118000;;;ПФО
+Тягач;Scania;R-Series;2016;5350000;Новосибирск;https://auto.ru/artic/used/sale/scania/r_1/16360480-b55ca6d7/;730000;AT;6x2;440;2;2;СибТракСкан;6790000;1440000;Горячая цена! Срочно брать!;0;171000;1;ok;СФО
+Тягач;КамАЗ;44108;2015;1990000;Красноярск;https://auto.ru/artic/used/sale/kamaz/44108/16046394-7d6cbb00/;85000;MT;6x6;330;2;1;;2450000;460000;Горячая цена! Срочно брать!;0;;1;ok;СФО
+Тягач;Scania;G-series;2015;5500000;Иркутск;https://auto.ru/artic/used/sale/scania/g/16503244-584094f8/;200000;;6x4;441;;;;4220000;-1280000;Цена завышена - можно поторговаться;40;176000;;;СФО
+Тягач;MAN;TGX;2018;5750000;Новосибирск;https://auto.ru/artic/used/sale/man/tgx/16384202-debaa665/;158028;AT;4x2;441;;;Альфа-Лизинг Россия;5420000;-330000;Цена завышена - можно поторговаться;20;184000;1;ok;СФО
+Тягач;Mercedes-Benz;Actros;2018;6763696;Ольша;https://auto.ru/artic/used/sale/mercedes/actros_t/16477572-43ed8f8a/;300000;AT;4x2;449;2;2;Бест Транс;5810000;-953696;Цена завышена - можно поторговаться;30;216000;;;ЦФО
+Тягач;DAF;XF105;2015;3950000;Калининград;https://auto.ru/artic/used/sale/daf/xf105/15399996-eb691154/;490000;MT;4x2;460;2;2;;3390000;-560000;Цена завышена - можно поторговаться;30;126000;;;СЗФО
+Тягач;Volvo;FH;2017;5850000;Черкесск;https://auto.ru/artic/used/sale/volvo/fh_tractor/16550474-ae388a85/;350000;AT;4x2;460;2;2;;4870000;-980000;Цена завышена - можно поторговаться;30;187000;;;
+Тягач;КамАЗ;5490;2015;1605000;Нижний Новгород;https://auto.ru/artic/used/sale/kamaz/5490/16536260-97b0110b/;511906;MT;4x2;401;2;1;M7 TRUCK Нижний Новгород;1610000;5000;;10;;;;ПФО
+Тягач;MAN;TGS;2017;4200000;Краснодар;https://auto.ru/artic/used/sale/man/tgs/16501267-36e901fe/;761700;MT;6x2;400;2;1;;6010000;1810000;Горячая цена! Срочно брать!;0;134000;0,33947;unclear;ЮФО
