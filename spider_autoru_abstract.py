@@ -6,6 +6,7 @@ class AutoRuAbstractSpider(scrapy.Spider):
         for u in self.start_urls:
             yield scrapy.Request(u, errback=self.errback)
 
+
     def parse(self, response):
         self.check_for_captcha(response)
         for ad in self.get_ads(response):
@@ -14,23 +15,33 @@ class AutoRuAbstractSpider(scrapy.Spider):
         next_page = self.get_next_page(response)
         if next_page is not None:
             yield response.follow(next_page, self.parse)
+
         
     def check_for_captcha(self, response):
         if response.css("title::text").get() == "Ой!":
             raise ValueError('Got a captcha')
+
         
     def errback(self, failure):
         # log all failures
         self.logger.error(repr(failure))
 
+
     def get_ads(self, response):
-        return response.css('.ListingCars-module__list .ListingItem-module__container')
+        ads = response.css('.ListingCars-module__list .ListingItem-module__container')
+        if ads:
+            return ads
+        else:
+            raise('No ads found')
+
     
     def parse_ad(self, ad):
-        pass
+        raise NotImplementedError
+
 
     def get_next_page(self, response):
         return response.css('a.ListingPagination-module__next::attr(href)').get()
+
 
     def extract_common_data(self, ad):
         return {
