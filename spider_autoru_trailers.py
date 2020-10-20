@@ -15,8 +15,7 @@ class TrailersSpider(AutoRuAbstractSpider):
                 'format': 'csv'
             }
         },
-        'LOG_FILE': 'scapy.log',
-        'LOG_ENABLED': True,
+        'LOG_FILE': 'scrapy.log',
         'LOG_LEVEL': 'INFO'
     }
 
