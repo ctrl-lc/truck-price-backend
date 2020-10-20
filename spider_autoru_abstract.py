@@ -28,11 +28,13 @@ class AutoRuAbstractSpider(scrapy.Spider):
 
 
     def get_ads(self, response):
-        ads = response.css('.ListingCars-module__list .ListingItem-module__container')
+        ads = response.css(".ListingItem-module__container") or \
+            response.css('.ListingCars-module__list .ListingItem-module__container')
         if ads:
             return ads
         else:
-            raise('No ads found')
+            save_page(response.selector.get())
+            raise RuntimeError('No ads found')
 
     
     def parse_ad(self, ad):
@@ -55,3 +57,12 @@ class AutoRuAbstractSpider(scrapy.Spider):
             'name': ad.css('meta[itemprop="name"]::attr(content)').get(),
             'supplier': ad.css('.ListingItem-module__salonName::text').get()
         }
+
+
+def save_page(text):
+    with open(getfilename(text), 'w', encoding = 'utf-8') as f:
+        f.write(text)
+        
+
+def getfilename(text):
+    return f'{datetime.now().strftime("%m%d-%H%M")}-{str(hash(text))[:6]}.html'
