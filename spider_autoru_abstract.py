@@ -1,46 +1,16 @@
-import scrapy
+from spider_abstract import AbstractSpider
 
-class AutoRuAbstractSpider(scrapy.Spider):
+class AutoRuAbstractSpider(AbstractSpider):
 
-    def start_requests(self):
-        for u in self.start_urls:
-            yield scrapy.Request(u, errback=self.errback)
-
-
-    def parse(self, response):
-        self.check_for_captcha(response)
-        for ad in self.get_ads(response):
-            yield self.parse_ad(ad)
-
-        next_page = self.get_next_page(response)
-        if next_page is not None:
-            yield response.follow(next_page, self.parse)
+    def is_captcha(self, response):
+        return response.css("title::text").get() == "Ой!"
 
         
-    def check_for_captcha(self, response):
-        if response.css("title::text").get() == "Ой!":
-            raise ValueError('Got a captcha')
-
-        
-    def errback(self, failure):
-        # log all failures
-        self.logger.error(repr(failure))
-
-
     def get_ads(self, response):
-        ads = response.css(".ListingItem-module__container") or \
+        return response.css(".ListingItem-module__container") or \
             response.css('.ListingCars-module__list .ListingItem-module__container')
-        if ads:
-            return ads
-        else:
-            save_page(response.selector.get())
-            raise RuntimeError('No ads found')
 
     
-    def parse_ad(self, ad):
-        raise NotImplementedError
-
-
     def get_next_page(self, response):
         return response.css('a.ListingPagination-module__next::attr(href)').get()
 
@@ -57,12 +27,3 @@ class AutoRuAbstractSpider(scrapy.Spider):
             'name': ad.css('meta[itemprop="name"]::attr(content)').get(),
             'supplier': ad.css('.ListingItem-module__salonName::text').get()
         }
-
-
-def save_page(text):
-    with open(getfilename(text), 'w', encoding = 'utf-8') as f:
-        f.write(text)
-        
-
-def getfilename(text):
-    return f'{datetime.now().strftime("%m%d-%H%M")}-{str(hash(text))[:6]}.html'
