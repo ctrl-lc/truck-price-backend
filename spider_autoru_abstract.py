@@ -1,4 +1,7 @@
+from datetime import datetime
+
 import scrapy
+
 
 class AutoRuAbstractSpider(scrapy.Spider):
 
