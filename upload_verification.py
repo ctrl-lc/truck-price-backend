@@ -17,8 +17,7 @@ for d in tqdm(docs):
 # Добавляем в базу результаты автоматической верификации
 log('Adding new automatic verification results...')
 
-projectdir = u'C:\\Users\\a.leshchenko\\Documents\\CTRL\\Stocks'
-r = pd.read_csv(projectdir + u'\\data\\comments evaluated.csv')
+r = pd.read_csv(config['dirs']['data'] + '/comments evaluated.csv')
 i = 0
 for val in tqdm(enumerate(r.iterrows()), total=r.shape[0]): 
     v = val[1][1]

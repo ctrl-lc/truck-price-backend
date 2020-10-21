@@ -9,8 +9,7 @@ import pandas as pd
 import datetime, urllib
 
 # Закачать файл с результатами автоматической верификации
-projectdir = u'C:\\Users\\a.leshchenko\\OneDrive\\Документы\\Контрол\\Stocks'
-r = pd.read_csv(projectdir + u'\\temp\\comments - training 2.csv', sep=';')
+r = pd.read_csv('/temp/comments - training 2.csv', sep=';')
 
 # Use the application default credentials
 firebase_admin.initialize_app()

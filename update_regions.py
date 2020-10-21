@@ -1,12 +1,10 @@
 from lxutils import *
 import pandas as pd
 
-projectdir = 'C:\\Users\\a.leshchenko\\Documents\\CTRL\\Stocks'
-
 with timer('Stage 1 - preparation'):
     log('Reading the stock files')
-    stock = pd.read_csv(projectdir + '\\data\\trucks - evaluated.csv')['Location']
-    stock =  stock.append(pd.read_csv(projectdir + '\\data\\trailers - evaluated.csv')['Location'])
+    stock = pd.read_csv(config['dirs']['data'] + '/trucks - evaluated.csv')['Location']
+    stock =  stock.append(pd.read_csv(config['dirs']['data'] + '/trailers - evaluated.csv')['Location'])
     stock = pd.DataFrame(stock)
     loc = stock.rename(columns={'Location': 'location'}).groupby('location')['location'].count()
     loc = loc.sort_values(ascending=False)
@@ -16,7 +14,7 @@ with timer('Stage 1 - preparation'):
     log(f'{loc.shape[0]} locations found')
 
     log('Reading the regions file')
-    reg = pd.read_excel(projectdir + '\\data\\regions.xlsx')
+    reg = pd.read_excel(config['dirs']['data'] + '/regions.xlsx')
     reg = reg.drop ('number', axis = 1) # будем записывать актуальное
 
     missing = pd.merge(loc, reg, how="outer", on="location", indicator=True)
@@ -88,6 +86,6 @@ with timer('Stage 3 - Writing down the regions file'):
     total_sum = reg['number'].sum()
     covered_sum = total_sum - reg[pd.isna(reg['fo'])]['number'].sum()
     log(f'{int(covered_sum / total_sum * 100)}% ({covered_sum} of {total_sum}) of stocks covered by the federal district indication')
-    reg.to_excel(projectdir + '\\data\\regions.xlsx', index=False)
+    reg.to_excel(config['dirs']['data'] + '/regions.xlsx', index=False)
 
 log('Complete!')
