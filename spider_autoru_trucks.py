@@ -1,9 +1,10 @@
 import pathlib
+from spider_abstract import RecordValidation
 from spider_autoru_abstract import AutoRuAbstractSpider
 
 class TrucksSpider(AutoRuAbstractSpider):
     
-    name = 'trucks'
+    name = 'autoru - trucks'
     
     start_urls = [
         'https://auto.ru/rossiya/artic/all/?output_type=list&sort=fresh_relevance_1-desc&year_from=2000&year_to=2004',
@@ -49,3 +50,10 @@ class TrucksSpider(AutoRuAbstractSpider):
             pass
 
         return record
+    
+    
+    def validate(self, record):
+        return RecordValidation.OK if (
+            super().validate(record) == RecordValidation.OK and 
+            {'hp', 'gear'} <= record.keys()
+        ) else RecordValidation.FATAL

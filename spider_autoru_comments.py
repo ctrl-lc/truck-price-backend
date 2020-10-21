@@ -5,7 +5,7 @@ from spider_autoru_abstract import AutoRuAbstractSpider
 
 class CommentsSpider(AutoRuAbstractSpider):
 
-    name = 'comments'
+    name = 'autoru - comments'
     
     start_urls = set(pd.read_csv('data/comment task - auto.ru.csv', delimiter=';')['link'])
 
@@ -22,6 +22,7 @@ class CommentsSpider(AutoRuAbstractSpider):
 
     def parse(self, response):
 
+        self.check_for_captcha(response)
         yield {
             'url': response.url,
             'comment': ' '.join(response.css('div.CardDescription__textInner span::text').getall())

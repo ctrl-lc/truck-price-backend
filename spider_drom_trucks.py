@@ -1,9 +1,10 @@
 from pathlib import Path
+from spider_abstract import RecordValidation
 from urllib.parse import urljoin
-from spider_abstract import AbstractSpider, save_page
+from spider_drom_abstract import DromAbstractSpider
 
 
-class DromSpider(AbstractSpider):
+class DromSpider(DromAbstractSpider):
 
     name = 'drom_trucks'
 
@@ -22,14 +23,6 @@ class DromSpider(AbstractSpider):
     }
 
 
-    def is_captcha(self, response):
-        return False
-
-
-    def get_ads(self, response):
-        return response.css('.bull-item')
-    
-    
     def parse_ad(self, ad):
         record = {
             'URL': 
@@ -56,15 +49,15 @@ class DromSpider(AbstractSpider):
                 ad.css('.ellipsis-text__left-side span::text').get()
         }
         
-        if not all(record[key] for key in ['URL', 'Name']):
-            save_page(ad.get())
-            raise RuntimeError('Some compulsory data missing')
+        return record
+    
+    
+    def validate(self, record):
+        required = {'URL', 'Name'}
+        if required <= record.keys() and all(record[x] for x in required):
+            return RecordValidation.OK
 
         if not record['Price']:
-            return
+            return RecordValidation.SKIP
         
-        return record
-
-
-    def get_next_page(self, response):
-        return response.css('.pagebar a::attr(href)').getall()
+        return RecordValidation.FATAL

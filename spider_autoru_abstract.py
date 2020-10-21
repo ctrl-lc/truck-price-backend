@@ -1,4 +1,4 @@
-from spider_abstract import AbstractSpider
+from spider_abstract import AbstractSpider, RecordValidation
 
 
 class AutoRuAbstractSpider(AbstractSpider):
@@ -28,3 +28,8 @@ class AutoRuAbstractSpider(AbstractSpider):
             'name': ad.css('meta[itemprop="name"]::attr(content)').get(),
             'supplier': ad.css('.ListingItem-module__salonName::text').get()
         }
+
+
+    def validate(self, record):
+        return (RecordValidation.OK if {'price', 'year', 'url', 'make'} <= record.keys()
+                else RecordValidation.FATAL)
