@@ -4,7 +4,7 @@ from spider_abstract import AbstractSpider
 class DromAbstractSpider(AbstractSpider):
 
     def is_captcha(self, response):
-        return False
+        return response.selector.re('Мы зарегистрировали подозрительный траффик')
 
 
     def get_ads(self, response):

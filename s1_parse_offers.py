@@ -6,7 +6,9 @@ def clear_scrapy_result_files():
     files_to_remove = [
         'autoru - trucks.csv',
         'autoru - trailers.csv',
-        'comments - auto.ru - results.csv'
+        'comments - auto.ru - results.csv',
+        'drom - trucks.csv',
+        'comments - drom - results.csv'
     ]
     for f in files_to_remove:
         try:

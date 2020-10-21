@@ -7,11 +7,11 @@ class CommentsSpider(AutoRuAbstractSpider):
 
     name = 'autoru - comments'
     
-    start_urls = set(pd.read_csv('data/comment task - auto.ru.csv', delimiter=';')['link'])
+    start_urls = set(pd.read_csv('data/comment task - autoru.csv', delimiter=';')['link'])
 
     custom_settings = {
         'FEEDS': {
-            pathlib.Path('data/comments - auto.ru - results.csv'): {
+            pathlib.Path('data/comment result - autoru.csv'): {
                 'format': 'csv'
             }
         },

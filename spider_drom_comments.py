@@ -7,11 +7,11 @@ class CommentsSpider(DromAbstractSpider):
 
     name = 'drom - comments'
     
-    start_urls = set(pd.read_csv('data/comments task - drom.csv', delimiter=';')['link'])
+    start_urls = set(pd.read_csv('data/comment task - drom.csv', delimiter=';')['link'])
 
     custom_settings = {
         'FEEDS': {
-            pathlib.Path('data/comments - drom - results.csv'): {
+            pathlib.Path('data/comment result - drom.csv'): {
                 'format': 'csv'
             }
         },
@@ -24,5 +24,5 @@ class CommentsSpider(DromAbstractSpider):
         self.check_for_captcha(response)
         yield {
             'url': response.url,
-            'comment': ' '.join(response.css("#bulletin .bulletinText").get_all())
+            'comment': ' '.join(response.css("#bulletin .bulletinText::text").getall())
         }

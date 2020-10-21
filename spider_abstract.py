@@ -49,7 +49,7 @@ class AbstractSpider(Spider):
         
     def check_for_captcha(self, response):
         if self.is_captcha(response):
-            self.save_page(response.selector.get(), self.name)
+            self.save_page(response.selector.get())
             raise ValueError('Got a captcha')
 
     
