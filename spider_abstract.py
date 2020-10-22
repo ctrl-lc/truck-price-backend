@@ -49,7 +49,6 @@ class AbstractSpider(Spider):
         
     def check_for_captcha(self, response):
         if self.is_captcha(response):
-            self.save_page(response.selector.get())
             raise ValueError('Got a captcha')
 
     
@@ -64,7 +63,7 @@ class AbstractSpider(Spider):
             
 
     def get_save_filename(self, text):
-        return f'{self.name}-{datetime.now().strftime("%m%d-%H%M")}-{str(hash(text))[:6]}.html'
+        return f'temp/{self.name}-{datetime.now().strftime("%m%d-%H%M")}-{str(hash(text))[:6]}.html'
     
     
     def validate(self, record):
