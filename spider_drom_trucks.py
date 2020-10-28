@@ -9,7 +9,7 @@ class DromSpider(DromAbstractSpider):
     name = 'drom_trucks'
 
     start_urls = [
-        'https://spec.drom.ru/truck/truck-tractor/'
+        'https://spec.drom.ru/truck/truck-tractor/?goodPresentState%5B%5D=present&spectechDocuments%5B%5D=yes&spectechState%5B%5D=new&spectechState%5B%5D=used&year_max=2019'
     ]
 
     custom_settings = {
