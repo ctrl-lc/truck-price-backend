@@ -43,7 +43,7 @@ class DromSpider(DromAbstractSpider):
                 ad.css('div.ellipsis-text__left-side span::text').get(),
             
             'Formula': 
-                ad.css('div.bull-item__annotation-row').re_first(r'\s(\d?x\d?)'),
+                ad.css('div.bull-item__annotation-row').re_first(r'\s(\d+x\d+)'),
                 
             'Supplier':
                 ad.css('.ellipsis-text__left-side span::text').get()
