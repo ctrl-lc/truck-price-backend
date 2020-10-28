@@ -1,3 +1,5 @@
 lxutils
 pandas
 firebase-admin
+pytest-asyncio
+aiohttp
