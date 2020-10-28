@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env: 
+        GOOGLE_APPLICATION_CREDENTIALS: best-trucks-d91b7b438b2e.json
 
     steps:
       - uses: actions/checkout@v2
