@@ -1,2 +1,3 @@
 lxutils
 pandas
+firebase-admin
