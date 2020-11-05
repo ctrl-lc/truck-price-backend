@@ -14,6 +14,7 @@ def main():
 
     with timer('===== Этап 4 - финальная подготовка ====='):
         import s4_final_preparation
+        s4_final_preparation.main()
 
     with timer('===== Этап 5 - загрузка ====='):
         import s5_upload_everything
