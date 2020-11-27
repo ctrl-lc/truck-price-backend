@@ -3,3 +3,4 @@ pandas
 firebase-admin
 pytest-asyncio
 aiohttp
+firestore_batch
