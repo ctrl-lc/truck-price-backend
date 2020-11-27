@@ -21,7 +21,8 @@ class CommentsSpider(DromAbstractSpider):
             }
         },
         'LOG_FILE': 'scrapy.log',
-        'LOG_LEVEL': 'INFO'
+        'LOG_LEVEL': 'INFO',
+        'CONCURRENT_REQUESTS': 10
     }
 
     scraper_api_client = ScraperAPIClient(config['tokens']['scraper-api'])
