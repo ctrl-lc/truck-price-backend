@@ -1,633 +1,563 @@
 ﻿Model;URL;Year;Price;Mileage;VehicleType;Make;Supplier;VATIncluded;Location
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16664646-edfc505b/;2014;3600000;;Refrigerator;SCHMITZ CARGOBULL;;;Горки
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16663462-57c7d615/;2005;650000;1096580;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16681098-a736d22e/;2017;2199000;350000;Curtainsider;KOGEL;;;Омск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16664646-edfc505b/;2014;3400000;;Refrigerator;SCHMITZ CARGOBULL;;;Горки
 SD;https://auto.ru/trailer/used/sale/krone/sd/16128956-35641e19/;2017;2200000;160000;Curtainsider;KRONE;Группа ГРАССМАНН и ЛОМТЕВ;Цена с НДС;Москва
-SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16632264-14f06995/;2013;1350437;650000;Curtainsider;SCHMITZ CARGOBULL;;;Смоленская область
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16681172-ba947539/;2008;1912000;200000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Москва;;Чёрная Грязь
-SD;https://auto.ru/trailer/used/sale/krone/sd/16682046-8f722ec9/;2013;1450000;560000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16680504-cb9aaa76/;2006;680000;200000;Platform;KRONE;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16715501-a9b5e7cb/;2007;690000;500000;Platform;SCHMITZ CARGOBULL;;;Орёл
+SD;https://auto.ru/trailer/used/sale/krone/sd/16704376-49a866e7/;2007;900000;;Curtainsider;KRONE;;;Нижний Новгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16681172-ba947539/;2008;1798000;200000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Москва;;Чёрная Грязь
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16680504-cb9aaa76/;2006;430000;200000;Platform;KRONE;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16591160-f8a48fbb/;2004;1050000;;Refrigerator;KRONE;;;Томск
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16670750-7a9034e6/;2012;1250000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16717794-e6b8076f/;2011;2950000;565121;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16717596-d7c300ca/;2018;4485000;350000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16678326-fb950612/;2018;2340000;240000;Curtainsider;KOGEL;;;Людиново
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16679666-d9ec838a/;2011;2400000;350000;Curtainsider;SCHMITZ CARGOBULL;Транзит-Дон Москва;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16461996-f4fd6386/;2017;4320000;;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;;Кимовск
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16678142-86fe785e/;2014;1530000;480000;Curtainsider;KOGEL;;;Брянск
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16679328-d2916d23/;2008;570000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16570948-8f1976ec/;2008;949000;;Curtainsider;SCHMITZ CARGOBULL;GROSS AUTO;;Москва
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16686628-3586d35e/;2017;2178000;400000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16706908-60195712/;2015;3700000;450000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Москва;;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16670128-47400ab0/;2015;3450000;7000;Refrigerator;SCHMITZ CARGOBULL;;;Невинномысск
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16648850-427a4394/;2017;1350000;80000;Platform;TONAR;;;Красноярск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16723870-33fc694b/;2015;1350000;500000;Curtainsider;KOGEL;;;Серебряные Пруды
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456238-f14198c4/;2010;2300000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
+NS;https://auto.ru/trailer/used/sale/wielton/ns/16694360-1a0f40ac/;2009;950000;;Platform;WIELTON;Реалист Банк;;Москва
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16594408-84ad59c8/;2007;850000;100;Platform;SCHMITZ CARGOBULL;;;Курск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16555916-fe3827fa/;2008;1900000;;Refrigerator;SCHMITZ CARGOBULL;;;Брянск
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16452278-cc963d51/;2007;790000;740245;Platform;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16622544-e265c459/;2018;2230000;180000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16466976-7ae5b1a2/;2013;1370000;;Curtainsider;KOGEL;;;Челябинск
-SD;https://auto.ru/trailer/used/sale/krone/sd/15983512-26fc8ce9/;2008;2300000;;Refrigerator;KRONE;;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714627-6fafc502/;2014;3750000;180000;Refrigerator;SCHMITZ CARGOBULL;;;Москва и Московская область
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16557908-a6679f52/;2008;780000;;Platform;SCHMITZ CARGOBULL;GROSS AUTO;;Москва
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16723124-326c945d/;2005;670000;100;Curtainsider;SCHMITZ CARGOBULL;;;Старый Оскол
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16724902-258957bc/;2006;2120000;;Refrigerator;SCHMITZ CARGOBULL;АЙС КУБ;;Солнечногорск
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16717722-e254c4bf/;2015;1350000;100000;Platform;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16712273-6ebbdc34/;2014;790000;150000;Curtainsider;TONAR;;;Москва
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16664309-5045969c/;2008;939900;;Curtainsider;KRONE;Транзит-Дон Краснодар;Цена с НДС;Краснодар
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16622512-dca21074/;2016;1750000;41000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16650330-f33b2740/;2004;1090000;350000;Refrigerator;KRONE;ГРУЗОВИК-24;;Москва
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16710382-03a92087/;2006;690000;;Curtainsider;KRONE;PRO АВТО;Цена с НДС;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16723894-5071649c/;2003;1050000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Брянск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16478690-39d3de26/;2010;1650000;300000;Refrigerator;KRONE;Европлан Краснодар;;Южно-Сахалинск
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16616742-a1c133e8/;2012;1150000;10;Curtainsider;KOGEL;700 МАШИН;;Елино
-SD;https://auto.ru/trailer/used/sale/krone/sd/16660654-3d28c8c7/;2011;1300000;680000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16724178-519b39d0/;2007;750000;;Curtainsider;KOGEL;;;Тобольск
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16331576-888f8bff/;2009;850000;100;Platform;KOGEL;;;Дорогобуж
-SD;https://auto.ru/trailer/used/sale/krone/sd/16664982-5bad6f67/;2007;900000;;Platform;KRONE;;;Санкт-Петербург
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16677832-1d8c6253/;2015;1050000;700000;Platform;SCHMITZ CARGOBULL;;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16577320-d716ef2a/;2018;5030000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16686630-3fe5987c/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16712967-9bac563a/;2018;1700000;50000;Curtainsider;TONAR;;;Санкт-Петербург
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16641608-63f6445b/;2005;625000;655000;Curtainsider;SCHMITZ CARGOBULL;;;Тольятти
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16559270-9a27dd55/;2011;2350000;659000;Refrigerator;SCHMITZ CARGOBULL;;;Ростов-на-Дону
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16593274-be955f79/;2007;750000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16557672-2665602f/;2007;780000;;Curtainsider;KRONE;GROSS AUTO;;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16358570-48d0bb46/;2004;420000;;Platform;KOGEL;АРГЕНИ-ТРАНС;;Смоленск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16710290-c8260c62/;2016;3990000;340000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16559270-9a27dd55/;2016;3599000;490000;Refrigerator;SCHMITZ CARGOBULL;;;Ростов-на-Дону
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16593274-be955f79/;2007;730000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645458-51a0985f/;2017;4700000;125000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
 SD;https://auto.ru/trailer/used/sale/krone/sd/16318138-986679e9/;2008;1699999;;Refrigerator;KRONE;;;Хабаровск
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16661528-3b97c252/;2004;1300000;;Refrigerator;KRONE;;;Москва
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16600412-4a30a5e9/;2008;850000;750000;Platform;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16622538-5a6df6db/;2018;2290000;44000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16635570-5fa93ad8/;2017;2295000;555392;Curtainsider;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714587-177be03c/;2010;3400000;555555;Refrigerator;SCHMITZ CARGOBULL;Вираж;Цена с НДС;Санкт-Петербург
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16689122-29b7b0b6/;2008;1830000;1000;Refrigerator;SCHMITZ CARGOBULL;СибТракСкан;;Новосибирск
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16675174-81dd6b76/;2005;750000;500000;Curtainsider;KRONE;;;Красноярск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16677076-24c5112e/;2015;3200000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Набережные Челны
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16628740-ed016bb1/;2006;2520000;780000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16607372-6de7712f/;2015;1349777;650000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16708710-b34fb037/;2012;1200000;;Curtainsider;KRONE;;;Калуга
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16705060-931acd0c/;2005;1640000;;Refrigerator;SCHMITZ CARGOBULL;;;Воронеж
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16708342-6e74149d/;2011;800000;900000;Curtainsider;SCHMITZ CARGOBULL;;;Санкт-Петербург
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16714663-db3c46d7/;2015;1450000;800000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16711278-ff4e36e9/;2016;4100000;450000;Refrigerator;SCHMITZ CARGOBULL;;;Москва и Московская область
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16567408-d082ea7f/;2011;2550000;990000;Refrigerator;SCHMITZ CARGOBULL;Монополия;Цена с НДС;Санкт-Петербург
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16367200-668f69da/;2011;900000;;Refrigerator;KRONE;;;Пермь
-SD;https://auto.ru/trailer/used/sale/krone/sd/16635452-488d1fce/;2017;2300000;400000;Curtainsider;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16088414-81979c12/;2012;1200000;500000;Platform;KOGEL;СибТракСкан;;Новосибирск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16275240-ac4856f7/;2017;2050000;;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16698164-304ce3ed/;2008;1550000;;Refrigerator;SCHMITZ CARGOBULL;ГРУЗ СОЮЗ;;Москва
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16711234-24334fff/;2017;1550000;;Curtainsider;TONAR;Альфа-Лизинг Россия;;Новосибирск
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16652092-9f2e4041/;2018;2250000;150000;Curtainsider;KOGEL;Вираж;Цена с НДС;Санкт-Петербург
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16435980-4caccdb6/;2000;530000;700000;Curtainsider;KRONE;;;Красноярск
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16680958-84d8df8e/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;Цена с НДС;Люберцы
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16553610-b0ba0579/;2007;780000;300000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16692274-dbe9d1ee/;2014;1100000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16718352-eaedf7d7/;2008;1750000;;Refrigerator;SCHMITZ CARGOBULL;BS-Truck;;Набережные Челны
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16387516-55888ecb/;2012;1250000;;Curtainsider;SCHMITZ CARGOBULL;СибТракСкан;;Новосибирск
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16697462-e1a53945/;2005;620000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16711182-ef8e2a3d/;2018;4151000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16718120-665c1a18/;2014;1280000;;Platform;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16664303-12021e11/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Краснодар;Цена с НДС;Краснодар
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16622400-34ab33b6/;2012;2660000;680000;Refrigerator;KRONE;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16670920-e6e79955/;2014;1750000;;Curtainsider;KRONE;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16648836-b1ae5053/;2017;4450000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Екатеринбург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16662858-df3203ab/;2017;2050000;200000;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
-SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16617954-e4b45dd9/;2015;1347777;610000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16530980-cb008d23/;2011;2150000;350000;Refrigerator;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16662894-3efc6c26/;2008;2100000;600000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16213868-9cd2b6b3/;2013;1350000;770000;Curtainsider;KOGEL;;;Смоленск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16695728-c43cbccb/;2011;2349000;745015;Refrigerator;SCHMITZ CARGOBULL;ББС ГРУПП;;Мытищи
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16234408-ed00a5bb/;2008;800000;;Platform;SCHMITZ CARGOBULL;;;Петрозаводск
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16530980-cb008d23/;2011;2400000;350000;Refrigerator;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16631316-d225cf0e/;2018;2390000;120000;Curtainsider;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16627122-372da9af/;2006;650000;;Curtainsider;SCHMITZ CARGOBULL;;;Краснодар
 SD;https://auto.ru/trailer/used/sale/krone/sd/16619244-3bcb050e/;2017;2100000;250000;Curtainsider;KRONE;ООО Группа Авто;Цена с НДС;Рязань
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16684734-b01c1b31/;2014;3000000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Подольск
 ;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16619560-56f8ac60/;2015;1593000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва;;Чёрная Грязь
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16662644-b7a29a82/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
-SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16676900-cf95bd45/;2009;2200000;1000000;Refrigerator;KOGEL;;;Москва
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16679870-6ce0409e/;2001;280000;;Platform;SCHMITZ CARGOBULL;;;Уфа
-SD;https://auto.ru/trailer/used/sale/krone/sd/16524836-02a7a827/;2011;1950000;299000;Refrigerator;KRONE;ТРАК ПЛАТФОРМА;;Люберцы
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16612594-461e9cc0/;2018;2300000;100000;Curtainsider;SCHMITZ CARGOBULL;Вираж-Трак;Цена с НДС;Санкт-Петербург
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16663966-fa4c9494/;2016;3450000;;Refrigerator;SCHMITZ CARGOBULL;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16664267-ebc72ec0/;2017;3700000;300000;Refrigerator;KRONE;АТРАКС;;Набережные Челны
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16669240-93b2f690/;2016;4250000;500000;Refrigerator;SCHMITZ CARGOBULL;АЙС КУБ;Цена с НДС;Солнечногорск
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16557926-cdc1bf5c/;2008;1150000;;Refrigerator;KRONE;;;Москва и Московская область
+SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16676900-cf95bd45/;2009;1800000;1000000;Refrigerator;KOGEL;;;Москва
+SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16690270-d7de3565/;2004;1700000;;Refrigerator;KRONE;;;Михайловск
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16717018-98d1754a/;2018;2230000;350000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
+SD;https://auto.ru/trailer/used/sale/krone/sd/16689368-1b44ee5d/;2017;4490000;50000;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;;Кимовск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16689248-bae4821e/;2018;4200000;200000;Refrigerator;KRONE;АТРАКС;;Набережные Челны
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16663296-fb531cc2/;2018;2370000;300000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16653816-66059cfb/;2018;4620000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16717662-8d271a7d/;2012;2570000;;Refrigerator;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16682066-bcdd3253/;2015;1770000;;Curtainsider;SCHMITZ CARGOBULL;;;Нижний Новгород
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16499400-fd447fd2/;2016;1750000;575000;Platform;KOGEL;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16662498-57f8b3a5/;2017;4150000;490000;Refrigerator;SCHMITZ CARGOBULL;Камион;Цена с НДС;
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16366722-e7a2bbf3/;2005;550000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16666456-5ad08c38/;2017;2257000;400000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16571252-4164a881/;2007;1499000;;Refrigerator;SCHMITZ CARGOBULL;GROSS AUTO;Цена с НДС;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16694688-35140a2a/;2002;1100000;;Refrigerator;SCHMITZ CARGOBULL;;;Чита
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16725038-ff78061a/;2015;3350000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Казань
+SD;https://auto.ru/trailer/used/sale/krone/sd/16719286-adbd8259/;2010;1000000;;Curtainsider;KRONE;;;Нальчик
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16456460-f707dcfa/;2004;850000;;Curtainsider;SCHMITZ CARGOBULL;;;Белгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16704746-e8fa90c5/;2017;6229724;160000;Refrigerator;SCHMITZ CARGOBULL;АЙС КУБ;Цена с НДС;Солнечногорск
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16666456-5ad08c38/;2017;2178000;400000;Curtainsider;KRONE;M7 TRUCK Уфа;;
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16306286-b148dff6/;2002;700000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Чита
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16573646-c84747e2/;2011;990000;200000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16663482-88d64f42/;2005;670000;1000000;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645480-1c21353e/;2017;4700000;110000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16582388-a8696e85/;2006;540000;200000;Curtainsider;KRONE;ТРАК ПЛАТФОРМА;;Люберцы
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16461988-d7ffe9f9/;2014;1600000;;Curtainsider;MEUSBURGER;Global Truck Sales Екатеринбург;;Екатеринбург
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16624104-64240d59/;2005;580000;;Curtainsider;KRONE;;;Барнаул
+SD;https://auto.ru/trailer/used/sale/krone/sd/16691790-a96a7692/;2013;1280000;;Curtainsider;KRONE;BS-Truck;;Набережные Челны
+FL;https://auto.ru/trailer/used/sale/kaessbohrer/fl/16704732-3dc998ae/;2018;3600000;200000;Refrigerator;KAESSBOHRER;АТРАКС;Цена с НДС;Набережные Челны
+ZKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/zko/16133020-b8902011/;2004;350000;750000;Refrigerator;SCHMITZ CARGOBULL;;;Почеп
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16724168-1e064e20/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16619740-5acfac77/;2011;1000000;780000;Curtainsider;KOGEL;;;Гусь-Хрустальный
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16718422-f7ca7d74/;2012;1200000;900000;Curtainsider;SCHMITZ CARGOBULL;;;Красноярск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16704472-8ef74208/;2013;1330000;;Curtainsider;KRONE;;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16683500-bb5cd29a/;2004;1400000;250000;Refrigerator;SCHMITZ CARGOBULL;ГРУЗОВИК-24;;Москва
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16644296-c70ac7a3/;2008;385000;;Platform;TONAR;;;Улан-Удэ
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16562084-41bc4ad5/;2005;845000;300000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16648206-e813121a/;2008;750000;;Platform;KOGEL;;;Краснодар
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16667712-a914e089/;2012;1150000;;Curtainsider;KOGEL;;;Кронштадт
+SD;https://auto.ru/trailer/used/sale/krone/sd/16694504-7a6fae83/;2008;770000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16699292-233ceb2a/;2007;595000;1000000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645510-d020498f/;2010;2780000;560000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16675136-0ae30037/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16722298-d813c825/;2006;850000;;Curtainsider;SCHMITZ CARGOBULL;;;Кизилюрт
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16690802-63ce3800/;2018;4150000;350000;Refrigerator;SCHMITZ CARGOBULL;Юнион Карго;Цена с НДС;Жуковский
+SD;https://auto.ru/trailer/used/sale/krone/sd/16708338-1517d5c8/;2014;1750000;;Curtainsider;KRONE;Транзит-Дон Краснодар;Цена с НДС;Краснодар
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16628662-2ede605e/;2000;450000;600000;Curtainsider;SCHMITZ CARGOBULL;;;Тейково
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16679762-2b7dd782/;2005;620000;1500000;Curtainsider;KRONE;;;Тверь
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16587312-36574937/;2015;3700000;450000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Краснодар;;Краснодар
 ;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16568416-2722f517/;2014;1530000;;Curtainsider;MEUSBURGER;;;Тюмень
-SD;https://auto.ru/trailer/used/sale/krone/sd/16645250-08a47df6/;2018;2120000;;Curtainsider;KRONE;BS-Truck;Цена с НДС;
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16708344-2e14faa9/;2013;2200000;;Refrigerator;SCHMITZ CARGOBULL;;;Благовещенск
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16669200-60a470b9/;2012;1249000;;Curtainsider;KOGEL;PRO АВТО;;Люберцы
-SD;https://auto.ru/trailer/used/sale/krone/sd/16664333-691d47f1/;2018;4100000;250000;Refrigerator;KRONE;АТРАКС;Цена с НДС;Набережные Челны
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16622374-8ce0fe88/;2017;3850000;260000;Refrigerator;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16677898-b9a6d8ed/;2008;730000;499000;Curtainsider;KRONE;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
+SD;https://auto.ru/trailer/used/sale/krone/sd/16677898-b9a6d8ed/;2008;630000;499000;Curtainsider;KRONE;ТРАК ПЛАТФОРМА;;Люберцы
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16725372-3a486b33/;2008;790000;299000;Curtainsider;SCHMITZ CARGOBULL;ТРАК ПЛАТФОРМА;;Люберцы
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645544-c5b193d1/;2016;4350000;210000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16638774-840b93d1/;2016;2500000;;Curtainsider;KRONE;Глобал Трак Сейлс Москва;Цена с НДС;Москва
 Krone;https://auto.ru/trailer/used/sale/krone/krone/16660154-342154e3/;2015;4000000;;Refrigerator;KRONE;;;Канск
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16629452-73c320b7/;2012;1450000;;Curtainsider;KRONE;BS-Truck;;Набережные Челны
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645524-96f05101/;2008;2700000;690000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
+SDC 27;https://auto.ru/trailer/used/sale/krone/sdc_27/16709702-91a3a207/;2007;780000;100;Curtainsider;KRONE;;;Курск
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16567492-30b52e92/;2003;400000;;Curtainsider;SCHMITZ CARGOBULL;;;Екатеринбург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16466570-2f34e1ba/;2011;2000000;450000;Refrigerator;SCHMITZ CARGOBULL;СТТ-АВТО;;Домодедово
-SD;https://auto.ru/trailer/used/sale/krone/sd/16647818-f47a72e6/;2008;960000;720000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16630072-0aaaf54f/;2015;1650000;380000;Curtainsider;MEUSBURGER;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16671216-f2f21e7c/;2017;2257000;50000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16695328-f9bf99e9/;2018;2250000;130000;Curtainsider;KOGEL;АГТ-Трейдинг;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16724172-0c784446/;2017;3901000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16715269-19e42239/;2012;1450000;530000;Curtainsider;SCHMITZ CARGOBULL;;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16690474-ca506e44/;2011;2950000;444444;Refrigerator;SCHMITZ CARGOBULL;Вираж;;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16709562-93ee700e/;2010;4450000;1150000;Refrigerator;SCHMITZ CARGOBULL;;;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16711733-ba64b51c/;2010;2180000;800000;Refrigerator;SCHMITZ CARGOBULL;;;Челябинск
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16712011-d71b6241/;2012;1290000;700;Curtainsider;KRONE;;;Красноярск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714489-b078ebf7/;2015;4199777;600000;Refrigerator;SCHMITZ CARGOBULL;ТТ777;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16671216-f2f21e7c/;2017;2178000;50000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16629642-a659cc01/;2017;1900000;140000;Platform;KOGEL;;;Курск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16628084-a3726d84/;2012;1190000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16677738-e2607ac6/;2011;1190000;1000000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16526042-94e93a06/;2006;650000;;Curtainsider;SCHMITZ CARGOBULL;;;Дюртюли
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16492626-cd504ea1/;2008;480000;;Refrigerator;TONAR;ГРУЗ СОЮЗ;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16648854-2d973b6e/;2012;1220000;700;Curtainsider;SCHMITZ CARGOBULL;;;Красноярск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16616612-9040ea59/;2007;650000;;Curtainsider;KRONE;;;Нижний Новгород
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16672580-3434a83c/;2018;1800000;220000;Platform;KOGEL;;;Орёл
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570610-beacf274/;2018;4500000;390000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16634146-c4f80a22/;2014;1700000;549000;Curtainsider;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16646610-4493925f/;2018;2350000;160000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16656834-3a524b55/;2017;2257000;400000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16669545-a9b12f0f/;2003;800000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;;Екатеринбург
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16276792-b36f2809/;2003;1050000;;Curtainsider;SCHMITZ CARGOBULL;СпецТранс Карго;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16664305-ebd79a64/;2018;4100000;300000;Refrigerator;SCHMITZ CARGOBULL;АТРАКС;;Набережные Челны
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16669545-a9b12f0f/;2003;770000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;;Екатеринбург
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16715449-f8ed94bc/;2005;729000;;Curtainsider;KRONE;КОМПАНИЯ АВТОМОБИЛИЯ;;Ярославль
+SD;https://auto.ru/trailer/used/sale/krone/sd/16710892-e9af7d86/;2011;1300000;;Curtainsider;KRONE;;;Челябинск
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16704872-784dc7ff/;2018;2150000;;Curtainsider;KOGEL;PRO АВТО;;Люберцы
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16715531-9ab55ace/;2013;1500000;589000;Curtainsider;SCHMITZ CARGOBULL;700 МАШИН;Цена с НДС;Елино
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16723008-e43a7a04/;2011;2830000;700000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
 SD;https://auto.ru/trailer/used/sale/krone/sd/16646830-1086a8f3/;2011;2360000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16609146-9162965d/;2010;1990000;;Refrigerator;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
 NS;https://auto.ru/trailer/used/sale/wielton/ns/16645288-315a7332/;2009;890000;399000;Curtainsider;WIELTON;ТРАК ПЛАТФОРМА;;Люберцы
-SD;https://auto.ru/trailer/used/sale/krone/sd/16639084-676533cc/;2013;1600000;;Curtainsider;KRONE;СпецТранс Карго;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16634294-6186c13c/;2005;780000;780000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16725870-dd168263/;2008;800000;299000;Curtainsider;SCHMITZ CARGOBULL;ТРАК ПЛАТФОРМА;;Люберцы
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16706084-1651f3b9/;2018;2150000;;Curtainsider;KOGEL;PRO АВТО;;Люберцы
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16680634-4fabe02e/;2011;950000;199000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16649548-484a62ad/;2012;2570000;;Refrigerator;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16655944-2100519f/;2012;1330000;700;Curtainsider;KRONE;;;Красноярск
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16153648-9d15e589/;2005;700000;;Platform;KRONE;;;Брянск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16609865-1804456f/;2010;3100000;640000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16582298-c84aafc1/;2017;4320000;50;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;;Кимовск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16612100-d0dd848d/;2018;4990000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16674686-cec760a4/;2011;2600000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16665994-f055d016/;2012;2450000;200000;Refrigerator;KRONE;;;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16522360-e85108ef/;2001;450000;;Platform;KOGEL;;;Ростов-на-Дону
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16590468-70fc7637/;2018;4050000;;Refrigerator;KOGEL;Глобал Трак Сейлс Москва;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16552836-b49f8fbe/;2005;780000;780000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16575410-f1bd8515/;2017;4510000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Тосно
-SD;https://auto.ru/trailer/used/sale/krone/sd/16678548-06e29769/;2011;1330000;625000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16717190-fab18973/;2007;720000;;Curtainsider;KRONE;;;Нижний Новгород
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16719866-d61a6340/;2013;1350000;500000;Platform;KRONE;;;Красноярск
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16722042-b7b39644/;2017;2040000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+SD;https://auto.ru/trailer/used/sale/krone/sd/16688080-b9e4c5ed/;2016;1950000;;Curtainsider;KRONE;;;Симферополь
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16705006-d7921f57/;2018;960000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16687348-9d5cc749/;2011;2600000;;Refrigerator;SCHMITZ CARGOBULL;Global Truck Sales Санкт-Петербург;;Санкт-Петербург
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16291858-8dcb9f2a/;2003;750000;;Refrigerator;KRONE;;;Нижний Новгород
 SD;https://auto.ru/trailer/used/sale/krone/sd/16369152-f2edb0dd/;2011;1820000;900000;Refrigerator;KRONE;;;Белгород
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16662420-13528d3d/;2019;2850000;123000;Platform;KRONE;;;Нижний Новгород
+SD;https://auto.ru/trailer/used/sale/krone/sd/16718182-c225a825/;2018;2200000;;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16635282-fcf7dca5/;2019;5200000;55000;Refrigerator;SCHMITZ CARGOBULL;;;Махачкала
 NS;https://auto.ru/trailer/used/sale/wielton/ns/16383058-c7587cd5/;2012;1090000;400000;Platform;WIELTON;АГТ-Трейдинг;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16678512-508073b9/;2008;990000;680000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-Coil Liner;https://auto.ru/trailer/used/sale/krone/coil_liner/16377964-f9035e2d/;2012;2700000;;Refrigerator;KRONE;;;Пятигорск
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16676762-c8c622c1/;2015;1500000;600000;Curtainsider;SCHMITZ CARGOBULL;;;Серебряные Пруды
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16675012-1c9fc204/;2005;260000;;Platform;SCHMITZ CARGOBULL;;;Альметьевск
-Coil Liner;https://auto.ru/trailer/used/sale/krone/coil_liner/16676706-4680f7de/;2007;1720000;600000;Refrigerator;KRONE;;;Красноярск
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16680714-9f43ac10/;2010;1250000;650000;Curtainsider;SCHMITZ CARGOBULL;;;Донецк
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16533568-20531dd6/;2008;830000;100;Platform;KOGEL;;;Курск
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16566258-d39b767d/;2007;505000;;Platform;KRONE;;;Старый Оскол
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16689702-d3419a11/;2007;750000;1000000;Curtainsider;SCHMITZ CARGOBULL;;;Себеж
+SD;https://auto.ru/trailer/used/sale/krone/sd/16699096-441325d6/;2017;2090000;150000;Curtainsider;KRONE;;;Новосибирск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16725980-bbf63255/;2011;900000;299000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16711412-8922e996/;2015;949777;700000;Platform;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16712671-420b2744/;2008;865000;299000;Curtainsider;KRONE;ТРАК ПЛАТФОРМА;;Люберцы
 SD;https://auto.ru/trailer/used/sale/krone/sd/16669757-a9f9553e/;2013;1550000;590000;Curtainsider;KRONE;;;Вязьма
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16525968-cc744c4b/;2005;650000;;Platform;KRONE;;;Киров
-SD;https://auto.ru/trailer/used/sale/krone/sd/16670732-712b93dd/;2014;1700000;520000;Curtainsider;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16307578-0eee1f3c/;2012;1400000;45000;Curtainsider;KRONE;;;Воронеж
-SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16616980-8b8843cd/;2008;1330000;200000;Refrigerator;KOGEL;Лаки Логистик;Цена с НДС;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16647880-9bfe5264/;2006;500000;;Platform;KOGEL;Трак-Сток;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16552674-aa7bba3d/;2018;2600000;71000;Curtainsider;KRONE;Группа ГРАССМАНН и ЛОМТЕВ;Цена с НДС;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16669398-31eeb253/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679394-0e122349/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16717610-a3ddaf32/;2013;2700000;700000;Refrigerator;SCHMITZ CARGOBULL;CargoLine group;;Ольша
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16647880-9bfe5264/;2006;480000;;Platform;KOGEL;Трак-Сток;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16221538-dc0b9051/;2011;1150000;;Curtainsider;KRONE;;;Сухой Лог
+SD;https://auto.ru/trailer/used/sale/krone/sd/16552674-aa7bba3d/;2018;2600000;81000;Curtainsider;KRONE;Группа ГРАССМАНН и ЛОМТЕВ;Цена с НДС;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16669398-31eeb253/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679394-0e122349/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16634662-e8397bae/;2004;620000;900000;Platform;SCHMITZ CARGOBULL;;;Нижний Новгород
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16653818-4cb2768c/;2018;4820000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16511044-e509ed5f/;2009;2500000;;Refrigerator;SCHMITZ CARGOBULL;;;Муром
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16659438-c4d374f9/;2007;600000;;Curtainsider;SCHMITZ CARGOBULL;;;Чистополь
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16554126-272870a1/;2006;660000;1000000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16639294-87a0eeac/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16659438-c4d374f9/;2007;450000;;Curtainsider;SCHMITZ CARGOBULL;;;Чистополь
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16554126-272870a1/;2006;660000;1000000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Казань;;
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16639294-87a0eeac/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16722692-123f85d0/;2014;3300000;630000;Refrigerator;SCHMITZ CARGOBULL;;;Саратов
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16668874-0554fac9/;2012;1140000;300000;Platform;KRONE;M7 TRUCK Москва;;Чёрная Грязь
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16666662-77e9eab9/;2018;4150000;;Refrigerator;KOGEL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
 Krone;https://auto.ru/trailer/used/sale/krone/krone/16465832-2b253c54/;2006;1250000;;Refrigerator;KRONE;;;Красноярск
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16654420-13d010b6/;2008;940000;650000;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
-SD;https://auto.ru/trailer/used/sale/krone/sd/16621006-08405677/;2010;2180000;999999;Refrigerator;KRONE;;;Саранск
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16654420-13d010b6/;2008;940000;650000;Curtainsider;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
+Kassbohrer;https://auto.ru/trailer/used/sale/kaessbohrer/kaessbohrer/16718280-c569f35f/;2019;2350000;9000;Platform;KAESSBOHRER;;;Набережные Челны
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16206504-3ca1c23c/;2007;600000;500000;Curtainsider;KRONE;;;Новосибирск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16215520-d586638c/;2007;1450000;;Refrigerator;SCHMITZ CARGOBULL;Совкомбанк-Лизинг Москва;Цена с НДС;Пермский край
-SD;https://auto.ru/trailer/used/sale/krone/sd/16660934-f5eab96b/;2011;2380000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;;Москва
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16535582-abaa5526/;2008;630000;;Curtainsider;SCHMITZ CARGOBULL;ГРУЗ СОЮЗ;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16622610-24284739/;2007;700000;;Curtainsider;KRONE;ГРУЗ СОЮЗ;;Москва
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/15779398-875a8527/;2011;1320000;;Curtainsider;KRONE;;;Ульяновск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16666454-15c2d53c/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16627724-4e17b5e8/;2018;4980000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16666454-15c2d53c/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16586176-c60826e4/;2008;950000;;Curtainsider;SCHMITZ CARGOBULL;GROSS AUTO;;Москва
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16693920-60e91c70/;2008;860000;;Curtainsider;KOGEL;;;Великие Луки
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16673618-54a096a1/;2009;750000;;Platform;KOGEL;;Цена с НДС;Новый Уренгой
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16455590-f5f30023/;2017;1200000;300000;Curtainsider;TONAR;;Цена с НДС;Ангарск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16656654-74de8da0/;2012;1290000;;Curtainsider;KRONE;;;Ермолино
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16725718-ea3c43b2/;2008;1730000;;Refrigerator;SCHMITZ CARGOBULL;BS-Truck;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16719894-2ea4fb9e/;2014;3480000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Красноярск
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16460794-b6725f1a/;2018;4030000;100000;Refrigerator;KOGEL;КомТоргТранс;;Подольск
-Kassbohrer;https://auto.ru/trailer/used/sale/kaessbohrer/kaessbohrer/16637408-3dc7e641/;2019;2150000;60000;Platform;KAESSBOHRER;ЕвроТрак Mercedes-Benz Пермь;Цена с НДС;Пермь
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16726084-4146e4be/;2007;820000;900000;Curtainsider;KRONE;Best-truck;;Мокшино
+Coil Liner;https://auto.ru/trailer/used/sale/krone/coil_liner/16719872-56f19ed6/;2007;1720000;500;Refrigerator;KRONE;;;Красноярск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456218-1249e552/;2010;2300000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16681552-71cd2d4f/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/15463611-8537fab0/;2003;450000;900000;Platform;KRONE;;;Псков
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16662900-fb7646f5/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16668878-445cf9f7/;2006;1850000;;Refrigerator;SCHMITZ CARGOBULL;;;Вёшенская
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16714349-71032f00/;2015;1450000;850000;Curtainsider;SCHMITZ CARGOBULL;;;Набережные Челны
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16714745-a3fb726f/;2018;2250000;123000;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/15996136-e5d6175f/;2012;1000000;600000;Curtainsider;KOGEL;;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16668878-445cf9f7/;2006;1790000;;Refrigerator;SCHMITZ CARGOBULL;;;Вёшенская
+SD;https://auto.ru/trailer/used/sale/krone/sd/16703840-e0b94f7c/;2018;4700000;;Refrigerator;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16714585-08f51404/;2015;1350000;600000;Curtainsider;SCHMITZ CARGOBULL;;;Серебряные Пруды
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16619274-c9580d67/;2017;4600000;200000;Refrigerator;KRONE;ООО Группа Авто;Цена с НДС;Рязань
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16468462-bdd3f311/;2018;2300000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16594922-45848f3c/;2007;400000;;Platform;KOGEL;ГРУЗ СОЮЗ;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16681892-dee8083b/;2006;699999;300000;Curtainsider;SCHMITZ CARGOBULL;;;Санкт-Петербург
-Multimodel;https://auto.ru/trailer/used/sale/kaessbohrer/multimodel/16630472-546d051e/;2017;1850000;369000;Curtainsider;KAESSBOHRER;Авторынок МАКСКАР;;Новосибирск
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16718148-104fca98/;2007;870000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16696902-cb1896c8/;2018;1950000;50000;Curtainsider;TONAR;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
+Multimodel;https://auto.ru/trailer/used/sale/kaessbohrer/multimodel/16630472-546d051e/;2017;1850000;288000;Curtainsider;KAESSBOHRER;Авторынок МАКСКАР;;Новосибирск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16714405-c5972bb0/;2008;920000;700000;Curtainsider;KRONE;;;Нижегородская область
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16694866-f18884b8/;2018;2200000;200000;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16723132-9971532e/;2003;400000;;Platform;SCHMITZ CARGOBULL;;;Санкт-Петербург
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16712657-489a72ab/;2017;900000;;Platform;TONAR;;;Красноярск
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16705938-adac397d/;2018;2200000;200000;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/15854272-44cd3be5/;2001;550000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Брянск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16463420-aba8fc13/;2008;1950000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16672268-b259b821/;2012;1250000;;Curtainsider;KRONE;ГРУЗ СОЮЗ;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16625702-c5bc714d/;2018;4700000;154000;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16409788-12595380/;2015;1390000;500;Curtainsider;SCHMITZ CARGOBULL;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16671450-0c8c62ff/;2017;1880000;;Curtainsider;KRONE;;;Железногорск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16717604-30c38b4e/;2011;2950000;660000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
 NS;https://auto.ru/trailer/used/sale/wielton/ns/16620996-19dc8811/;2011;1100000;400000;Curtainsider;WIELTON;;;Белгород
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16667008-651ca2df/;2017;4710000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/15655718-670a91ca/;2016;2000000;223506;Curtainsider;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16685264-542e1d9d/;2007;700000;100000;Platform;KRONE;;;Красноярск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16670782-0697e310/;2012;1470000;200000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16404112-1ce36608/;2018;4500000;200000;Refrigerator;SCHMITZ CARGOBULL;ЗилантМоторс;;Казань
+SD;https://auto.ru/trailer/used/sale/krone/sd/16690514-458176d0/;2017;2270000;100000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16690576-52969d1a/;2016;1850000;;Curtainsider;SCHMITZ CARGOBULL;;;Набережные Челны
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16527224-d4da335f/;2012;1170000;200000;Platform;KRONE;M7 TRUCK Москва;;Чёрная Грязь
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16482712-668f67a4/;2001;430000;;Platform;KRONE;;;Ковернино
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16647562-0b8271ec/;2014;1700000;540000;Curtainsider;SCHMITZ CARGOBULL;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16636338-f102992f/;2019;4660000;130000;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16664183-9ad2e0cd/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714955-add81516/;2017;3901000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16683980-076c7400/;2008;890000;;Curtainsider;KRONE;Транзит-Дон Краснодар;;Краснодар
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456208-e7a2ef46/;2010;2300000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16619534-4abb9ec0/;2011;2349000;200000;Refrigerator;KRONE;M7 TRUCK Москва Юг;;Москва
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16446858-f78f3804/;2019;2450000;50000;Curtainsider;SCHMITZ CARGOBULL;Вест Групп;;Красногорск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16625866-53f59370/;2018;4700000;147000;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16678888-45fd4876/;2018;2450000;197500;Curtainsider;KRONE;;;Санкт-Петербург
+Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16619534-4abb9ec0/;2011;2100000;200000;Refrigerator;KRONE;M7 TRUCK Москва Юг;;Москва
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16708324-cf2e1591/;2014;1750000;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
 SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16646248-2b2294ef/;2011;2580000;;Refrigerator;SCHMITZ CARGOBULL;ГРУЗ СОЮЗ;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679386-83963754/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16677732-eacf9a10/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16677732-eacf9a10/;2015;1660000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16648180-da5ca14b/;2005;400000;300000;Platform;TONAR;;;Самара
-SD;https://auto.ru/trailer/used/sale/krone/sd/16569604-6aeccc50/;2017;1930000;160000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16487032-f3bc9614/;2007;660000;;Curtainsider;KOGEL;Глобал Трак Сейлс Москва;;Зеленоград
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16655060-c1ed5e9f/;2017;4450000;120000;Refrigerator;SCHMITZ CARGOBULL;Мега-Транзит;Цена с НДС;Каменск-Шахтинский
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16639530-395ee5ee/;2005;700000;;Curtainsider;SCHMITZ CARGOBULL;;;Петрозаводск
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16413802-13b895d6/;2003;450000;;Curtainsider;KOGEL;;;Рязань
-SD;https://auto.ru/trailer/used/sale/krone/sd/16618104-5701ebbe/;2011;840000;300000;Curtainsider;KRONE;;;Казань
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16559484-43f8526d/;2013;1400000;500000;Curtainsider;SCHMITZ CARGOBULL;Компания АВТОТРАК Москва;;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16660690-9c3b1598/;2011;930000;299000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16478046-37ca5b32/;2019;2650000;170000;Curtainsider;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16647060-0376a560/;2010;2750000;444444;Refrigerator;SCHMITZ CARGOBULL;Вираж;;Санкт-Петербург
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16543748-e0a35205/;2015;1700000;577000;Platform;KOGEL;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16583184-2fd3742f/;2018;1790000;200000;Curtainsider;KOGEL;Альфа-Лизинг Россия;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16655060-c1ed5e9f/;2017;4500000;120000;Refrigerator;SCHMITZ CARGOBULL;Мега-Транзит;Цена с НДС;Каменск-Шахтинский
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16599264-2f5be383/;2015;3650000;500000;Refrigerator;SCHMITZ CARGOBULL;КОМДОРАВТО;;Мытищи
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16710144-a6952377/;2011;1250000;;Refrigerator;TONAR;;;Меленки
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16714665-b95a7fea/;2015;1450000;800000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16660690-9c3b1598/;2011;890000;299000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16689258-89f62f5d/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16478046-37ca5b32/;2019;2600000;170000;Curtainsider;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16724166-65e3f909/;2017;3901000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16608438-35dcbf59/;2008;770000;1000000;Curtainsider;SCHMITZ CARGOBULL;;;Астрахань
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16607398-9da2d2f9/;2016;2050000;475000;Curtainsider;SCHMITZ CARGOBULL;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
 ;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16555320-d62377e0/;2015;1593000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва;;Чёрная Грязь
-;https://auto.ru/trailer/used/sale/koluman/polupricep_shtorniy/16673872-3e6697e5/;2017;1650000;199000;Curtainsider;KOLUMAN;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16713689-243edb15/;2007;1500000;;Refrigerator;SCHMITZ CARGOBULL;;;Барнаул
+;https://auto.ru/trailer/used/sale/koluman/polupricep_shtorniy/16673872-3e6697e5/;2017;1590000;199000;Curtainsider;KOLUMAN;ТРАК ПЛАТФОРМА;;Люберцы
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16712757-7865a16a/;2018;2320000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+STI;https://auto.ru/trailer/used/sale/schmitz_cargobull/sti/16707060-f0209845/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;;Люберцы
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16248256-8b88d618/;2008;800000;100;Curtainsider;SCHMITZ CARGOBULL;;;Ангарск
+SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16707112-0d5bba20/;2011;2290000;22000;Refrigerator;KOGEL;;;Москва
 SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16617696-2f74cf40/;2015;1397777;600000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16649470-3ae7c0d0/;2016;1910000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16724998-25b7c198/;2003;449000;;Platform;KRONE;;;Санкт-Петербург
 SD;https://auto.ru/trailer/used/sale/krone/sd/16666232-7e585b5a/;2016;2370000;;Curtainsider;KRONE;BS-Truck;Цена с НДС;Набережные Челны
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16589852-ab254cf0/;2000;550000;;Curtainsider;KRONE;;;Ставрополь
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16542212-c51316b6/;2006;580000;;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16663416-a0e11200/;2007;770000;839834;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16714819-30e32930/;2011;1200000;500000;Curtainsider;KRONE;;;Челябинск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16703836-2b4ba7ad/;2018;2200000;;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16077742-5980fc29/;2005;890000;580000;Curtainsider;KOGEL;;;Тверь
 SW 24;https://auto.ru/trailer/used/sale/schmitz_cargobull/sw_24/16397610-9361d079/;2013;1200000;500000;Platform;SCHMITZ CARGOBULL;;;Миасс
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16666628-53586356/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;
-SD;https://auto.ru/trailer/used/sale/krone/sd/16584794-9680c663/;2008;500000;850000;Platform;KRONE;Форсаж;;Котельники
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570604-4940f865/;2019;5401746;250000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;Цена с НДС;Смоленск
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16643778-1babfcc2/;2016;1750000;600000;Curtainsider;KOGEL;TELS Group;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16666628-53586356/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16712529-ed5a9af9/;2015;949777;700000;Platform;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16714803-09d99a33/;2007;850000;;Curtainsider;KRONE;;;Фурманов
+SD;https://auto.ru/trailer/used/sale/krone/sd/16718404-362ade0e/;2012;1450000;350000;Curtainsider;KRONE;;;Павловск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16718082-4f317a4b/;2012;990000;;Platform;KOGEL;Global Truck Sales Санкт-Петербург;;Санкт-Петербург
+SD;https://auto.ru/trailer/used/sale/krone/sd/16717720-8aafdaf2/;2007;690000;;Curtainsider;KRONE;PRO АВТО;Цена с НДС;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570604-4940f865/;2019;5448738;250000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;Цена с НДС;Смоленск
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16643778-1babfcc2/;2016;1650000;600000;Curtainsider;KOGEL;TELS Group;;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16583296-bd81adad/;2015;3700000;420000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Москва;;Москва
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16487482-1c7c8590/;2002;950000;444444;Refrigerator;KRONE;;;Санкт-Петербург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16622350-7562909d/;2005;750000;870000;Curtainsider;KRONE;Триера Трак;;Дубровки
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16673094-6771be80/;2003;520000;650000;Platform;KRONE;;;Сергиев Посад
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16679568-91970b80/;2006;680000;200000;Platform;KRONE;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16699000-c6eddc35/;2018;4200000;200000;Refrigerator;SCHMITZ CARGOBULL;АТРАКС;Цена с НДС;Набережные Челны
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16625742-99f20849/;2015;870000;99000;Curtainsider;TONAR;ТРАК ПЛАТФОРМА;;Люберцы
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16652594-f54c94fb/;2018;2470000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16664077-6e455b8d/;2003;1130000;25000;Curtainsider;KRONE;;;Пермь
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16658000-8db8b19e/;2016;1750000;260000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16652190-d779f044/;2018;2430000;145000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16723206-470ac904/;2019;4950000;88000;Refrigerator;KRONE;;;Калининград
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16698001-3ac7e2c1/;2018;4485000;350000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16678754-98ef20ae/;2005;450000;;Platform;SCHMITZ CARGOBULL;Реалист Банк;;Зеленоград
-SD;https://auto.ru/trailer/used/sale/krone/sd/16297152-bda8dc7d/;2013;1150000;840000;Platform;KRONE;;;Брянск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16451420-cbf7165b/;2015;3190000;600000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16658290-893fcf65/;2017;4490000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Екатеринбург
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16441622-44028747/;2018;4500000;400000;Refrigerator;SCHMITZ CARGOBULL;"ООО ""РЕД СТАР"" МАЗ Смоленск";;Смоленск
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16434370-843d8073/;2005;1550000;800000;Refrigerator;KRONE;;;Кострома
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16404736-91339da7/;2015;3190000;600000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16682418-2e993ca1/;2008;770000;399000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16344520-11a1d056/;2007;850000;650264;Platform;KOGEL;АГТ-Трейдинг;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16680698-66d6a462/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16546344-bca7c1d4/;2012;620000;300000;Platform;TONAR;;;Москва
-SW 24;https://auto.ru/trailer/used/sale/schmitz_cargobull/sw_24/15646832-111596df/;2000;800000;;Refrigerator;SCHMITZ CARGOBULL;;;Екатеринбург
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16600950-0aeecf59/;2008;1200000;;Refrigerator;KOGEL;ГРУЗ СОЮЗ;Цена с НДС;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16671090-1f74d77e/;2018;4100000;250000;Refrigerator;SCHMITZ CARGOBULL;АТРАКС;Цена с НДС;Набережные Челны
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16628758-1f384756/;2018;2300000;130000;Curtainsider;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16680698-66d6a462/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;
 SD;https://auto.ru/trailer/used/sale/krone/sd/16513456-d38b2c1e/;2009;900000;;Curtainsider;KRONE;;;Красноярск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16601942-3caec3ca/;2015;3399999;500000;Refrigerator;SCHMITZ CARGOBULL;;;Казань
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16680982-e6d3d491/;2014;3200000;50000;Refrigerator;SCHMITZ CARGOBULL;;;Зеленоград
-SD;https://auto.ru/trailer/used/sale/krone/sd/16271388-e3cb2db1/;2011;1350000;779784;Curtainsider;KRONE;;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16710510-da37f200/;2011;2350000;;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Краснодар;Цена с НДС;Краснодар
+SD;https://auto.ru/trailer/used/sale/krone/sd/16271388-e3cb2db1/;2011;1350000;843000;Curtainsider;KRONE;;;Екатеринбург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16504542-31388a12/;2018;4500000;300000;Refrigerator;SCHMITZ CARGOBULL;ЗилантМоторс;Цена с НДС;Казань
-SD;https://auto.ru/trailer/used/sale/krone/sd/16682164-7c784b77/;2013;2690000;;Refrigerator;KRONE;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16634864-8d0d7de7/;2017;2200000;180000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16560162-59f8af4e/;2017;4650000;170000;Refrigerator;SCHMITZ CARGOBULL;СТТ-АВТО;Цена с НДС;Домодедово
-SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16620380-5bdb8ec5/;2007;1380000;;Refrigerator;KOGEL;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16614852-76107438/;2008;800000;500000;Curtainsider;KRONE;;;Казань
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16380852-754b3e8e/;2014;1700000;550000;Platform;KRONE;TELS Group;;Хоругвино
-SD;https://auto.ru/trailer/used/sale/krone/sd/16178640-63510916/;2011;1100000;350000;Curtainsider;KRONE;;;Екатеринбург
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16553002-0d88d27d/;2006;450000;299000;Curtainsider;TONAR;ТРАК ПЛАТФОРМА;;Люберцы
-Maxima XS Domestic;https://auto.ru/trailer/used/sale/kaessbohrer/msxima_xs_domestic/16635394-caddba30/;2014;1300000;280000;Platform;KAESSBOHRER;;;Тула
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16717026-87048b3e/;2017;2250000;162000;Curtainsider;KRONE;АГТ-Трейдинг;Цена с НДС;Москва
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16714461-32299fcb/;2015;1100000;;Curtainsider;TONAR;Global Truck Sales Санкт-Петербург;Цена с НДС;Санкт-Петербург
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16360588-863c4500/;2004;650000;600000;Curtainsider;SCHMITZ CARGOBULL;;;Воронеж
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16686632-507e7161/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16704708-9acbbf5e/;2018;2350000;150000;Curtainsider;SCHMITZ CARGOBULL;Вираж;Цена с НДС;Санкт-Петербург
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16717966-a4426b01/;2017;2100000;80000;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+SD;https://auto.ru/trailer/used/sale/krone/sd/16614852-76107438/;2008;730000;500000;Curtainsider;KRONE;;;Казань
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16698238-01fdcd3c/;2004;590000;;Curtainsider;KRONE;PRO АВТО;;Люберцы
+SD;https://auto.ru/trailer/used/sale/krone/sd/16687456-becbe0ff/;2018;4700000;;Refrigerator;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+STI;https://auto.ru/trailer/used/sale/schmitz_cargobull/sti/16707152-893dbf06/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;Цена с НДС;Люберцы
 SD;https://auto.ru/trailer/used/sale/krone/sd/16411346-a7e62d29/;2017;4450000;;Refrigerator;KRONE;Группа Милан;;Санкт-Петербург
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16562890-3f491047/;2006;620000;;Curtainsider;SCHMITZ CARGOBULL;;;Первомайский
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16723306-1196f6ff/;2013;1400000;650000;Curtainsider;KOGEL;;;Орск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16321786-0237fd0d/;2013;1300000;;Curtainsider;KRONE;;;Тольятти
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16655088-0ed1a529/;2008;1590000;;Refrigerator;KRONE;Трак-Сток;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16622498-063987a2/;2007;850000;780000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16676918-e10ea5f7/;2008;670000;500000;Platform;KRONE;;;Можайск
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16657820-e611c0fa/;2015;1850000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16590394-ccb4ed58/;2018;3990000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16629368-bd8bd592/;2002;1100000;1000000;Refrigerator;SCHMITZ CARGOBULL;;;Тюмень
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16674710-0a174823/;2007;830000;900000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16528560-b44df8cc/;2015;1577000;;Curtainsider;MEUSBURGER;Глобал Трак Сейлс Москва;;Зеленоград
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16710296-e81b8a81/;2006;700000;;Platform;KOGEL;;;Псков
+SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16655088-0ed1a529/;2008;1450000;;Refrigerator;KRONE;Трак-Сток;Цена с НДС;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16707872-8596e6eb/;2016;4200000;400000;Refrigerator;SCHMITZ CARGOBULL;"ООО""Трейд Моторс";;Домодедово
+SD;https://auto.ru/trailer/used/sale/krone/sd/16718186-ce639b5c/;2017;2050000;;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16234556-37786dd1/;2013;1300000;;Platform;KRONE;;;Петрозаводск
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16463836-c7924692/;2018;4060000;90000;Refrigerator;KOGEL;КомТоргТранс;;Подольск
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16675168-5d3c90b0/;2008;750000;500000;Curtainsider;SCHMITZ CARGOBULL;;;Красноярск
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16671084-1ca25ea7/;2008;1000050;;Curtainsider;SCHMITZ CARGOBULL;;;Старый Оскол
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16715333-18bb94b4/;2012;1040000;;Curtainsider;KOGEL;Транспортная компания РОЗ-ГРУЗ;;Люберцы
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16713439-10315f2d/;2005;670000;1000000;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16579266-4936aef9/;2019;2700000;120000;Curtainsider;SCHMITZ CARGOBULL;;;Брянск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16644696-e8ef4ad2/;2017;2300000;365000;Curtainsider;KRONE;;;Москва и Московская область
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16509394-16f3ef59/;2006;650000;;Curtainsider;SCHMITZ CARGOBULL;Трак-Сток;;Москва
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16663336-8342dc80/;2008;950000;300000;Platform;KRONE;;;Чита
-SD;https://auto.ru/trailer/used/sale/krone/sd/16570420-0414f2f8/;2011;1330000;450000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16685374-38f49eab/;2008;700000;;Platform;KRONE;Реалист Банк;Цена с НДС;Зеленоград
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16557712-e7b7c7bd/;2008;770000;299000;Curtainsider;KRONE;ТРАК ПЛАТФОРМА;;Люберцы
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16647906-8093f93e/;2015;1349777;670000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16639270-d902c621/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Москва;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16539828-4b8662dd/;2011;990000;;Curtainsider;KRONE;ГРУЗ СОЮЗ;;Москва
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16654490-1e2dfd44/;2007;700000;;Curtainsider;KRONE;;;Санкт-Петербург
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16005796-3667d5f5/;2015;1450000;600000;Curtainsider;SCHMITZ CARGOBULL;;;Москва
-Mega Liner;https://auto.ru/trailer/used/sale/krone/mega_liner/16607376-4949cfdb/;2017;1800000;333000;Platform;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16622558-323effcb/;2007;690000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16669709-b32456ff/;2017;2257000;400000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
-CS;https://auto.ru/trailer/used/sale/kaessbohrer/cs/16647492-79447547/;2015;1470000;670000;Curtainsider;KAESSBOHRER;;;Набережные Челны
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16669711-43dc7130/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16678948-313d0973/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16629826-a6ae5a48/;2011;1290000;650000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16563390-07b7af13/;2008;1650000;;Refrigerator;KRONE;GROSS AUTO;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16669645-fc17b0d3/;2013;1495000;;Curtainsider;KRONE;;;Махачкала
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16665426-93d63be9/;2006;780000;;Curtainsider;SCHMITZ CARGOBULL;;;Чебоксары
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16678662-67f703ae/;2004;1150000;;Refrigerator;SCHMITZ CARGOBULL;;;Санкт-Петербург
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645536-65b357b7/;2016;4350000;230000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16646778-a1c5f72f/;2013;2900000;900000;Refrigerator;KRONE;;;Старый Оскол
-Profi Liner;https://auto.ru/trailer/new/sale/krone/profi_liner/16664165-8968ab76/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Москва;Цена с НДС;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16674644-2ec6dd0b/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-SD;https://auto.ru/trailer/used/sale/krone/sd/16653008-28f94c44/;2008;760000;;Curtainsider;KRONE;;;Донецк
-SD;https://auto.ru/trailer/used/sale/krone/sd/16626488-06d7c972/;2018;2200000;;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16647906-8093f93e/;2015;1399777;670000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;;Москва
+CS;https://auto.ru/trailer/used/sale/kaessbohrer/cs/16683060-67a727c0/;2018;2700000;;Curtainsider;KAESSBOHRER;BS-Truck;Цена с НДС;Набережные Челны
+FL;https://auto.ru/trailer/used/sale/kaessbohrer/fl/16712049-f432f545/;2018;4052000;450000;Refrigerator;KAESSBOHRER;M7 TRUCK Набережные Челны;;Набережные Челны
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16713227-455f16da/;2007;1100000;500000;Curtainsider;KOGEL;;;Белгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16710512-7e3aacf7/;2011;2350000;;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Краснодар;Цена с НДС;Краснодар
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16714827-a494cd8b/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16694700-e51a238f/;2011;2300000;;Refrigerator;SCHMITZ CARGOBULL;;;Кизилюрт
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714947-c0784688/;2018;4151000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16656264-0b64ace2/;2002;1150000;;Refrigerator;SCHMITZ CARGOBULL;;;Москва
+SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16716595-b2526eef/;2009;650000;500000;Curtainsider;SCHMITZ CARGOBULL;;;Йошкар-Ола
+SD;https://auto.ru/trailer/used/sale/krone/sd/16710338-1ccc162a/;2017;4490000;50000;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;Цена с НДС;Кимовск
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16699310-4d050777/;2012;1180000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;;Екатеринбург
+SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16711178-a374e0bf/;2011;1950000;600000;Refrigerator;KRONE;;;Москва
+NS;https://auto.ru/trailer/used/sale/wielton/ns/16719706-dba0c9b2/;2002;470000;;Platform;WIELTON;;;Железногорск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16721002-8c68f92c/;2013;1550000;;Curtainsider;KOGEL;;;Брянск
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16717696-682834b9/;2015;1100000;;Curtainsider;TONAR;Глобал Трак Сейлс Москва;Цена с НДС;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16669645-fc17b0d3/;2013;1600000;;Curtainsider;KRONE;;;Махачкала
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16690512-7197360e/;2018;4485000;350000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16709994-303526af/;2018;2450000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+SD;https://auto.ru/trailer/used/sale/krone/sd/16708290-d8696940/;2011;1200000;800000;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16674644-2ec6dd0b/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16708244-3bf418a0/;2012;2600000;800000;Refrigerator;SCHMITZ CARGOBULL;;;Челябинск
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16303736-9365b598/;2014;3150000;570000;Refrigerator;KRONE;;;Чебоксары
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16629530-38c25d73/;2015;1399777;600000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16644382-a36f009f/;2005;670000;928077;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16712505-280ff605/;2010;2450000;;Refrigerator;SCHMITZ CARGOBULL;;;Барнаул
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16682656-5676b025/;2014;3990000;350000;Refrigerator;KRONE;;;Калининград
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16576096-2de6a1ec/;2019;5761863;200000;Refrigerator;SCHMITZ CARGOBULL;"ООО ""РЕД СТАР"" МАЗ Смоленск";Цена с НДС;Смоленск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16716153-e3d120cc/;2003;1525000;800000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Казань;;Новониколаевский
 Mega Liner;https://auto.ru/trailer/used/sale/krone/mega_liner/16085300-0204f1c8/;2009;650000;500000;Curtainsider;KRONE;СГМ - ГРУПП;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16677734-355877b5/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16643064-5e6486ac/;2007;750000;600000;Curtainsider;KRONE;;;Воронеж
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16431050-21c2518d/;2017;4591485;;Refrigerator;SCHMITZ CARGOBULL;СГМ - ГРУПП;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16636828-9d275d81/;2008;690000;500000;Curtainsider;KRONE;;;Екатеринбург
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16635754-2aa5e376/;2017;2230000;180000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16416263-4215c819/;2019;2700000;100000;Curtainsider;SCHMITZ CARGOBULL;"ООО ""РЕД СТАР"" МАЗ Смоленск";Цена с НДС;Смоленск
-SCB24;https://auto.ru/trailer/used/sale/kogel/scb24/16671664-99eb4311/;2018;3750000;;Refrigerator;KOGEL;Камавтокомплект Трак;Цена с НДС;Ижевск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16639994-dbe85166/;2017;4590000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16585934-aed6f919/;2012;1250000;;Curtainsider;KOGEL;СибТракСкан;;Новосибирск
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16380816-a8bf5dc4/;2015;1700000;550000;Platform;KOGEL;TELS Group;;Хоругвино
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16661454-1a5bb5c9/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Нижний Новгород;;Нижний Новгород
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16378232-c85db502/;2005;850000;700000;Curtainsider;KRONE;;;Краснодар
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16611866-007282d7/;2018;2450000;;Curtainsider;MEUSBURGER;BS-Truck;;Набережные Челны
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16677734-355877b5/;2015;1660000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16431050-21c2518d/;2017;4631428;;Refrigerator;SCHMITZ CARGOBULL;СГМ - ГРУПП;;Москва
+NS;https://auto.ru/trailer/used/sale/wielton/ns/16696762-8352c52c/;2016;1720000;;Curtainsider;WIELTON;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16721864-07c60f95/;2011;3300000;;Refrigerator;SCHMITZ CARGOBULL;;;Когалым
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16380816-a8bf5dc4/;2015;1550000;550000;Platform;KOGEL;TELS Group;;Хоругвино
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16705776-aa3b2f26/;2014;3100000;12000;Refrigerator;SCHMITZ CARGOBULL;СибТракСкан;;Новосибирск
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16661454-1a5bb5c9/;2015;1660000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Нижний Новгород;;Нижний Новгород
+SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16707630-16fd6e7c/;2012;2160000;759000;Refrigerator;KOGEL;;;Челябинск
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16646042-161a7e4a/;2016;1910000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16557838-f0db6150/;2013;2790000;160000;Refrigerator;KRONE;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16652328-72e11318/;2008;935000;700000;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16628138-e3974b09/;2011;1100000;;Curtainsider;SCHMITZ CARGOBULL;;;Самара
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16704822-a74fe3e5/;2011;1500000;;Curtainsider;KOGEL;;;Георгиевск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16712485-4dea054e/;2017;4490000;50000;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;;Кимовск
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16654094-b3bf406b/;2012;1450000;;Curtainsider;KRONE;BS-Truck;Цена с НДС;Набережные Челны
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16662584-6a8ce2de/;2005;650000;250000;Curtainsider;KOGEL;;;Курск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16571316-6374b314/;2010;3100000;555555;Refrigerator;SCHMITZ CARGOBULL;Вираж;;Санкт-Петербург
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16691684-87520bbc/;2016;2050000;200000;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Москва;;Чёрная Грязь
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16716701-ad8078f5/;2011;2830000;800000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
 SD;https://auto.ru/trailer/used/sale/krone/sd/16396340-6248846c/;2004;1250000;;Refrigerator;KRONE;;;Воронеж
 ;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16560518-5e24c2da/;2015;1604000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва;;Чёрная Грязь
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/15841946-243c4e6f/;2003;850000;650000;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16715483-84ebcb1f/;2013;3050000;10;Refrigerator;SCHMITZ CARGOBULL;700 МАШИН;Цена с НДС;Елино
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16636728-7d4c5a2b/;2006;2050000;560000;Refrigerator;SCHMITZ CARGOBULL;СТТ-АВТО;;Домодедово
-FL;https://auto.ru/trailer/used/sale/kaessbohrer/fl/16672494-5b8b2436/;2018;3800000;240000;Refrigerator;KAESSBOHRER;АТРАКС;;Набережные Челны
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16576060-0e7b7c36/;2017;2180000;;Curtainsider;SCHMITZ CARGOBULL;СГМ - ГРУПП;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16675878-46e7bdf3/;2014;940000;500000;Platform;SCHMITZ CARGOBULL;;;Красноярск
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16463754-78bd6307/;2008;810000;;Curtainsider;SCHMITZ CARGOBULL;;;Воронеж
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16718338-6265f5b2/;2016;4250000;450000;Refrigerator;SCHMITZ CARGOBULL;СТТ-АВТО;Цена с НДС;Домодедово
+SD;https://auto.ru/trailer/used/sale/krone/sd/16661174-381118fc/;2007;920000;;Curtainsider;KRONE;Глобал Трак Сейлс Москва;;Москва
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16611880-75e9ca13/;2017;4450000;200000;Refrigerator;KRONE;Группа Милан;;Санкт-Петербург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16675982-fa2da35f/;2010;2550000;;Refrigerator;SCHMITZ CARGOBULL;;;Новосибирск
-SCB24;https://auto.ru/trailer/used/sale/kogel/scb24/16586668-882179dd/;2008;1400000;26626;Refrigerator;KOGEL;PRO АВТО;;Люберцы
-SD;https://auto.ru/trailer/used/sale/krone/sd/16478792-aa2a7ae0/;2005;750000;850000;Curtainsider;KRONE;Триера Трак;;Дубровки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16234392-d799c67b/;2007;700000;;Platform;KRONE;;;Петрозаводск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16414804-0844934b/;2017;4150000;420000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16604086-be2b234e/;2003;850000;80000;Platform;KRONE;;;Ставропольский край
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16663290-d46571fe/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16251508-3dab0536/;2005;500000;;Curtainsider;KRONE;;;Санкт-Петербург
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16594388-cabc480e/;2007;720000;500000;Curtainsider;SCHMITZ CARGOBULL;;;Орёл
-SD;https://auto.ru/trailer/used/sale/krone/sd/16639914-79b31710/;2011;2350000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;;Москва
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16676658-ec393903/;2013;1350000;500000;Platform;KRONE;;;Красноярск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16466492-6451103f/;2011;1250000;750000;Curtainsider;KRONE;Триера Трак;;Дубровки
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16663290-d46571fe/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16699294-92f71d46/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+SD;https://auto.ru/trailer/used/sale/krone/sd/16692186-8f4a62f3/;2017;1999999;374500;Curtainsider;KRONE;;;Набережные Челны
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/15724557-4d0b4e9e/;2003;1195000;;Refrigerator;KRONE;;;Санкт-Петербург
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679384-0ab3c50a/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679384-0ab3c50a/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16071044-beed4361/;2015;3290000;600000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16646612-0a62186a/;2018;2350000;160000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
 Krone;https://auto.ru/trailer/used/sale/krone/krone/16469116-fa36c8cd/;2004;1350000;;Refrigerator;KRONE;;;Оренбург
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16681548-66dc7b1f/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16694698-6b36a842/;2006;780000;;Curtainsider;SCHMITZ CARGOBULL;;;Коломна
 SD;https://auto.ru/trailer/used/sale/krone/sd/16643692-eda280d3/;2010;1850000;;Refrigerator;KRONE;;;Вологда
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16677006-5cc96c61/;2011;3100000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Челябинск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16305118-17ddee6b/;2007;1610000;10000;Refrigerator;SCHMITZ CARGOBULL;Global Truck Sales Санкт-Петербург;;Санкт-Петербург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16682276-e0398f4d/;2007;2000000;;Refrigerator;KRONE;;;Пенза
-SD;https://auto.ru/trailer/used/sale/krone/sd/16636326-bdb06c24/;2019;4660000;140000;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+STI;https://auto.ru/trailer/used/sale/schmitz_cargobull/sti/16707732-2f510d7e/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;Цена с НДС;Люберцы
+SD;https://auto.ru/trailer/used/sale/krone/sd/16682276-e0398f4d/;2007;1950000;;Refrigerator;KRONE;;;Пенза
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16540390-9f67a8f2/;2002;600000;;Platform;SCHMITZ CARGOBULL;;;Самара
-SNC024;https://auto.ru/trailer/used/sale/kogel/snc024/16676294-59caafba/;2018;2275000;150000;Curtainsider;KOGEL;;;Санкт-Петербург
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16717272-3e4d218a/;2007;730000;1200000;Platform;SCHMITZ CARGOBULL;;;Санкт-Петербург
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16671046-36b54e88/;2019;4660000;144555;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16677240-3cb79952/;2007;670000;;Curtainsider;KOGEL;;;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16713065-e53467c0/;2017;3901000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
 SD;https://auto.ru/trailer/used/sale/krone/sd/16680940-a70de98e/;2011;2600000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;Цена с НДС;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16644286-4780dfd9/;2006;1350000;;Refrigerator;SCHMITZ CARGOBULL;;;Чита
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16620396-9a8cb832/;2012;1530000;;Platform;SCHMITZ CARGOBULL;;;Омск
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16647568-c9bef79a/;2018;2470000;160000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16028928-449d62de/;2011;2400000;510000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Гипермаркет;;Ростов-на-Дону
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16668876-1bb0a26b/;2006;609000;200000;Platform;SCHMITZ CARGOBULL;M7 TRUCK Москва;;Чёрная Грязь
+SD;https://auto.ru/trailer/used/sale/krone/sd/16710494-b297ab83/;2007;690000;;Curtainsider;KRONE;PRO АВТО;Цена с НДС;Люберцы
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16686612-7cd77603/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16028928-449d62de/;2011;2350000;510000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Гипермаркет;;Ростов-на-Дону
 SD;https://auto.ru/trailer/used/sale/krone/sd/16674582-149977cc/;2018;2450000;130000;Curtainsider;KRONE;АГТ-Трейдинг;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16723092-0ffa9a7a/;2011;1230000;;Curtainsider;KRONE;;;Орехово-Зуево
 SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16536874-d48afa94/;2011;1100000;300000;Curtainsider;SCHMITZ CARGOBULL;;;Махачкала
-SD;https://auto.ru/trailer/used/sale/krone/sd/16622388-79d914ae/;2011;1250000;680000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16690810-87e97c87/;2011;1850000;1100000;Refrigerator;KRONE;Юнион Карго;Цена с НДС;Жуковский
 ZKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/zko/16667992-de2b1c83/;2012;900000;;Refrigerator;SCHMITZ CARGOBULL;;;Тюмень
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16635866-a4c53034/;2011;2400000;650000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Гипермаркет;;Ростов-на-Дону
+NS;https://auto.ru/trailer/used/sale/wielton/ns/16702788-61071935/;2018;2370000;;Curtainsider;WIELTON;;;Череповец
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16703856-99c6862b/;2008;940000;387000;Platform;KOGEL;;;Ачинск
+SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16697464-31fd5b6b/;2017;4450000;490000;Refrigerator;KOGEL;;;Ижевск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16159418-a88ac15a/;2002;1250000;1000;Refrigerator;SCHMITZ CARGOBULL;;;Ачинск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16673454-7d475f6f/;2008;2250000;;Refrigerator;SCHMITZ CARGOBULL;;;Смоленск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16663946-33e91267/;2011;1970000;350000;Refrigerator;KRONE;ГРУЗОВИК-24;;Москва
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16661090-cfbfc80a/;2003;730000;700000;Refrigerator;KRONE;;;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16485238-fb810866/;2015;1700000;140000;Curtainsider;KOGEL;ТРАНСАЛЬЯНС Москва;;Солнечногорск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16673454-7d475f6f/;2008;1800000;;Refrigerator;SCHMITZ CARGOBULL;;;Смоленск
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16724170-d69e1a24/;2018;3950000;450000;Refrigerator;KOGEL;M7 TRUCK Набережные Челны;;Набережные Челны
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16573394-403fad54/;2008;745000;860000;Curtainsider;KRONE;;;Коркино
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16682262-995d4c66/;2008;330000;350000;Platform;KOGEL;;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16683764-4e1fc2b4/;2010;950000;;Curtainsider;KRONE;BS-Truck;;
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16128964-57d52bff/;2017;2200000;163000;Curtainsider;SCHMITZ CARGOBULL;Группа ГРАССМАНН и ЛОМТЕВ;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16552548-1df5369e/;2017;4700000;160000;Refrigerator;SCHMITZ CARGOBULL;СТТ-АВТО;Цена с НДС;Домодедово
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16673274-99e173c6/;2018;4550000;;Refrigerator;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16681550-63359f17/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16612284-6ecca034/;2007;1000000;;Platform;KOGEL;;;Самара
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16611064-103d22e3/;2008;1950000;50;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16688122-2d8810b8/;2013;1349000;;Curtainsider;SCHMITZ CARGOBULL;PRO АВТО;Цена с НДС;Люберцы
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16495656-27bae3b6/;2007;750000;;Curtainsider;KOGEL;;;Липецк
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456144-ea095d52/;2010;2320000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16679136-2b0b152f/;2011;1330000;645000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16700314-6eb8eb32/;2005;620000;1000000;Curtainsider;KRONE;;;Челябинск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16579476-4176a102/;2010;2250000;;Refrigerator;SCHMITZ CARGOBULL;;;Орёл
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16678526-b04c8264/;2018;2450000;125000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16666996-9ab52112/;2017;4440000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Екатеринбург
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16659876-d3c8370f/;2004;560000;;Curtainsider;KRONE;;;Опочка
+SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16714239-3ce8dbaf/;2015;1390000;700000;Curtainsider;SCHMITZ CARGOBULL;;;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16476374-62eb145a/;2011;2550000;800000;Refrigerator;SCHMITZ CARGOBULL;Монополия;;Санкт-Петербург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456220-cb35a3b1/;2010;2140000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16702612-8eab2f1b/;2002;999000;288456;Refrigerator;SCHMITZ CARGOBULL;;;Екатеринбург
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16265426-a678f61e/;2001;450000;658415;Platform;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16586884-11fe4ecb/;2017;2100000;190000;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16706192-d74765a6/;2008;700000;1000000;Curtainsider;SCHMITZ CARGOBULL;;;Иваново
 SD;https://auto.ru/trailer/used/sale/krone/sd/16679272-1e19ff92/;2018;4700000;;Refrigerator;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16654142-18c1f680/;2017;2150000;50000;Curtainsider;KRONE;M7 TRUCK Москва Юг;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16652714-c158708b/;2018;2498000;50000;Curtainsider;MEUSBURGER;M7 TRUCK Москва;;Чёрная Грязь
-SD;https://auto.ru/trailer/used/sale/krone/sd/16622478-ce951150/;2012;1350000;680000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16649412-91c6efa2/;2017;2150000;160000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16667398-9474e631/;2002;550000;1000000;Curtainsider;KRONE;;;Валуйки
-SNC024;https://auto.ru/trailer/used/sale/kogel/snc024/16621140-dccf9cfc/;2000;450000;;Curtainsider;KOGEL;;;Грязи
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16611158-1527e718/;2018;4490000;;Refrigerator;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16640250-167603ae/;2006;850000;;Curtainsider;KRONE;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16558136-4b57ff13/;2008;1330000;760000;Platform;SCHMITZ CARGOBULL;;;Воронеж
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16632396-fccef6ba/;2007;645000;450000;Curtainsider;KOGEL;;;Липецк
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16660698-3650154b/;2016;1920000;;Curtainsider;SCHMITZ CARGOBULL;Global Truck Sales Екатеринбург;;Екатеринбург
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16591740-01c89546/;2016;1750000;260000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
+SNC024;https://auto.ru/trailer/used/sale/kogel/snc024/16621140-dccf9cfc/;2000;370000;;Curtainsider;KOGEL;;;Грязи
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16712333-05723747/;2007;900000;;Curtainsider;SCHMITZ CARGOBULL;;;Ачинск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16701178-189d2bd3/;2005;1550000;100000;Refrigerator;SCHMITZ CARGOBULL;;;Печерск
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16695864-6b679a02/;2016;3970000;700000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16714483-5f27073a/;2019;2450000;115000;Curtainsider;KRONE;Группа Милан;;Санкт-Петербург
 SD;https://auto.ru/trailer/used/sale/krone/sd/16476342-24f7dfcb/;2011;2250000;800000;Refrigerator;KRONE;Монополия;;Санкт-Петербург
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16409772-17952b31/;2014;749000;500;Platform;KOGEL;;;Москва
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16656426-e8249741/;2008;1530000;680000;Refrigerator;KRONE;Триера Трак;;Дубровки
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16262046-dc7ab4f3/;2007;780000;1080000;Platform;SCHMITZ CARGOBULL;;;Шали
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16714907-a0fb92f7/;2012;1098000;1000000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16663516-99967d21/;2007;770000;1000000;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16663522-3b00d358/;2017;4800000;150000;Refrigerator;SCHMITZ CARGOBULL;Вираж;Цена с НДС;Санкт-Петербург
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16669454-cb844ff3/;2018;1750000;150000;Curtainsider;TONAR;;;Москва
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16666930-845dca9d/;2011;480000;700000;Curtainsider;KRONE;;;Дмитровск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16583792-557e3c57/;2015;1650000;;Curtainsider;MEUSBURGER;СТТ-АВТО;Цена с НДС;Домодедово
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16663522-3b00d358/;2017;4700000;150000;Refrigerator;SCHMITZ CARGOBULL;Вираж;;Санкт-Петербург
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16711707-d03ac392/;2012;1250000;10;Curtainsider;SCHMITZ CARGOBULL;700 МАШИН;Цена с НДС;Елино
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16583792-557e3c57/;2015;1550000;;Curtainsider;MEUSBURGER;СТТ-АВТО;;Домодедово
 SD;https://auto.ru/trailer/used/sale/krone/sd/16670468-1e137592/;2008;850000;800000;Curtainsider;KRONE;;;Белгород
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16678946-f2e35a3d/;2017;2257000;400000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
-SD;https://auto.ru/trailer/used/sale/krone/sd/16639840-303ca1c4/;2008;730000;111111;Curtainsider;KRONE;;;Нижний Новгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16712937-eb006b3b/;2013;3050000;10;Refrigerator;SCHMITZ CARGOBULL;700 МАШИН;Цена с НДС;Елино
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16678946-f2e35a3d/;2017;2178000;400000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;
+SD;https://auto.ru/trailer/used/sale/krone/sd/16720688-391c8a4b/;2012;1100000;500000;Platform;KRONE;;;Брянск
+Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16711180-dfb0021b/;2017;4012000;450000;Refrigerator;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16323380-8485dbb5/;2004;600000;500000;Curtainsider;KRONE;;;Великий Новгород
 SD;https://auto.ru/trailer/used/sale/krone/sd/16474594-7e1431e4/;2007;700000;500000;Curtainsider;KRONE;;;Смоленск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16669623-a391b1bb/;2013;1380000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456246-dc42b1c3/;2010;2140000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16668864-0e185cc7/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16668864-0e185cc7/;2015;1660000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Санкт-Петербург;;Санкт-Петербург
+SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16725746-b471bf9e/;2005;1500000;;Refrigerator;KRONE;;;Иркутск
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16712013-90f7e169/;2012;1220000;800;Curtainsider;SCHMITZ CARGOBULL;;;Красноярск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478080-17ffa5d9/;2017;4150000;460000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16616142-e3be3890/;2004;550000;500000;Curtainsider;KRONE;;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16569572-bb198fe0/;2007;1900000;;Refrigerator;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16346756-dc8226ab/;2003;750000;300;Curtainsider;KRONE;;;Дивное
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16655190-71777b0f/;2016;1770000;;Curtainsider;SCHMITZ CARGOBULL;ГРУЗ СОЮЗ;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16652752-19999a0d/;2011;1060000;400000;Curtainsider;KRONE;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16679324-14abdd08/;2017;4450000;;Refrigerator;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16708160-4dc37db6/;2018;2250000;250000;Curtainsider;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16719358-4b45d06e/;2000;1300000;;Refrigerator;SCHMITZ CARGOBULL;;;Омск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16719826-4469be7c/;2011;1200000;800;Platform;KOGEL;;;Красноярск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16724918-89025ac0/;2003;400000;;Platform;KOGEL;;;Одинцово
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16575144-38422d5b/;2008;780000;;Platform;KOGEL;GROSS AUTO;Цена с НДС;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16673198-db497a25/;2014;1750000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16673198-db497a25/;2014;1730000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;;Москва
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16273164-cd6c7fb7/;2003;1370000;500000;Refrigerator;KRONE;;;Ставрополь
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16672300-f43807c4/;2011;2950000;;Refrigerator;SCHMITZ CARGOBULL;;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16629520-a403829e/;2012;1250000;10;Curtainsider;SCHMITZ CARGOBULL;700 МАШИН;;Елино
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16670332-0abaab49/;2001;400000;;Platform;KOGEL;;;Берёзовский
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16685180-7cd26feb/;2012;1040000;199000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16553972-9b4dc319/;2008;955000;;Curtainsider;SCHMITZ CARGOBULL;GROSS AUTO;;Москва
-NS;https://auto.ru/trailer/used/sale/wielton/ns/16545940-388dc9e3/;2012;950000;500000;Platform;WIELTON;;;Санкт-Петербург
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/15498681-12975281/;2016;1900000;200000;Curtainsider;SCHMITZ CARGOBULL;Группа ГРАССМАНН и ЛОМТЕВ;Цена с НДС;Москва
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16707454-2fcf713c/;2006;690000;;Curtainsider;SCHMITZ CARGOBULL;;;Ижевск
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16633612-e272f9cc/;2006;790000;700000;Curtainsider;KRONE;;;Рязань
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16569782-7256a787/;2018;5010000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16660666-40854b43/;2016;1875000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16633546-56ce5974/;2010;2400000;650;Refrigerator;SCHMITZ CARGOBULL;;;Пенза
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16637390-7f897995/;2015;1600000;360000;Curtainsider;MEUSBURGER;Триера Трак;;Дубровки
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16718584-39481f50/;2017;2178000;450000;Curtainsider;KRONE;M7 TRUCK Уфа;;Авдон
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16364802-c2bb32a1/;2006;1700000;520;Refrigerator;SCHMITZ CARGOBULL;;;Донецк
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16562000-9781df76/;2016;2030000;170000;Curtainsider;SCHMITZ CARGOBULL;;;Липецкая область
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16670464-12b9335b/;2007;880000;550000;Curtainsider;SCHMITZ CARGOBULL;;;Белгород
+SD;https://auto.ru/trailer/used/sale/krone/sd/16692180-588634be/;2016;1949999;;Curtainsider;KRONE;;;Набережные Челны
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16562000-9781df76/;2016;2150000;170000;Curtainsider;SCHMITZ CARGOBULL;;;Липецкая область
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16690366-c552ff8b/;2014;3250000;600000;Refrigerator;SCHMITZ CARGOBULL;CargoLine group;;Ольша
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16706920-e0485ace/;2015;3700000;480000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Москва;;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16612580-f0cc6871/;2000;1150000;;Refrigerator;SCHMITZ CARGOBULL;;;Тверь
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16666940-9c3e3492/;2018;4830000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16663926-bf1eb653/;2019;2620000;20000;Curtainsider;KRONE;Вест Групп;Цена с НДС;Красногорск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16663926-bf1eb653/;2019;2700000;20000;Curtainsider;KRONE;Вест Групп;;Красногорск
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16327520-3e3a89f4/;2017;2500000;;Refrigerator;TONAR;;;Бугульма
 SD;https://auto.ru/trailer/used/sale/krone/sd/16663166-b576d36b/;2011;950000;;Platform;KRONE;;;Воронеж
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16636890-66584e02/;2014;3500000;;Refrigerator;SCHMITZ CARGOBULL;ГРУЗ СОЮЗ;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16658454-469b1d1e/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
-SD;https://auto.ru/trailer/used/sale/krone/sd/16415429-e0136799/;2008;669000;;Curtainsider;KRONE;PRO АВТО;;Люберцы
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16388128-a6c68583/;2011;1650000;;Curtainsider;SCHMITZ CARGOBULL;;;Ульяновск
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16669252-193274e6/;2005;1500000;;Refrigerator;KRONE;;;Москва
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16679242-50f07ca6/;2008;745000;300000;Curtainsider;SCHMITZ CARGOBULL;Компания Автогород24;;Москва
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16656680-2228a123/;2008;820000;450000;Curtainsider;KRONE;;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16660076-1d0a475d/;2006;2400000;700000;Curtainsider;SCHMITZ CARGOBULL;;;Стерлитамак
+SD;https://auto.ru/trailer/used/sale/krone/sd/16724602-d67194a8/;2007;800000;;Curtainsider;KRONE;;;Нижний Тагил
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16695268-3da554c1/;2012;1150000;;Curtainsider;KOGEL;PRO АВТО;Цена с НДС;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16707134-c5a18246/;2016;3890000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679392-535e403b/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16353024-4cbb030f/;2017;2100000;90000;Curtainsider;KRONE;ООО Группа Авто;Цена с НДС;Рязань
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679392-535e403b/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16652068-cc7922c4/;2005;670000;1229742;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16578934-d6bf57a6/;2015;3695000;450000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Гипермаркет;;Ростов-на-Дону
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16520094-f00e109e/;2006;1650000;;Refrigerator;SCHMITZ CARGOBULL;;;Омск
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16671936-153dc596/;2006;550000;700000;Curtainsider;SCHMITZ CARGOBULL;;;Воронеж
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16616696-6633b4df/;2005;800000;;Curtainsider;SCHMITZ CARGOBULL;;;Санкт-Петербург
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16699296-a0069e06/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16410776-f4f5c60c/;2005;580000;222333;Curtainsider;KRONE;;;Краснодар
-SD;https://auto.ru/trailer/used/sale/krone/sd/16557740-7254ce50/;2018;4890000;;Refrigerator;KRONE;Русбизнесавто-Пермь;Цена с НДС;
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16552416-2997ee4a/;2017;2190000;135000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;;Дубровки
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16665348-08be4157/;2015;1050000;780000;Platform;SCHMITZ CARGOBULL;;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714339-00d3c0c7/;2007;1550000;;Refrigerator;SCHMITZ CARGOBULL;;;Барнаул
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16630068-a0d3a725/;2019;5250000;180000;Refrigerator;SCHMITZ CARGOBULL;;;Ижевск
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16674260-aaacc8f5/;2007;600000;;Curtainsider;TONAR;;;Челябинск
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16680770-0fdaa51d/;2007;510000;300000;Curtainsider;TONAR;;;Брянск
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16700018-746405da/;2016;1500000;110000;Curtainsider;KRONE;;;Гулькевичи
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16535966-7e91df24/;2011;2390000;799000;Refrigerator;SCHMITZ CARGOBULL;КОМДОРАВТО;;Мытищи
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16343884-9d05560a/;2006;700000;600000;Platform;KRONE;;;Смоленск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16679160-5593cd79/;2011;1100000;;Curtainsider;KRONE;ГРУЗ СОЮЗ;;Москва
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16609611-ad60ec64/;2019;4660000;160000;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16314222-da940f2b/;2016;1920000;300000;Curtainsider;KRONE;КРОНЕ СканБалт;Цена с НДС;Химки
+SD;https://auto.ru/trailer/used/sale/krone/sd/16679160-5593cd79/;2011;990000;;Curtainsider;KRONE;ГРУЗ СОЮЗ;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/10603240-81adc412/;2008;900000;200000;Platform;KRONE;;;Брянск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16608484-0a9f50ca/;2008;920000;600000;Curtainsider;KRONE;;;Михайловка
 S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16075576-41243a15/;2007;850000;;Curtainsider;SCHMITZ CARGOBULL;;;Череповец
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16666746-5303ddbb/;2018;2300000;110000;Curtainsider;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16646798-f3172c78/;2018;4350000;200000;Refrigerator;SCHMITZ CARGOBULL;Вираж;Цена с НДС;Санкт-Петербург
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16665120-d282c389/;2018;2470000;120000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16715789-6bb5f1f1/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16692192-edf3d5ec/;2012;850000;;Curtainsider;SCHMITZ CARGOBULL;BS-Truck;;
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16646798-f3172c78/;2018;4450000;200000;Refrigerator;SCHMITZ CARGOBULL;Вираж;Цена с НДС;Санкт-Петербург
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456210-d451dcb5/;2010;2140000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16302278-d50a21e3/;2005;650000;;Platform;SCHMITZ CARGOBULL;;;Калининград
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16648298-b59398a9/;2006;700000;1000000;Curtainsider;KOGEL;;;Сарапул
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16678040-4301672e/;2013;1349000;;Curtainsider;KRONE;;;Воронеж
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16678894-cdcb6d55/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16639272-a9cb5b05/;2008;940000;;Curtainsider;KRONE;Транзит-Дон Москва;Цена с НДС;Москва
-SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16318248-fd8c8245/;2005;890000;;Refrigerator;KRONE;;;Владивосток
+SD;https://auto.ru/trailer/used/sale/krone/sd/16716269-2ddfc1ea/;2017;1880000;;Curtainsider;KRONE;;;Железногорск
+SCB24;https://auto.ru/trailer/used/sale/kogel/scb24/16692040-12a372ce/;2008;1480000;;Refrigerator;KOGEL;PRO АВТО;;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16706916-363c3b0d/;2015;3700000;420000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Москва;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16678894-cdcb6d55/;2015;1695000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16708614-1727c2f4/;2006;850000;;Curtainsider;KOGEL;;;Рязань
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16604824-a61517f7/;2005;490000;;Curtainsider;KRONE;Трак-Сток;Цена с НДС;Москва
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16593592-f5a39ebb/;2012;1200000;500000;Curtainsider;KOGEL;;;Владимир
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16665102-081bd1d8/;2018;2470000;120000;Curtainsider;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16479214-23a77411/;2014;3650000;570000;Refrigerator;KRONE;;;Санкт-Петербург
-SD;https://auto.ru/trailer/used/sale/krone/sd/16637834-dc906395/;2007;550000;100000;Platform;KRONE;;;Санкт-Петербург
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16677602-9bfb02bb/;2004;800000;500000;Refrigerator;KRONE;;;Брянск
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16725620-b0e049d9/;2007;890000;;Curtainsider;SCHMITZ CARGOBULL;;;Челябинск
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16720838-fc0fb878/;2004;650000;950000;Curtainsider;SCHMITZ CARGOBULL;;;Мценск
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16593592-f5a39ebb/;2011;1100000;500000;Curtainsider;KOGEL;;;Владимир
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16686402-574586e2/;2011;850000;900000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;
+SD;https://auto.ru/trailer/used/sale/krone/sd/16234402-0746fe4c/;2011;1100000;;Platform;KRONE;;;Петрозаводск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16708350-d69ef3a4/;2011;1200000;;Curtainsider;KRONE;Транзит-Дон Краснодар;Цена с НДС;Краснодар
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16696830-a868ea89/;2003;1150000;;Refrigerator;SCHMITZ CARGOBULL;;;Тверь
+SD;https://auto.ru/trailer/used/sale/krone/sd/16689146-ef0e6e17/;2008;940000;560000;Curtainsider;KRONE;Транзит-Дон Гипермаркет;;Ростов-на-Дону
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16715731-1acc734a/;2011;2450000;100000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
 SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16517118-739c38fd/;2012;900000;299000;Curtainsider;SCHMITZ CARGOBULL;ТРАК ПЛАТФОРМА;Цена с НДС;Люберцы
 NS;https://auto.ru/trailer/used/sale/wielton/ns/16522050-0b2fdb08/;2004;799000;;Refrigerator;WIELTON;ООО Кварта-Трейд;;Ростов-на-Дону
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16669793-9c27bb76/;2018;2370000;300000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16652766-25673a3f/;2018;5086700;;Refrigerator;SCHMITZ CARGOBULL;АЙС КУБ;Цена с НДС;Солнечногорск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16673918-679964a9/;2007;2050000;;Refrigerator;SCHMITZ CARGOBULL;;;Смоленск
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16717738-acf357c5/;2015;1350000;;Platform;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;;Москва
+SW 24;https://auto.ru/trailer/used/sale/schmitz_cargobull/sw_24/16565246-80bce9b2/;2011;1200000;500;Curtainsider;SCHMITZ CARGOBULL;;;Электросталь
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16456202-8f113240/;2010;2140000;;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;;Кимовск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16639056-b3403acd/;2018;4940000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16691686-d181a597/;2017;2270000;100000;Curtainsider;KRONE;M7 TRUCK Москва;;Чёрная Грязь
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16718230-4cc37cfe/;2006;690000;;Curtainsider;KRONE;PRO АВТО;;Люберцы
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16320616-1ba9a3cf/;2003;1550000;600000;Refrigerator;KRONE;;;Тында
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16639992-5f3581ef/;2018;4960000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16652426-4a7b72da/;2012;2350000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Москва и Московская область
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16711380-b1f5181b/;2005;650000;1500000;Curtainsider;KRONE;;;Челябинск
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16707816-7be635a5/;2018;2150000;;Curtainsider;KOGEL;PRO АВТО;Цена с НДС;Люберцы
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16708330-03efc24b/;2011;1200000;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16668024-6f379f7c/;2006;2000000;;Refrigerator;SCHMITZ CARGOBULL;;;Нижний Новгород
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16622524-c1e75965/;2013;2790000;680000;Refrigerator;KRONE;Триера Трак;Цена с НДС;Дубровки
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16636332-48523a3d/;2006;670000;700000;Curtainsider;SCHMITZ CARGOBULL;;;Челябинск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16689362-8b3a3a67/;2018;4850000;50000;Refrigerator;KRONE;Юнион КРОНЕ Кимовск;;Кимовск
 9746;https://auto.ru/trailer/used/sale/tonar/9746/16396076-c7784607/;2008;700000;700000;Curtainsider;TONAR;;;Ижевск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16655776-fb314395/;2017;4490000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Екатеринбург
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16676176-7013479e/;2008;2100000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Тюмень
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570608-d150786d/;2019;5402647;230000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679388-c66739ee/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16725280-a3592e0b/;2018;4994677;;Refrigerator;SCHMITZ CARGOBULL;Шмитц Каргобулл Руссланд;Цена с НДС;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16570608-d150786d/;2019;5449647;230000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16634858-37389d4d/;2019;2600000;41122;Curtainsider;SCHMITZ CARGOBULL;Шмитц Каргобулл Руссланд;Цена с НДС;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679388-c66739ee/;2015;1660000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
+SD;https://auto.ru/trailer/used/sale/krone/sd/16704302-b85c37fd/;2008;970000;;Platform;KRONE;;;Тосно
 SD;https://auto.ru/trailer/used/sale/krone/sd/16545462-c1fa4774/;2006;600000;400;Platform;KRONE;;;Казань
-9746;https://auto.ru/trailer/used/sale/tonar/9746/16681336-b6dc03b8/;2015;1000000;200000;Curtainsider;TONAR;;;Видное
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16712327-487b3297/;2005;950000;;Curtainsider;KRONE;;;Красноярск
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16697488-86c056dd/;2015;1890000;;Curtainsider;SCHMITZ CARGOBULL;Глобал Трак Сейлс Москва;Цена с НДС;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16714953-e686aabc/;2017;3901000;450000;Refrigerator;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;Набережные Челны
 Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16650342-b38eeef1/;2007;740000;;Curtainsider;KRONE;;;Ижевск
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16682100-affda271/;2008;780000;;Curtainsider;SCHMITZ CARGOBULL;КомТоргТранс;;Подольск
+9746;https://auto.ru/trailer/used/sale/tonar/9746/16725236-6625d547/;2011;670000;;Refrigerator;TONAR;;;Липецк
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/15990340-79e02065/;2008;795000;;Platform;SCHMITZ CARGOBULL;;;Брянск
 SD;https://auto.ru/trailer/used/sale/krone/sd/16388140-c0ff0992/;2009;2500000;300000;Refrigerator;KRONE;АвтоБан;;Москва
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16661150-c620a979/;2018;2450000;70000;Curtainsider;KOGEL;АГТ-Трейдинг;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16682542-9373fcbe/;2012;1290000;10000;Curtainsider;KRONE;;;Тверь
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16662704-032016eb/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Казань;;Новониколаевский
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16630734-431a1c99/;2017;4450000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Тосно
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16591642-67768b38/;2004;480000;;Platform;KRONE;;;Санкт-Петербург
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16671214-965563c2/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва;;Чёрная Грязь
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16409802-ef64f1e2/;2015;3290000;500;Refrigerator;SCHMITZ CARGOBULL;;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16653910-f82c647d/;2007;1650000;;Refrigerator;KRONE;Глобал Трак Сейлс Москва;;Москва
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16441606-a78245e6/;2017;4150000;500000;Refrigerator;SCHMITZ CARGOBULL;"ООО ""РЕД СТАР"" МАЗ Смоленск";;Смоленск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16682542-9373fcbe/;2012;1215000;10000;Curtainsider;KRONE;;;Тверь
+S24;https://auto.ru/trailer/used/sale/kogel/s24/16661150-c620a979/;2018;2250000;70000;Curtainsider;KOGEL;АГТ-Трейдинг;;Москва
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16721584-012cc8db/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Уфа;;Авдон
+SV24;https://auto.ru/trailer/used/sale/kogel/sv24/16695164-731898fe/;2008;1000000;;Refrigerator;KOGEL;PRO АВТО;Цена с НДС;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16630734-431a1c99/;2017;4790000;;Refrigerator;SCHMITZ CARGOBULL;ClassTrucks;;Тосно
+SD;https://auto.ru/trailer/used/sale/krone/sd/16490380-e87f7dbe/;2013;1750000;;Curtainsider;KRONE;;;Тюмень
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16645504-1e2d696c/;2017;4700000;120000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
 9988;https://auto.ru/trailer/used/sale/tonar/9988/16382606-5cc8d3f8/;2015;740000;;Curtainsider;TONAR;;;Набережные Челны
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16620762-a852dcca/;2010;2300000;50;Refrigerator;SCHMITZ CARGOBULL;Юнион КРОНЕ Кимовск;Цена с НДС;Кимовск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16673414-52ce37b3/;2007;2100000;650000;Refrigerator;SCHMITZ CARGOBULL;;;Ливны
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16664622-a474b18c/;2019;4500000;50575;Refrigerator;KRONE;Мега-Транзит;;Каменск-Шахтинский
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16599312-2223aea2/;2004;390000;;Platform;KOGEL;PRO АВТО;;Люберцы
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16716910-e6dbc0cb/;2010;3400000;680000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;Цена с НДС;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478176-42720ca8/;2018;4500000;290000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16666668-c031a82f/;2012;1170000;800000;Curtainsider;KOGEL;M7 TRUCK Набережные Челны;;Набережные Челны
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16679382-45112002/;2015;1730000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-SD;https://auto.ru/trailer/used/sale/krone/sd/16568654-95ba3516/;2008;850000;;Curtainsider;KRONE;GROSS AUTO;Цена с НДС;Москва
+Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16724162-2a622f11/;2018;2370000;400000;Curtainsider;KRONE;M7 TRUCK Набережные Челны;;Набережные Челны
 SCS Mega;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs_mega/16640328-5d352dbe/;2013;1280000;450000;Curtainsider;SCHMITZ CARGOBULL;ООО Группа Авто;;Рязань
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16635630-21f69865/;2011;850000;399000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
-SW24;https://auto.ru/trailer/used/sale/kogel/sw24/16488906-c15445ea/;2011;2400000;500000;Refrigerator;KOGEL;;;Новороссийск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16674238-1d5c61c3/;2014;3400000;300000;Refrigerator;SCHMITZ CARGOBULL;CargoLine group;Цена с НДС;Ольша
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16686548-b5f43662/;2008;950000;800000;Curtainsider;SCHMITZ CARGOBULL;;;Спасск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16698822-86d1f49b/;2011;1280000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;Цена с НДС;Екатеринбург
 NS;https://auto.ru/trailer/used/sale/wielton/ns/16621166-f003e511/;2010;1050000;880000;Curtainsider;WIELTON;;;Белгород
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16663382-777d0b52/;2007;770000;445688;Curtainsider;SCHMITZ CARGOBULL;ООО ИТЕКО Россия;Цена с НДС;Нижний Новгород
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16646160-61113e32/;2017;3700000;304688;Refrigerator;SCHMITZ CARGOBULL;ЕвроОйлТрак;Цена с НДС;Набережные Челны
-NS;https://auto.ru/trailer/used/sale/wielton/ns/16609799-6260b738/;2012;1600000;230000;Refrigerator;WIELTON;Лаки Логистик;;Москва
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16678650-6bdc1ebe/;2019;2300000;100000;Curtainsider;KOGEL;ЮгТрейлер;Цена с НДС;Краснодар
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16594310-d6e6994a/;2019;2630000;70000;Curtainsider;SCHMITZ CARGOBULL;CargoLine group;Цена с НДС;Ольша
+;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16671020-a3ccd919/;2015;1660000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
 SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16669739-c4ca675f/;2019;2490000;63000;Curtainsider;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16671020-a3ccd919/;2015;1730000;200000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16659396-4acbb5b8/;2018;2350000;80;Curtainsider;SCHMITZ CARGOBULL;;;Тула
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16715851-e3d5c0f6/;2008;850000;;Curtainsider;KOGEL;;;Санкт-Петербург
 Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16671060-f12cd941/;2019;4660000;149900;Refrigerator;KRONE;Группа Милан;Цена с НДС;Санкт-Петербург
+S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16725072-3d1dd392/;2003;700000;;Curtainsider;SCHMITZ CARGOBULL;;;Дмитровск
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16655122-bd765c7a/;2016;4000000;210000;Refrigerator;SCHMITZ CARGOBULL;Мега-Транзит;Цена с НДС;Каменск-Шахтинский
-SD;https://auto.ru/trailer/used/sale/krone/sd/16635478-c46353e0/;2014;1700000;540000;Curtainsider;KRONE;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16678702-c49249bc/;2001;800000;100000;Curtainsider;SCHMITZ CARGOBULL;;;Владимир
 Krone;https://auto.ru/trailer/used/sale/krone/krone/16592030-e036864d/;2010;950000;;Curtainsider;KRONE;;;Самара
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16583290-491b1977/;2015;3700000;350000;Refrigerator;SCHMITZ CARGOBULL;Транзит-Дон Москва;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16660764-0102dce7/;2018;4120000;;Refrigerator;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
-SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16600328-2f85ed93/;2015;1349777;600000;Curtainsider;SCHMITZ CARGOBULL;ТТ777;Цена с НДС;Москва
+SD;https://auto.ru/trailer/used/sale/krone/sd/16487098-4d5d2f8a/;2008;870000;;Curtainsider;KRONE;;;Санкт-Петербург
 ;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16649956-fea92ed6/;2015;1593000;600000;Curtainsider;MEUSBURGER;M7 TRUCK Москва Юг;;Москва
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16605061-be36694e/;2011;2349000;200000;Refrigerator;KRONE;M7 TRUCK Москва Юг;;Москва
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16405298-d82e728a/;2010;1270000;;Curtainsider;SCHMITZ CARGOBULL;;;Каменка
-SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16659382-0ac298dc/;2018;2350000;;Curtainsider;SCHMITZ CARGOBULL;;;Тула
-Krone;https://auto.ru/trailer/used/sale/krone/krone/15648260-fd8bcc3e/;2011;1880000;600000;Refrigerator;KRONE;;;Смоленск
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16664103-f493ee93/;2012;2560000;620000;Refrigerator;SCHMITZ CARGOBULL;Триера Трак;Цена с НДС;Дубровки
-S01;https://auto.ru/trailer/used/sale/schmitz_cargobull/s01/16677540-945df252/;2007;750000;111111;Curtainsider;SCHMITZ CARGOBULL;;;Нижний Новгород
-SD;https://auto.ru/trailer/used/sale/krone/sd/16371840-51205056/;2011;1920000;600;Refrigerator;KRONE;;;Бийск
-;https://auto.ru/trailer/used/sale/meusburger/tentovanniy_polupricep/16681578-c5fdafe1/;2019;3400000;100000;Curtainsider;MEUSBURGER;M7 TRUCK Набережные Челны;;Набережные Челны
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16623296-378d8637/;2005;620000;;Curtainsider;KRONE;;;Орёл
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16543758-1b359da7/;2015;1700000;579000;Platform;KOGEL;ТРАНСАЛЬЯНС Москва;Цена с НДС;Солнечногорск
+Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16605061-be36694e/;2011;2100000;200000;Refrigerator;KRONE;M7 TRUCK Москва Юг;;Москва
+Krone;https://auto.ru/trailer/used/sale/krone/krone/16720594-f8660233/;2011;1250000;545000;Curtainsider;KRONE;;;Воронеж
+SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16716557-1cedebfa/;2012;1190000;777;Curtainsider;KOGEL;ООО Кубань-Скан;;Краснодар
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16623296-378d8637/;2005;600000;;Curtainsider;KRONE;;;Орёл
 SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16416437-25df3ded/;2011;950000;299000;Curtainsider;KOGEL;ТРАК ПЛАТФОРМА;;Люберцы
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16643760-c5defb6e/;2017;1800000;350000;Curtainsider;KRONE;TELS Group;;Москва
 SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16649628-8fde8afc/;2012;1450000;;Curtainsider;KRONE;BS-Truck;Цена с НДС;Набережные Челны
-SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16676380-36febed6/;2015;1050000;700000;Platform;SCHMITZ CARGOBULL;;;Москва
-Cool Liner;https://auto.ru/trailer/used/sale/krone/cool_liner/16518448-3c9ed26a/;2012;2660000;480000;Refrigerator;KRONE;Триера Трак;Цена с НДС;Дубровки
-SN24;https://auto.ru/trailer/used/sale/kogel/sn24/16578788-481ebcd2/;2013;1350000;;Curtainsider;KOGEL;Global Truck Sales Екатеринбург;;Екатеринбург
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16696974-3bd8f70a/;2016;4200000;400000;Refrigerator;SCHMITZ CARGOBULL;"ООО""Трейд Моторс";Цена с НДС;Домодедово
+SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/15727945-4ad7586c/;2008;780000;;Curtainsider;KRONE;;;Псков
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16478068-5c7377cc/;2017;4155000;510000;Refrigerator;SCHMITZ CARGOBULL;ГРИН ЛАЙН;;Смоленск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16496778-b61aa88f/;2018;4100000;;Refrigerator;KRONE;Технический центр Восток;;Всеволожск
-SD;https://auto.ru/trailer/used/sale/krone/sd/16446167-be48df77/;2013;3200000;;Refrigerator;KRONE;;;Муром
-;https://auto.ru/trailer/used/sale/koluman/polupricep_shtorno_bortovoy/16648420-732de40f/;2018;1950000;185000;Curtainsider;KOLUMAN;БорнТракСервис;Цена с НДС;Москва
+SCB;https://auto.ru/trailer/used/sale/schmitz_cargobull/scb/16721846-aa5e9828/;2018;2600000;10000;Curtainsider;SCHMITZ CARGOBULL;Вест Групп;Цена с НДС;Красногорск
+;https://auto.ru/trailer/used/sale/koluman/polupricep_shtorno_bortovoy/16648420-732de40f/;2018;1800000;185000;Curtainsider;KOLUMAN;БорнТракСервис;;Москва
 SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16656532-57a98a42/;2017;4700000;160000;Refrigerator;SCHMITZ CARGOBULL;АГТ-Трейдинг;;Москва
-Profi Liner;https://auto.ru/trailer/used/sale/krone/profi_liner/16664317-525d274d/;2008;939900;;Curtainsider;KRONE;Транзит-Дон Гипермаркет;Цена с НДС;Ростов-на-Дону
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16664323-ff607a27/;2018;4100000;250000;Refrigerator;SCHMITZ CARGOBULL;АТРАКС;;Набережные Челны
-Krone;https://auto.ru/trailer/used/sale/krone/krone/16596306-10eda0ee/;2005;500000;;Platform;KRONE;Форсаж;;Котельники
-SDP 27;https://auto.ru/trailer/used/sale/krone/sdp_27/16663068-3cddf716/;2007;780000;500000;Curtainsider;KRONE;;;Москва
+SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16694808-c21cab32/;2016;4240000;627000;Refrigerator;SCHMITZ CARGOBULL;АЙС КУБ;Цена с НДС;Солнечногорск
+SPR;https://auto.ru/trailer/used/sale/schmitz_cargobull/spr/16131312-418ee1fa/;2012;1250000;;Curtainsider;SCHMITZ CARGOBULL;Алт Авто;;Барнаул
 SDR 27;https://auto.ru/trailer/used/sale/krone/sdr_27/16470150-a8056e70/;2004;890000;;Refrigerator;KRONE;SAEM-truck;Цена с НДС;Барнаул
-SKO;https://auto.ru/trailer/used/sale/schmitz_cargobull/sko/16668396-6185bcb5/;2016;4100000;500000;Refrigerator;SCHMITZ CARGOBULL;;;Москва
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16724064-baecaff2/;2006;800000;500000;Curtainsider;SCHMITZ CARGOBULL;;;Красноярск
+SD;https://auto.ru/trailer/used/sale/krone/sd/16695692-64a02bd9/;2018;2490000;150000;Curtainsider;KRONE;АГТ-Трейдинг;;Москва
 SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16681924-a8ac0d88/;2001;480000;;Curtainsider;SCHMITZ CARGOBULL;КомТоргТранс;;Подольск
-S24;https://auto.ru/trailer/used/sale/kogel/s24/16509588-1cb50cd6/;2014;2720000;500000;Refrigerator;KOGEL;AVTOKOMMERZ-TRUCKS;;Михнево
 S24;https://auto.ru/trailer/used/sale/kogel/s24/16611968-ff007af7/;2007;810000;;Curtainsider;KOGEL;ГРУЗ СОЮЗ;;Москва
-SD;https://auto.ru/trailer/used/sale/krone/sd/16640006-4f48baa7/;2012;1280000;680000;Curtainsider;KRONE;Триера Трак;Цена с НДС;Дубровки
-SD;https://auto.ru/trailer/used/sale/krone/sd/16673178-61d626a9/;2011;1330000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
+SCS;https://auto.ru/trailer/used/sale/schmitz_cargobull/scs/16604620-a1e52614/;2011;1115000;;Curtainsider;SCHMITZ CARGOBULL;M7 TRUCK Набережные Челны;;
+SD;https://auto.ru/trailer/used/sale/krone/sd/16673178-61d626a9/;2011;1290000;;Curtainsider;KRONE;Global Truck Sales Екатеринбург;;Екатеринбург
