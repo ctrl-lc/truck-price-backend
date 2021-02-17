@@ -1,4 +1,5 @@
-from lxutils import *
+from lxutils import config
+from lxutils.log import log, timer
 import pandas as pd
 import aiohttp, asyncio, sys
 
@@ -13,10 +14,10 @@ def main():
 
     log('Complete!')
 
-    
+
 def prepare():
     global reg, missing, new_number
-    
+
     with timer('Stage 1 - preparation'):
         log('Reading the stock files')
         stock = pd.read_csv(config['dirs']['data'] + '/trucks - evaluated.csv')['Location']
@@ -42,9 +43,9 @@ def prepare():
 
 
 def fetch():
-    
+
     global missing
-    
+
     with timer('Stage 2 - Fetching geo data from dadata for new entries'):
 
         if sys.version_info[0] == 3 and sys.version_info[1] >= 8 and sys.platform.startswith('win'):
@@ -78,7 +79,7 @@ async def fetch_slice (sl, session):
     payload = payload.encode('utf-8')
 
     cities = []
-    
+
     async with session.request("POST", url, headers=headers, data=payload) as response:
         if response.status == 200:
             log ('Received location data for "{}"'.format (sl))
@@ -92,7 +93,7 @@ async def fetch_slice (sl, session):
 
             if len(cities) == 1:
                 return cities[0]
-            
+
             if len(cities) > 1: #пытаемся посмотреть - а вдруг там только одно вхождение с качеством 4?
                 cities_qc_4 = list(filter(lambda x: x['data']['qc_geo'] == '4', cities))
                 if len(cities_qc_4) == 1:
@@ -105,7 +106,7 @@ async def fetch_slice (sl, session):
 
 def save():
     global reg, missing, new_number
-    
+
     with timer('Stage 3 - Writing down the regions file'):
         reg = reg.append(missing)
         reg['number'] = new_number

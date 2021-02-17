@@ -1,6 +1,6 @@
-from subprocess import run, CalledProcessError
+from subprocess import run
 from lxutils.read_config import config
-from lxutils.log import timer, log, log_debug
+from lxutils.log import timer, log
 from time import monotonic
 
 
@@ -27,7 +27,7 @@ def run_bigmler(section_label, delimiter=','):
     args = [config['execs']['bigmler'],
             *command.split(' '),
             '--test', f'{config["dirs"]["data"]}\\{input_file}',
-            '--output', f'{config["dirs"]["data"]}\\{output_file}', 
+            '--output', f'{config["dirs"]["data"]}\\{output_file}',
             '--prediction-info', 'full',
             '--prediction-header',
             '--remote',
@@ -47,6 +47,6 @@ def gauge(file):
 
 # Use the application default credentials
 import firebase_admin
-from firebase_admin import credentials, firestore 
+from firebase_admin import credentials, firestore
 firebase_admin.initialize_app()
 db = firestore.client()

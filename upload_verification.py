@@ -2,7 +2,8 @@ import pandas as pd
 import datetime, urllib
 from tqdm import tqdm
 
-from lxutils import *
+from lxutils.log import log
+from lxutils import config
 from utils import db
 from firestore_batch import Batch
 

@@ -1,4 +1,5 @@
-from lxutils import *
+from lxutils import config
+from lxutils.log import log
 from utils import *
 from os import remove
 

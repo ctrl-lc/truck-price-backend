@@ -2,7 +2,8 @@
 
 from oauth2client.service_account import ServiceAccountCredentials
 
-from lxutils import *
+from lxutils.log import log, timer
+from lxutils import config
 
 # сортируем и кладем в full_stock1.csv
 

@@ -1,5 +1,5 @@
 from utils import *
-from lxutils import log
+from lxutils.log import log
 
 for c in config['scrapy_comments'].values():
     run_scrapy(c)

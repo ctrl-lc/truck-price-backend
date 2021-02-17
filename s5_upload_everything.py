@@ -1,5 +1,5 @@
 from utils import *
-from lxutils import *
+from lxutils.log import timer
 
 with timer('Uploading ads to Google Sheets'):
     import upload_stock

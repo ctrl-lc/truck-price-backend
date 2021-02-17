@@ -1,4 +1,4 @@
-from lxutils import *
+from lxutils.log import log
 from utils import *
 
 for e in [e for e in config.sections() if e.find('evaluate_') != -1]:
