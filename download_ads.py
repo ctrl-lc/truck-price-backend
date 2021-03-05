@@ -4,7 +4,8 @@ from firebase_admin import firestore
 import pandas as pd
 import datetime, urllib
 
-from lxutils import log, config
+from lxutils import config
+from lxutils.log import log
 from tqdm import tqdm
 from utils import db
 
